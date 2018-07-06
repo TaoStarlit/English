@@ -4,17 +4,21 @@
 
 仿射集，集合内几个点的权值之和线性组合为1，依旧在集合内； 
 
-a set $C$ is a affine set if the line between any two distinct points is also belong to C.
+A set $C\subseteq R^n$ is affline if the line through any two distinct points in $C$ lies in $C$.
 
-(generalized to more points and in mathematic language):
-a set $C$ is a affine set if for any distinct point $x_1,x_2,...,x_k \in C$ and any $\theta_1,\theta_2,...,\theta_k$, $\theta_1+\theta_2,...+\theta_k=1$, 
-the point $\theta_1x_1+\theta_2x_2,...+\theta_kx_k\in C$
+(generalized to more points and in mathematical language):
+a set $C$ is a affine set if for any distinct point $x_1,x_2,...,x_k \in C$, any $\theta_1,\theta_2,...,\theta_k \in R$, and $\theta_1+\theta_2,...+\theta_k=1$, 
+we have $\theta_1x_1+\theta_2x_2,...+\theta_kx_k\in C$
 
 凸集，仿射集的特例，权值必须大于0； 凸函数，定义域是凸集，而且任意两点直接的对应的弦大于曲线。
 
-roughly, speaking, a point in a convex set can be seen by every other point in the set. 
+roughly, speaking, a set is convex set if every point in the set can be seen by every other point in the set. 
+-- along an unobstructed straight path between them, where unobstructed means lying in the set.
 
-a set $C$ is a affine set if for any distinct point $x_1,x_2,...,x_k \in C$ and any $\theta_1,\theta_2,...,\theta_k>0$, $\theta_1+\theta_2,...+\theta_k=1$, the point $\theta_1x_1+\theta_2x_2,...+\theta_kx_k\in C$
+a set $C\subseteq R^n$ is a convex set if for any distinct point $x_1,x_2,...,x_k \in C$, any $\theta_1,\theta_2,...,\theta_k>0$, and $\theta_1+\theta_2,...+\theta_k=1$, we have $\theta_1x_1+\theta_2x_2,...+\theta_kx_k\in C$
+
+The convex hull of a set $C$, denoted $conv C$, is the set of all convex combinations of points in $C$: 
+$conv C=\{\theta_1x_1+\theta_2x_2,...+\theta_kx_k|x_i\in C,\theta_i\geq0, i=1,...,k,\theta_1+\theta_2,...+\theta_k=1\}$
 
 
 
