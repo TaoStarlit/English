@@ -5,9 +5,9 @@
 4. when you are writing, use your dictionary to help with spelling as well as the correct usage of a word.
 ### synonym, antonym, thesaurus
 a words that means the same / the opposite; a dictionary contains synonyms and antonyms
-### corpus, phonology, etymnology
+### corpus, phonology, etymology
 a large amount of written material organised to show how language works; the sound and pronunciation of words; the origin of words
-
+### noun, pronoun, verb, adjective, adverbial, preposition
 ## my answer:
 my answer of 1.2: BFACHDEG -- alright!!
 # Unit 22
