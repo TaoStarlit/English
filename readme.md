@@ -24,7 +24,8 @@ eg. help, every help I need some note to make the timeline very clear!!
     - with picture, it is very good to learn new word
 6. phrasal verbs in use -- long time - with the conversation
 7. primary grammar
-8. the IELST speaking (old one) comb by my self
+8. the IELST speaking (old one) comb by my self -- all browser on ipad can not edit and commit, so I have to send via gmail, and then edit on laptop
+9. Keke with IelsS old one
 
 your time -- 8pm school: speak out or ielts
 9pm home: discuss with chen  
