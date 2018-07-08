@@ -50,4 +50,51 @@ a prefix freely used in English to form verbs expressing a reversal of some acti
 my answer of 1.2: BFACHDEG -- alright!!
 ## the pronunciation I am not so sure:
 ### access, assess, synonym, antonym, thesaurus, corpus, phonology, etymology, adjective, adverbial, preposition, collocaion, prefix, suffix, formative, commendation, starvation, temptation, intensify
-# Unit 22
+
+# Unit 22 how to manage the list of word
+
+# Unit 23 but I turn to the writing task 1 1st:
+pie chart, line chart, bar chart/graph;  table; diagram; flow chart
+
+|fall|rise|unchanged|fluctuate|
+|---|---|---|---|
+|reach a low|reach a high|remain steady|unpredicatable|
+|downward trend|upward trend|steady|wildly|
+|sharp,steep,rapidly ->|<-significant,steadily,| plateau  ||
+|fall,drop,plunge|peak|constant, fixed, static||
+### preposition
+rose from 30% to 33%;  rose by 3%; rose between 1970 and 1990
+
+In 1970 the number fell to 10%; By 1970 the number had fallen to 10%
+### adjective+noun <-> verb+adverb
+There was a significant increase in the number of birds in 1994. <-> The number of bird increased significantly in 1994.
+
+other expression except there be noun? The number of people attending fell considerably in 2002. <-> There was a considerable fell in the number of people attending  in 2002.
+
+There was a noticealbe drop of 5 degrees in temperatures between 1880 and 1885 <-> the temperatures dropped noticeably by 5 degrees between 1880 and 1885
+
+### comparing; compared to/with
+Comparing the figures for 1999 and 2000, we can see an increase of 20%.
+
+Compared to the number of males, the number of femals is relatively low.  The number of males is quite large compared to/with the number f females.
+
+### leaned in 1.7
+The graph shows the amount of ... **annually** in America.
+
+### discribe a diagram or process
+firt, then, next, after this, finally
+
+simple present tense: The machine swithes off when the bag is full
+
+## answer
+1.3: 1,4 alright
+
+1.7 2 remain fairly static; 3 rose/increased; 4 peaked at; 5 increased dramatically; 6 by approximately 10% per year; 7 to 55 million with 7 years; 8 Following this sharp rising/increse 9 has rise gradually; 10 fell from .. to .. ; 11 by; 12 steadily/gradually; 13 by 1995 it had again reached; 14 the figure is still disappointing compared to ...
+
+6 from; 11 in  past not past perfect-- fell from 30 to 20 in 1995-- here from 30 can be remove or remain. in 1995 only for 20
+
+### plateau: steady on the high
+##  the pronunciation I am not so sure:
+### phrase, plunge, plateau
+
+words and phrases
