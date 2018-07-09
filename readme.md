@@ -10,6 +10,10 @@ eg. help, every help I need some note to make the timeline very clear!!
 
 ## the list of book I borrow from the library:
 1. advanced writing step-by-step (only 7 day) top-priority
+    - to achieve the score of 6.5-7 or high in the writing module of the Academic IELTS exam
+    - first task 2, then task 1
+    - task 2: 3 type:  advantage and disavantage; problem and solution essays; opinion essays
+    - exmainer are looking for 4 different things: vacabulary; grammar; organization; ideas and arguments.
 2. BBC speak-out intermediate student book-- copy the CD
 3. cambridge vocabulary for IELTS-- copy the CD
     - CD is for pronunciation part
