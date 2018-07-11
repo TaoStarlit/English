@@ -109,9 +109,9 @@ a lot of -> many; find it difficult to-> struggle to;  write a good essay -> pro
 #### paraphrase:
 find it adj. to do sth; --> think doing sth. is adv. adj. \ There is little --> There is something / are things. \ make better + make easier --> improve their writing skills. \ Personally, I believe if you want to ... then you need to. Finally, you need to
 ### struggle to, thoroughly
-It is true that many students struggle to write a high quality essay. But I do not agree there is little they can do to improve their essay or make the work less difficult.
+It is true that many students struggle to write a high quality essay. But I do not agree there is little they can do to improve their essays or to make the task less difficult.
 
-Although a lot of students think writing an good essay is quite difficult. There is still something they can do to improve there writing skills. Personally, I believe if you want to get a high score in the writing then you need make sure you have approch all the required point in the title in a logical and smooth way. Finally, I need to check your work and nurture your writing ability from pratice, making mistakes and refining your skills.
+To sum up, even though many students think writing essays is quite difficult. There is still something they can do to improve their writing skills. Personally, I believe if you want to get a high score in an exam situation then you need to make sure that you approch the essay question in a logical and organised way. Finally, you need to leave enough time to check over your work thoroughly at the end. (and nurture your writing ability from pratice, making mistakes and refining your skills.)
 
 ## paraphase: title VS the begining VS the conclusion
 ## Linking words
