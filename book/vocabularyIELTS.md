@@ -98,3 +98,8 @@ simple present tense: The machine swithes off when the bag is full
 ### phrase, plunge, plateau
 
 words and phrases
+
+
+# Unit 24 task 2  opinion do you agree
+## there is some thing you and do to imporve your writing
+## paraphase: title VS the begining VS the conclusion

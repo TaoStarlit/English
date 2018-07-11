@@ -1,4 +1,4 @@
-## preface recal the work shop hosted by a kind man
+## preface recall the work shop hosted by a kind man
 where is the stress
 
 
@@ -6,8 +6,8 @@ where is the stress
 - to practise listening for pronunciation features (sound, rhythm) and incorporating them into dialogues, role plays and presentations
 - to develop self-study pronunciation techniques with the use of a range of current audio-visual pronunciation resource materials
 
-### accent, taught, celebrity, politician
-- Does accent mattet?
+### accent, taught, celebrity, celebrate, politician
+- Does accent matter?
 - Were taught pronunciation?
 Do you have a favourite English speaker? E.g.celebrity,politician, neighbour...?
 
@@ -18,7 +18,7 @@ Do you have a favourite English speaker? E.g.celebrity,politician, neighbour...?
 
 |Stop consonants|Fricatives|Affricatives|Nasals,Laterals,Glides|
 |---|---|---|---|
-|unvoiced: p t k|unvoiced: f s th sh|ch j|m n ng|
+|unvoiced: p t k|unvoiced: f s th sh|ch j/ge|m n ng|
 |voiced: b d g|voiced: v z th s||l r w j h|
 
 
