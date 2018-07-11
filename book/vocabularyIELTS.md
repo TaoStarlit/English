@@ -1,3 +1,11 @@
+#Unit 1 Growing up
+## 1.2 1a listening
+### tough, touch; it at all , as I talked
+all the last releases <-(the new movies) &ensp  we don't have much in common any more (express changing X at all)
+But nowadays all we seem to do is argue and that causes a lot of conflict. &ensp he is a very approachable and, if I'm struggling with an assigment, I find her advice really helps me.
+My parent are quite old so I feel as though they're out of touch with the modern world. &ensp They don't seem to have any idea of what things cost. &ensp We used to fight a lot when we were growing up but there's a really close bond between us now.
+they just don't understand it at all (no contrast X as I talk). &ensp Luckily, Grandad shares my tastes.  &ensp violin; cello player 
+
 # Unit 21
 1. Try to use a monolingual (not bilinguial) dictionary because this will help practise your English more.
 2. a good dictionary will give you example sentences.
@@ -103,7 +111,7 @@ words and phrases
 # Unit 24 task 2  one opinion, do you agree or disagree? 
 ## there is some thing you and do to imporve your writing
 A lot of students find it difficult to write good essays. There is little that you can do to make your essays better or to make job easier.
-
+## paraphase: title VS the begining VS the conclusion
 #### replace the words:
 a lot of -> many; find it difficult to-> struggle to;  write a good essay -> produce high quality essay;  make sth better -> improve sth;  make the job easier -> make the work less difficult  (you replace the difficult by struggle, now you can use difficult again)
 #### paraphrase:
@@ -113,5 +121,15 @@ It is true that many students struggle to write a high quality essay. But I do n
 
 To sum up, even though many students think writing essays is quite difficult. There is still something they can do to improve their writing skills. Personally, I believe if you want to get a high score in an exam situation then you need to make sure that you approch the essay question in a logical and organised way. Finally, you need to leave enough time to check over your work thoroughly at the end. (and nurture your writing ability from pratice, making mistakes and refining your skills.)
 
-## paraphase: title VS the begining VS the conclusion
+
 ## Linking words
+
+Drawing a conclusion: (to summarize)to sum up; to summarize in conclusion; (reason and result) as a result; consequently; because of; therefore
+
+Introducing a contrasting idea: but, although, even though;  (try to use it accurately, eg. ,but or . But,)  however, nontheless, despite, while, whereas, on the other hand
+
+Sequencing ideas:
+Adding supporting ideas:
+Giving examples:
+Giving an alternative:
+Giving an explanation:
