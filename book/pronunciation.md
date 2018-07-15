@@ -1,6 +1,7 @@
 ## preface recall the work shop hosted by a kind man
 where is the stress
 
+waterbird, n+n, 1st syllable stressed
 
 ### dialogue, incorporate, with the use of, a range of
 - to practise listening for pronunciation features (sound, rhythm) and incorporating them into dialogues, role plays and presentations
@@ -21,6 +22,9 @@ Do you have a favourite English speaker? E.g.celebrity,politician, neighbour...?
 |unvoiced: p t k|unvoiced: f s th sh|ch j/ge|m n ng|
 |voiced: b d g|voiced: v z th s||l r w j h|
 
+branches [iz] oranges [-s] both are not about voice or not voice
+livez [vz] is voiced
+months [s] is unvoiced
 
 eg. Airflow is restricted and friction can be heard: f th(beneath) s
 

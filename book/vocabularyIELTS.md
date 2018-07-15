@@ -26,11 +26,20 @@ material: information; cloth
 A good dictionary will also tell you which other words can or need to **be with the word** you are checking. This is call collocaion. Collocation helps you use new words accurately in a sentence.
 
 eg. choice: have/make a ~; give/offer sb a choice; be faced with a choice; an informed choice; a choice between; a choice of ; by/from choice;  a bewildering/excellent choice;
-### word familes: re- -able -ment -tion mis- un- 
+### word familes: re- mis- un- 
 A prefix is a letter, or a group of letter, that can be added to the beginning of a word to make a new word.
 
 the re prefix means do again. e.g. reuse = to use again
 
+anti- ant: opposed to, or against -- antArctic pole; antivirus
+
+dis-: used form the opposite or negative -- disconnect
+
+mis-: a prefix meaning wrong, bad, or erroneous; wrongly, badly, or erroneously : misunderstanding; misfortune; misspelling; mistreat; mislead;   
+
+lack of; not: mistrust
+
+### -able -ment -tion -tory
 A suffix .... the end of ...
 
 the suffix able means it is possible to do something. e.g. assessable=it is possible to assess
@@ -43,13 +52,8 @@ the suffix able means it is possible to do something. e.g. assessable=it is poss
 
 -arian: a person who has a connection with, or belief in, the stated subject
 
-anti- ant: opposed to, or against -- antArctic pole; antivirus
-
-dis-: used form the opposite or negative -- disconnect
-
-mis-: a prefix meaning wrong, bad, or erroneous; wrongly, badly, or erroneously : misunderstanding; misfortune; misspelling; mistreat; mislead;   
-
-lack of; not: mistrust
+-tory: migratory: 1.form a personal agent noun from verb, eg. migrator any creature that migrate; -y, form adjectival derivatives directly from verbs
+or directly from verbs, denoting a place or object appropriate for the activity of the verb: dormitory; repository
 
 un-: a prefix meaning “not,” freely used as an English formative, giving negative or opposite force in adjectives and their derivative adverbs and nouns (unfair; unfairly; unfairness; unfelt; unseen; unfitting; unformed; unheard-of; un-get-at-able), and less freely used in certain other nouns (unrest; unemployment).
 

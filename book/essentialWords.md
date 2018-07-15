@@ -3,10 +3,29 @@
 
 
 ## AudioScript-1 The environmental impact of logging (lecturer)
-When you look at ..,you may notice only.  Close your look, shows there is a great more deal going on. ... a large variaty kinds of ___ animal, from tiny insects to large birds, such as owks. Insects live benife the bar providing sorts of food for many types of birds, __ birds nested to the __ and __ in the trunk. Small animals defend themself by hiding above the leaves. The benefit of trees also extend to __ aninmals. The shades of trees keep water cool, protecting the __ animal from the heat of the summer sun. The root hold on the soil, which keep it from being __ by the rain. This is a protection for a __ habitat, as it prevent the soil running to the rivers and polluting them. Clearly, trees are very important, if the forests vanish, because of the logging or other human activities. The impact on environment will be great.
+### terrestrial, aquatic, variety, beneath the bark, owls, squirrels, on the branches or in the trunk, erode 
+When you look at ..,you may notice only. A closer look shows there is a great deal more going on. ... a large variety of terrestrial animals, from tiny insects to large birds such as owls. Insects live beneath the bark, providing a source of food for many types of birds. Squirrels and birds nest on the branches or in the trunk. Small animals defend themselve by hiding among the leaves. The benefit of trees also extend to aquatic aninmals. The shade from trees keeps water cool, protecting the aqutic animals from the heat of the summer sun. The roots hold on to the soil, which keep it from being eroded by the rain. This is a protection for aquatic habitats, as it prevents the soil running into the rivers and polluting them. Clearly, trees are very important. If the forests vanish because of the logging or other activities, the impact on environment will be great.
+#### what you missed 
+1. closer , not close + a/your.  shows ==> so the subject is the look
+2. a variety of animals , not a variety kinds of
+3. sentence, doing ... a comma before doing
+4. themselves, among
+5. s, countable or not?   verb+s ==> the subject is singular or uncountable
+6. sentence | if + clause |sentence ==> the period should be in the 2nd |
 
 ## AudioScript-2 Bird Migration (tour guide)
-.. the Bird Centerara provides us with the opportunies to study of many acspects of the life of he ___ bird passed through here every year. this is the breedng ares. I would like to see the a number of walk today. On our right, just pass the entrance, I'll see a list of all the species .. I will see several alternative species as wee as __. They .. but leave out in autume, as they can not endure the cool in winter. .... you are not strict on the __, your should particularly careful just not stay out of the forbidden area, all along the __ to leave here. The restricted area protcet breeding bird from disturben. ... But for we are here, let's to contiune to the end of this __ on the left to the observation platform. ... You look around the __ and the water birds. I will leave our here to observe them as long as you like. And I will meet you afterwards in the gift ship. ... I can imagine what the fee that was, and what the __ to maintain it. .. Please consider giving your denation. I will find the box for the purpose along the __ right before you will arrive at the gift shop.
+### Sanctuary, migratory, nocturnal, autumn, trail, imperative, stray off, restricted, forbbiden, disturbance, feat
+.. the Bird Sanctuary provides us with the opportunty to study many acspects of the lives of the migratory birds that pass through here every year. This is a breeding area... we'll likely see the a number on our walk today. On our right, just pass the entrance, I'll see a list of all the species .. I will see several nocturnal species as well as diurnal. They spend the warm months here, but leave in autumn, as they can not endure our cool winters. .... it's imperative you are not stray off the trail, your are particularly careful not to stay out of the restricted area, all along the trail to left here. The restricted area protects breeding bird from disturbance. ... But before we head there, let's contiune to the end of this trail on the left, to the observation platform. ... You can look out over the wetlands from here to observe the waterbirds. I will leave you here to observe as long as you like. And I will meet you afterward at the gift ship. ... I can imagine what a feat that was, and what it takes to maintain it. .. Please consider giving your donation. You will find the box for that purpose along the trail right before you arrive at the gift shop.
+### what I missed
+1. yearly behavior --> simple present tense, not past
+2. introduce at 1st time --> a breeding area, not the
+3. prediction --> will likely do, not would like to, (desire)
+4. on/ off, stray off the trail
+5. for before, there/here, head there
+6. comma, to xx of on xx, to xx
+7. aftetward, afterwards
+8. in /at , at the gift shop
+9. the / that, having mention donation, for that purpose
 
 
 ## AudioScript-3
