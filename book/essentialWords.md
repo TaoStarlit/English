@@ -21,7 +21,7 @@ When you look at ..,you may notice only... A closer look shows there is a great 
 
 ## AudioScript-2 Bird Migration (tour guide)
 ### Sanctuary, migratory, nocturnal, autumn, trail, imperative, stray off, restricted, forbbiden, disturbance, feat
-.. the Bird Sanctuary provides us with the opportunty to study many acspects of the lives of the migratory birds that pass through here every year. This is a breeding area... we'll likely see the a number on our walk today. On our right, just pass the entrance, I'll see a list of all the species .. I will see several nocturnal species as well as diurnal. They spend the warm months here, but leave in autumn, as they can not endure our cool winters. .... it's imperative you are not stray off the trail, your are particularly careful to stay out of the restricted area, all along the trail to left here. The restricted area protects breeding bird from disturbance. ... But before we head there, let's contiune to the end of this trail on the left, to the observation platform. ... You can look out over the wetlands from here to observe the waterbirds. I will leave you here to observe as long as you like. And I will meet you afterward at the gift ship. ... I can imagine what a feat that was, and what it takes to maintain it. .. Please consider giving your donation. You will find the box for that purpose along the trail right before you arrive at the gift shop.
+.. the Bird Sanctuary provides us with the opportunty to study many acspects of the lives of the migratory birds that pass through here every year. This is a breeding area... we'll likely see the a number on our walk today. On our right, just pass the entrance, I'll see a list of all the species .. I will see several nocturnal species as well as diurnal. They spend the warm months here, but leave in autumn, as they can not endure our cool winters. .... it's imperative you are not stray off the trail, your are particularly careful to stay out of the restricted area, all along the trail to left here. The restricted area protects breeding bird from disturbance. ... But before we head there, let's contiune to the end of this trail on the left, to the observation platform. ... You can look out over the wetlands from here to observe the waterbirds. I will leave you here to observe as long as you like. And I will meet you afterwards at the gift ship. ... I can imagine what a feat that was, and what it takes to maintain it. .. Please consider giving your donation. You will find the box for that purpose along the trail right before you arrive at the gift shop.
 ### what I missed
 1. yearly behavior --> simple present tense, not past
 2. introduce at 1st time --> a breeding area, not the
@@ -59,7 +59,7 @@ I *read some plants are actually* able to  determine when they've lost enough mo
 .. so they can accumulate water taken from the deep in the ground.
 
 #### missed
-1. rapid evaporatin
+1. rapid evaporation
 2. 
 
 
@@ -71,21 +71,21 @@ I *read some plants are actually* able to  determine when they've lost enough mo
 4. logging: the cutting down of tree for commercial purposes
 4. intercept: to catch
 5. inhibit: to prevent, slow down   eg. tree inhibit soil erosion
-6. myriad: many, numerous
+6. myriad: many, numerous -- 'mi ri e
 7. vegetation: plants on a area
 
-1. fasinate: Bird migration in particular has fascinated observers for centuries.(to interest greatly)
+1. fascinate: Bird migration in particular has fascinated observers for centuries.(to interest greatly)
 2. biological, imperative, niches: Migration is an example of how nature has responded to the biological imperative for species to evolve and spread out into all possible ecological niches.
-3. Hemisphere: Migration of this type takes place primarily into the higher latitudes of the Northern Hemisphere. (one half of the Earth; also, one half of a sphere)
-4. arctic, antarctic: The tern breeds in the arctic regions and winters in antarctic water.
+3. Hemisphere: Migration of this type takes place primarily into the higher latitudes of the Northern Hemisphere. (one half of the Earth; also, one half of a sphere) -- 'hemi
+4. arctic, antarctic: The tern breeds in the arctic regions and winters in antarctic water. 'arc  
 5. latitude: they travel to higher latitudes to breed during the warm season.
-6. exhibit: some species exhibit altitudinal migration: their breeding areas are near or at the peak, and they spend their nonbreeding season in neighboring valley.
+6. exhibit: some species exhibit altitudinal migration: their breeding areas are near or at the peak, and they spend their nonbreeding season in neighboring valley.   --- ig'zi
 7. feat: modern researchers have attempted to understand this feat - unerringly travel (difficult act or achievement) 
-8. obscure: The nocturnal birds may stop flying when clouds obscure the sky (to make difficult to see)
+8. obscure: The nocturnal birds may stop flying when clouds obscure the sky (to make difficult to see) --ob 's cure (cure: relieve of the symptoms)
 9. stray: to leave the correct route; become separated from the group
 
-1. dilute: it takes in unlimited amounts of salt through the roots, up the stem, and into leaves, where it dilutes the normally toxic salt by increasing the number and volume of its cells (to make weaker by mixing with water)
-2. resilient: Successful desert plants are resilient to sorching summers and frigid winters. (tough, able to endure difficult conditions)  Desert plants are resilient to heat and dryness.
+1. dilute: it takes in unlimited amounts of salt through the roots, up the stem, and into leaves, where it dilutes the normally toxic salt by increasing the number and volume of its cells (to make weaker by mixing with water)  -- ai'lu (toxic: ')
+2. resilient: Successful desert plants are resilient to scorching summers and frigid winters. (tough, able to endure difficult conditions)  Desert plants are resilient to heat and dryness. (scorching = very hot; severce, harse criticism)
 3. swing: Sparse rainfall, daily temperature swings of up to 20C, and (a sudden or big change) + The children played on the swing all afternoon (back-and-forth movement) + The swing of the branches in the breeze made a creaking noise (a hanging set moves back and forth)
 4. violent: (strong, sudden and destructive)violent sandstorms make it one of the most extreme environments on earth
 
@@ -99,10 +99,10 @@ I *read some plants are actually* able to  determine when they've lost enough mo
 - extensive: The Amazon rain forest is the most extensive rain forest in the world
 - extensively: Rain forests around the world have been extensively logged.
 
-- erosion: Soil erosion leads to the pollution of streams and rivers.
-- erode: When the soil erodes, there are no nutrients left to help plants grow.
+- erosion: Soil erosion leads to the pollution of streams and rivers.    pronunciation: indefinite vowel; voiced fricative - measure
+- erode: When the soil erodes, there are no nutrients left to help plants grow.  i  rode]
 
-- pollutant: Factories add pollutants to the air and water
+- pollutant: Factories add pollutants to the air and water. 'pollutant: a substance that pollutes something
 - pollution: Deforestation contributes to the effects of both air and water pollution
 - pollute: Eroding soil pollutes water.
 
@@ -117,10 +117,10 @@ I *read some plants are actually* able to  determine when they've lost enough mo
 - navigation: Birds use the sum, stars, and landform for navigation
 - navigator: Migratory birds are amazing navigators.
 
-- observant: You have to be really observant to spot most types of birds
+- observant: You have to be really observant to spot most types of birds (quick to notice something)
 - observation: We can learn a great deal about lives of birds through simple observation.
 
-- resilience: The resilience of certain plants allows them to thrive in the desert.
+- resilience: The resilience of certain plants allows them to thrive in the desert. ri'zi
 - resilient: Desert plants are resilient to heat and dryness.
 - resiliently: Desert plants grow resilently in the heat. 
 
