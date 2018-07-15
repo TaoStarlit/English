@@ -39,7 +39,7 @@ mis-: a prefix meaning wrong, bad, or erroneous; wrongly, badly, or erroneously 
 
 lack of; not: mistrust
 
-### -able -ment -tion -tory
+### -able -ment -tion -tory -tive
 A suffix .... the end of ...
 
 the suffix able means it is possible to do something. e.g. assessable=it is possible to assess
@@ -54,6 +54,9 @@ the suffix able means it is possible to do something. e.g. assessable=it is poss
 
 -tory: migratory: 1.form a personal agent noun from verb, eg. migrator any creature that migrate; -y, form adjectival derivatives directly from verbs
 or directly from verbs, denoting a place or object appropriate for the activity of the verb: dormitory; repository
+
+-ive: a suffix of adjectives (and nouns of adjectival origin) expressing **tendency, disposition, function, connection**, eg. imperative.   impel: urge/force/constrain --> imperative
+
 
 un-: a prefix meaning “not,” freely used as an English formative, giving negative or opposite force in adjectives and their derivative adverbs and nouns (unfair; unfairly; unfairness; unfelt; unseen; unfitting; unformed; unheard-of; un-get-at-able), and less freely used in certain other nouns (unrest; unemployment).
 
