@@ -17,6 +17,8 @@ date:?? (a kind male)
   - Dawa could not be more content. Nothing compares to being loved by the ones you love most. -- abjective and verb is 2nd stress (continue)  we contented ourselves with a few small purchases. 
 1. corporate -- noun and adjective, so stree in 1st syllable
   - coporate responsiblity;  corporate company/ bodies
-1. celebrity  vs  celebrate
-1. define vs definite vs indefinte
-
+1. -ity, ate: celebrity  vs  celebrate
+1. verb, adj: define vs definite vs indefinte
+1. n, adj: prospect, prolific
+1. vibrant and cosmopolitan cities
+1. resilience, erosion, dilute
