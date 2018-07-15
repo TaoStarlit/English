@@ -30,6 +30,10 @@ eg. help, every help I need some note to make the timeline very clear!!
 7. primary grammar
 8. the IELST speaking (old one) comb by my self -- all browser on ipad can not edit and commit, so I have to send via gmail, and then edit on laptop
 9. Keke with IelsS old one
+10. essential vocabulary: 
+    - 20 units  LSRW all cover. learning this, and use it in the advanced writing, use them correctly
+    - more word families
+    - combine: writing, vocabulary, essential to write in the advanced writing way
 
 your time -- 8pm school: speak out or ielts
 9pm home: discuss with chen  
