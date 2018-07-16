@@ -1,11 +1,18 @@
 Give your opinion about graduates running their own business.
 
-It used to be very common for the graduate to work in a company for the employer, but nowadays, an increasing number of students try to run their own business.
-Personally, although it is excellent to run a successful company because of the freedom and sense of fulfillment it brings, I think starting up a company is quite risky for most of the graduates, but I should make an exception for those with full preparation.
-In this essay I will first explore the key things that the graduate may be short of for running a business.
-Then, I will show some tips for those who want to figure out if themselves suit an own business.
-Next, I will also discuss some benefits of setting up your own business.
-In this discussion, I will share my ideas as well as relevant instances.
+It used to be very common for a graduate to work in a company for an employer, but nowadays, an increasing number of former students try to run their own businesses. 
+Personally, although it is may be beneficial to run a successful company because of the freedom and sense of fulfillment it brings, I think starting up a company is quite risky for most graduates, but I should make an exception for those who have prepared fully for opening a company.
+In this essay I will first explore the key things that the graduate may be deficient in for running a business.
+Then, I will discuss some tips for those who want to determine if they suit their own businesses.
+Next, I will also demostrate the benefits of setting up your own business.
+In this discussion, I will share my ideas as well as relevant examples.
+
+- article "a" or "an" is for the word you first mention, not including the that in title
+- "the" + uncountale if it is the specific one: the sense it brings -- we have mention it -- the business, so it is specific
+- "it is excellent" is too general, you need more specific -- it may be beneficial / advantageous
+- for those with full preparation -- make reader confused about what is it, so you need more words to explain --> those who have prepared fully for opening a company. or who have researched extensively
+- most graduates VS most of the graduates: second is for specific, eg. most of the students in UTS  --》 here need graduates
+- short of is like a slang
 
 Setting up your own business is not an easy task, because there are several critical aspects for a company.
 Firstly, it is the business model that determines how well the company goes.
