@@ -3,7 +3,7 @@ Give your opinion about graduates running their own business.
 It used to be very common for a graduate to work in a company for an employer, but nowadays, an increasing number of former students try to run their own businesses. 
 Personally, although it is may be beneficial to run a successful company because of the freedom and sense of fulfillment it brings, I think starting up a company is quite risky for most graduates, but I should make an exception for those who have prepared fully for opening a company.
 In this essay I will first explore the key things that the graduate may be deficient in for running a business.
-Then, I will discuss some tips for those who want to determine if they suit their own businesses.
+Then, I will discuss some tips for those who want to determine if they suit starting their own businesses.
 Next, I will also demostrate the benefits of setting up your own business.
 In this discussion, I will share my ideas as well as relevant examples.
 
@@ -12,15 +12,21 @@ In this discussion, I will share my ideas as well as relevant examples.
 - "it is excellent" is too general, you need more specific -- it may be beneficial / advantageous
 - for those with full preparation -- make reader confused about what is it, so you need more words to explain --> those who have prepared fully for opening a company. or who have researched extensively
 - most graduates VS most of the graduates: second is for specific, eg. most of the students in UTS  --》 here need graduates
-- short of is like a slang
+- short of is like a slang, --> be deficient in
 
-Setting up your own business is not an easy task, because there are several critical aspects for a company.
-Firstly, it is the business model that determines how well the company goes.
-I can not imagine that a company would be successful if the former originator had no idea about the business model of his or her company, which make it difficult to create and maintain the transaction structure of relevant stakeholders.
-Secondly, the graduates should have their orientation including the target market, transaction content and model before they set up their company.
+Setting up your own business is not an easy task, because there are several critical aspects for runing a company.
+Firstly, it is the business model that determines how well the company perform.
+I can not imagine that a company would be successful if the former originator had no idea about the business model of his or her company, which could make it difficult to create and maintain the transaction structure of relevant stakeholders.
+Secondly, the graduates should inform themselves about the positioning of the business, including the target market, transaction content and model, before they set up their company.
 Thirdly, the essential part of the company is the cash flow, so former originators should be very cautious when designing the cash flow and profit model.
 Furthermore, if they confronted with the financial problem, they must have some backup to support the company, etc.
 Therefore, before running a company, the graduate should be aware the important aspects that they may be lack of.
+
+- a comany VS running a company: one thing VS doing one thing -- use noun phrases
+- goes is too general: perform/accomplish/carry out
+- suit + their own businesses -->  starting to be a noun phrases
+- non-definite relative clause/description: it is just a complemary information or comment that can be review, so we use comma to separate it --> , including xxx
+
 
 Not only that, not everyone has the personality to run a business, and there is some tips to test if you have the necessary characters.
 Basically, the former originator and the manager of a company are always the decision-maker, which need accurate analysis of the certain situation and sufficient courage to put things forward and make a difference.
