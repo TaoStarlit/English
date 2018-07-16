@@ -19,14 +19,14 @@ Do you have a favourite English speaker? E.g.celebrity,politician, neighbour...?
 
 |Stop consonants|Fricatives|Affricatives|Nasals,Laterals,Glides|
 |---|---|---|---|
-|unvoiced: p t k|unvoiced: f s th sh|ch j/ge|m n ng|
-|voiced: b d g|voiced: v z th s(measure)||l r w j h|
+|unvoiced: p t k|unvoiced: f s th(teeth) sh(shift)|ch j/ge|m n ng|
+|voiced: b d g|voiced: v z th(smooth) s(measure)||l r w j h|
 
-
-measure is a voiced fricative
-branches [iz] oranges [-s] both are not about voice or not voice
-livez [vz] is voiced
-months [s] is unvoiced
+- G, J, Z, the G and J is af-fricatives, Z only fricative
+- measure is a voiced fricative
+- branches [iz] oranges [-s] both are not about voice or not voice, only s z ch(branches,need -iz)
+- livez [vz] is voiced
+- months [s] is unvoiced
 ### trip , chip;  tree, cheap; drown, john; job drop;
 
 eg. fricative: Airflow is restricted and friction can be heard: f th(beneath) s
