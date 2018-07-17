@@ -3,6 +3,29 @@
 both physically and mentally. body and emotion
 
 
+## Listen first
+1. preference (perifiel) vision
+2. leisure(voiced fricative) time
+3. out of the horse
+4. in ti ci pate
+5. renuber
+6. look on the ball, also scan the whole court
+7. at the leisure time, good athlects do it unconsciously
+7. they do this so fall, it insenseable to us, when we're watching the game.
+8. coordinate (verb, bring the different elements into a harmonious or effecient relationship)
+
+
+## one sentence a day
+### academic discussion/presentation:
+1. I've been discussing the way the eye works and the importanc of vision, let's __ how the vision affects athlect's performance  -- le
+1. that is important, but that is not all, the play also need to be aware of what the other players are doing, he has to in ti ci their renuber, so he can be ready to respond. This is why the xxx vison is important
+1. the player may be looking directly to the ball, but he also has to be aware of what is going on near the boundary of his vision range.
+### daily talking:
+1. I think that wouldn't be hard 
+
+### writing:
+ In this stage, many people refuse to accept the differences of their host country and some actually avoid spending time with local people in favour of mixing with others from the their home country.    -- long sentene: refuse to do .. and some avoid doing .. in favour of doing .. 
+
 # Unit 1 The natuarl wolrd
 
 

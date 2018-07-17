@@ -1,3 +1,36 @@
+# Unit 2 Problem and Solution essay 1:
+### solution:
+1. A solution is for goverment to do
+1. To tackle this problem, goverment should to do
+1. The way forward might to do
+1. This problem could be addressed by noun
+1. Dealing this issue involves noun
+eg.
+1. + allocate more money to primary education
+1. + build more sports centres      (junk food & obesity)
+1. + increase the tax on junk food (junk food & obesity)
+1. + investing in public transport. (transport & overcrowding)
+1. + installing more CCTV cameras in the street (crime)
+1. The way forward might be to ban junk-food advertising on TV
+1. This problem could be addressed by teaching kids about healthy eating at school.
+
+## each paraphraph: cause + solution
+1. One cause of stress in modern life is that people work long hours. In many jobs, workers have to work for 10-12 hours a day, which means they come home late and do not have time to relax or spend time with their family with their family. For instance, in many Asian countris, the average office workers has to start work very early, and doesn't come back home until 9 or 10 p.m. +. A solution is for the goverment to bring law to limit the number of hours a person can work in one day. -- modern life
+1. Another cause of stress is job insecurity. In the past, most employees had a permanet contract and did not worry too much about losing their job. However, nowadays, it is common for people to work on short-term contract which just lasts a few months or one years. This means they are often often worried about what will happen to them at the end of the contract. + This problem could be addressed by goverment making companies give longer-term contracts to all their employees.
+#### missed
+1. XX no time go home early -->come late and do not have time to relax or spend time with their family.
+2. several --> a few; only --> just; to --> or  !! chinglish!!
+3. for people to work on short-term contract
+
+### whole structure of cause + solution:
+1. (background). (problem). This essay will look at the reasons for this and propose some solution.
+2. One of the main causes of the problem is that xxx. Specific statement. Example. The solution is for the goverment to xxx, which would xxx
+3. Another problem is that xxx. That is to say, (specific). This tends to (consequence). To tackle this issue, xxx
+4. A third cause of the problem is that xxx. (specific). As a result, (result). The way forward could be to ..., which would (effect)
+5. To sum up, (problem), due to reasons such as A, B and C. (Statement, unless we can xxx, consequence). My view is that the main responsibility for solving the prolbem lies with xxx, xx and xx.
+
+
+
 # Unit 1 Living aborad
 What are the advantages and disadvantages of leaving your country to live or study abroad?
 - introduction
@@ -33,15 +66,15 @@ By exploring the texts, you learn the verb+noun collocation. Then you learn othe
 make a decision; rush to ~; take your time before you ~
 The more chunks of language you can learn, the more flexible your writing will be in the exam.
 
-### cope with, scratch, keen sense
+### keen sense, cope with, scratch
 - sharp or penetrating, in particular. high developed sense; -> having or showing eagerness or enthusiasm
 - (of a person) deal effectively with something difficult.
 - from marking on the suface -> from the very beginning
 1. I am able to pick up new language without much trouble.
 1. When I travel somewhere new, I like to sample the local food
-1. I feel I can cope with most challenges that life throws at me
-1. Starting a new life from scratch doesn't worry me at all
-1. I have a keen sense of adventure
+1. I feel I can **cope with most challenge**s that life throws at me
+1. **Starting a new life from scratch** doesn't worry me at all 
+1. I have a **keen sense of adventure**
 
 
 #### spotlight 2 verb patterns  !culture shock! the example is very useful

@@ -3,6 +3,44 @@ where is the stress
 
 waterbird, n+n, 1st syllable stressed
 
+
+# Tuesday: Words -- syllable, endings, stress
+## word engding: past tense
+### when -d when -t? 
+1. only voiced stop/fricative is followed by -d, others are t.  e.g. shorked -kt; notified -d;
+2. ce se, when is voiced fricative -z, or -s: if the last syllable is pronunced like the original letter: AEIOU, then it is -z, others are -s.  eg: amused -zd, surpirsed -zd, confused -zd; voiced -st, embarrassed -st, dipressed -st.
+3. the word that ends with t d, all -id: excited -id; digusted -id
+
+## stress, near the stress syllabe, there is always "schwa". Most of the time, you emphasize the stress syllable, and then others are "schwa":
+a**ma**zing, **fa**bulous, **cri**tical, unbe**lie**vable
+
+### sentence stress 
+1. stress in long speech chunks, clauses or sentences:
+    
+    that in an in**crea**singly **glo**balised **wor**ld.
+1. the syllable in the stressed word which has the strongest pitch change in a speech chunk
+
+    that in an in**crea**singly **globalised world**  --- dip down at the glo, the all down, till world, rise up again
+    
+### word stress
+1. noun, stress in the 1st syllable; verb, stress in the 2nd syllable.
+2. suffix words (pattern 1: Oo.  -ion, -an -ic) 
+    - vision,  emission
+    - vacation, solution, popullation
+    - musian
+    - economic, physic, 
+3. suffix words (pattern 2: Ooo -y -al)
+    - democracy
+    - unity, security
+    - geography, psycology
+    - physiology, psycology
+    - medical, physical
+
+
+
+
+# Monday: Sounds
+
 ### dialogue, incorporate, with the use of, a range of
 - to practise listening for pronunciation features (sound, rhythm) and incorporating them into dialogues, role plays and presentations
 - to develop self-study pronunciation techniques with the use of a range of current audio-visual pronunciation resource materials

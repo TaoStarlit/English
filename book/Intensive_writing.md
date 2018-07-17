@@ -16,20 +16,22 @@ In this discussion, I will share my ideas as well as relevant examples.
 
 Setting up your own business is not an easy task, because there are several critical aspects for runing a company.
 Firstly, it is the business model that determines how well the company perform.
-I can not imagine that a company would be successful if the former originator had no idea about the business model of his or her company, which could make it difficult to create and maintain the transaction structure of relevant stakeholders.
+I can not imagine that a company would be successful if the originator had no idea about the business model of his or her company, which could make it difficult to create and maintain the transaction structure of relevant stakeholders.
 Secondly, the graduates should inform themselves about the positioning of the business, including the target market, transaction content and model, before they set up their company.
-Thirdly, the essential part of the company is the cash flow, so former originators should be very cautious when designing the cash flow and profit model.
-Furthermore, if they confronted with the financial problem, they must have some backup to support the company, etc.
-Therefore, before running a company, the graduate should be aware the important aspects that they may be lack of.
+Thirdly, the essential part of the company is cash flow, so originators should be very cautious when designing the cash flow and profit model.
+Furthermore, if they confronted with the financial problem, they should have some backup to support the company, etc.
+Therefore, before running a company, the graduate should be aware of the important aspects that they may be lack of.
 
 - a comany VS running a company: one thing VS doing one thing -- use noun phrases
 - goes is too general: perform/accomplish/carry out
 - suit + their own businesses -->  starting to be a noun phrases
 - non-definite relative clause/description: it is just a complemary information or comment that can be review, so we use comma to separate it --> , including xxx
-
+- ? cash flow , when 1st mention, non article
+- be aware of
+- subjunctive mood, only would/should/could
 
 Not only that, not everyone has the personality to run a business, and there is some tips to test if you have the necessary characters.
-Basically, the former originator and the manager of a company are always the decision-maker, which need accurate analysis of the certain situation and sufficient courage to put things forward and make a difference.
+Basically, the originator and the manager of a company are always the decision-maker, which need accurate analysis of the certain situation and sufficient courage to put things forward and make a difference.
 In daily life, you can see or you can be such decision-maker, so check whether it is your style.
 Moreover, running a business is all about communication, which means you need to keep in touch with the clients, providers and investors, as well as to manage your staff.
 Furthermore, as the owner of a company, you have be good at self-management and creative.
