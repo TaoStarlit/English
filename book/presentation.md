@@ -1,3 +1,41 @@
+# Wednesday
+1. small talk / chit chat / one type of presentation: 
+    - one slide 20 seconds
+    - as quick and direct as possible
+    - imgine in limit time and then speak
+    - the way to design a ppt: n shows catoon for a little boy
+1. focus on the speaking, PPT simply assist you:
+    - cropping -- being in that shape you need
+    - one point one slide
+    - big image
+    - a common style for your images
+1. what we learned from the chit chat practice:
+    - new knowledge : Support, Motivate, Goal, Succuss, Contribution, Teamwork
+    - timing - adapt to the time
+    - react quickly
+    - next time will be better
+
+1. 5 principles
+    - 1 slide 1 message: a few key information
+    - 1+1=0: reading and listening at the same doesn't help to undertand
+    - size: emphasize the main information
+    - contrast: dark background, bright information
+    - six: don't consist more than 6 object in a slide
+
+1. Formal speech structure:
+    - greeting + introducing yourself, using doing as an attributive: eg. ... 1st/2nd year phd student studying/researching xx
+    - your topic, using future countinuous tense: today we are going to be taking about / taking a look at / teaching you ...
+    - structure: I'll begin by / Then, I'll / After that, I'll go on to / Finally, I'll  
+        - introduce/outline/highlight/discuss   talk about     reveal
+    - (optional) My presentation will take approximately xx minutes.
+    - If there are any questios you'd like to ask, I'd be happy to answer them at the end / at any time.
+1. Intermediate to Advanced (after greeting and introducing yourself, you can)
+    - introduce a problem: suppose (situation) How would you ...?  // Have you ever wondered why it is that ...
+    - start with an interesting fact: According the last studying / I read somewhere the other day that, .....
+    - start with an anecdote: you know,...  Have you ever been in the situation where ...
+
+
+
 # Tuesday
 1. impromptu speaking
     - think on your feet

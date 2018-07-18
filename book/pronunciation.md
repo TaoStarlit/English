@@ -4,6 +4,20 @@ where is the stress
 waterbird, n+n, 1st syllable stressed
 
 
+# Wednesday: Chunking and Pausing
+## presentation or speech:
+slash at commas, before clauses, after the noun phrases that are emphased, dawn out the important verbs or adjectives, after be verbs
+
+## daily dialogues:
+different stressed have different meaning P37
+
+## adademic words  P30
+
+## poem
+
+
+
+
 # Tuesday: Words -- syllable, endings, stress
 ## word engding: past tense
 ### when -d when -t? 
@@ -29,7 +43,7 @@ a**ma**zing, **fa**bulous, **cri**tical, unbe**lie**vable
     - vacation, solution, popullation
     - musian
     - economic, physics, 
-    - residential, beneficial, intellectual
+    
 3. suffix words (pattern 2: Ooo -y -cal/ral -ate/ant)
     - democracy
     - unity, security, obesity
@@ -37,6 +51,7 @@ a**ma**zing, **fa**bulous, **cri**tical, unbe**lie**vable
     - physiology, psycology
     - medical, physical, peripheral
     - coordinate, participate/participant, complicate, tolerate, habitant/habitat, articulate,
+    - residential, beneficial, intellectual (tu al are 2 syllables)
 
 
 
