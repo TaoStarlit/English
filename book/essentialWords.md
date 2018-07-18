@@ -1,24 +1,32 @@
 # Unit 2 Leisure time
-#### good new
-both physically and mentally. body and emotion
+#### good new collocation
+1. physical and intellectual: who xx engage in a range of activities for relaxation, both ~  
+1. phsically and emotionally.  who xx tends to be healther, both ~ 
+1. bodies and minds. It is obvious that we should engage in leisure activities that exersice both our minds and bodies.  
+1. obesity and depression: ,to avoid suffuring problems such as ~
 
 
 ## Listen first
-1. preference (perifiel) vision
+1. peripheral (XX perifiel) vision : at the edge
 2. leisure(voiced fricative) time
-3. out of the horse
-4. in ti ci pate
+3. out of the count (XX horse)
+4. anticipate (in ti ci pate): to expect, be ready for something happen
 5. renuber
 6. look on the ball, also scan the whole court
-7. at the leisure time, good athlects do it unconsciously
-7. they do this so fall, it insenseable to us, when we're watching the game.
-8. coordinate (verb, bring the different elements into a harmonious or effecient relationship)
+7. at the leisure time, good athletes(Oo：XX athlects) do it unconsciously
+7. they do this so fall, it indiscernible (XX insenseable) to us, when we're watching the game. (impossible to see or notice)
+8. coordinate (verb, bring the different elements into a harmonious or effecient relationship) when you see a play move in to shoot the basket, he's there because he was able to coordinate all the information he took in about the action of the game, so he could make this move.
+
+## reading
+1. more than that: 
+    - “I do this because it is good business but more than that, it means a lot to me,” he added;
+    - Natural blinking means eyes are closed for two and half seconds out of every minute, and more than that if the athlete is anxious. -- if being anxious, the athlete will be more blink (blink more often -- more than two seconds out of every minute)
 
 
 ## one sentence a day
 ### academic discussion/presentation:
-1. I've been discussing the way the eye works and the importanc of vision, let's __ how the vision affects athlect's performance  -- le
-1. that is important, but that is not all, the play also need to be aware of what the other players are doing, he has to in ti ci their renuber, so he can be ready to respond. This is why the xxx vison is important
+1. I've been discussing the way the eye works and the importance of vision, let's apply some of these and talk today about how the vision affects athletes' performance  -- athlete
+1. that is important, but that is not all, the player also need to be aware of what the other players are doing, he has to anticipate their maneuvers, so he can be ready to respond. This is where the paripheral vison is important.
 1. the player may be looking directly to the ball, but he also has to be aware of what is going on near the boundary of his vision range.
 ### daily talking:
 1. I think that wouldn't be hard 

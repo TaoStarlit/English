@@ -24,17 +24,19 @@ a**ma**zing, **fa**bulous, **cri**tical, unbe**lie**vable
     
 ### word stress
 1. noun, stress in the 1st syllable; verb, stress in the 2nd syllable.
-2. suffix words (pattern 1: Oo.  -ion, -an -ic) 
+2. suffix words (pattern 1: Oo.  -ion, -an -ic/ics, cial/tial/tual) 
     - vision,  emission
     - vacation, solution, popullation
     - musian
-    - economic, physic, 
-3. suffix words (pattern 2: Ooo -y -al)
+    - economic, physics, 
+    - residential, beneficial, intellectual
+3. suffix words (pattern 2: Ooo -y -cal/ral -ate/ant)
     - democracy
-    - unity, security
+    - unity, security, obesity
     - geography, psycology
     - physiology, psycology
-    - medical, physical
+    - medical, physical, peripheral
+    - coordinate, participate/participant, complicate, tolerate, habitant/habitat, articulate,
 
 
 
