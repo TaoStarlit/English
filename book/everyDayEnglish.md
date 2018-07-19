@@ -1,8 +1,22 @@
-## 0718
-1. We offer learning trips f**or a broad range of tastes and interests**, and painting trips are among the most popular.
-1. I'd just like to go someplace pretty **with** colorful scenery for painting and **maybe some nice ocean breezes**.
-1. So I **would really** learn to cook, **not just** watch someone else cook? -- Yes
+## 0719
+1. long attributive to describe a object:
+    - The bird sanctuary povides us with oppotunies **to study** many aspects **of the** lives **of** the migratory birds **that** pass through here every years.(bird migration)
+    - it is imperative that you not stray off the trail and that you be particular careful to stay out of the restricted area, **all along the trail to the left**.
+    - The trail **over to the right** leads to the gift shop, but before we head there, let's continue **to the end of** the trail **on the left to the** obvervation platform.
 
+1. using attributive clause to describe the reason or condition:
+    - according to the research, people who spend their leisure time engaging passive pasttime activities, such as wathing TV actually end at less re  than people who choose more active leisure activities. (use you leisure time)
+    - people who are reported feeling the most satisfaction with how they spend their leisure time engage a range of activities for relaxaiton, both phycial and intellectual.
+    - people who engage in a variety of active pasttime tend to be healther, both pyhciscally and emmotionly.
+    - we need to engage leisure activities that exersice both our minds and bodies, to avoiding suffering problems such as obesity and depression.
+1. reseach/topic + **on** +
+    there have been a great deal of researches **on how to** use our leisure time. Study after study has shown the importance of using leisure time well
+
+## 0718
+1. to express something suitable for many people, in interests and tastes: We offer learning trips **for a broad range of tastes and interests**, and painting trips are among the most popular.
+1. to describe somewhere with certain features, like scenery, ocean breezes: I'd just like to go someplace pretty **with** colorful scenery for painting and **maybe some nice ocean breezes**.
+1. ask to comfirm A not B: So I **would really** learn to cook, **not just** watch someone else cook? -- Yes
+1. using doing as attributive: I am a first year **PhD student researching/studying** in machining learning.
 
 ## 0717
 1. leisure time:  voiced fricative (no block:danger, not unvoiced: beneficial)

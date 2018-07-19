@@ -16,11 +16,12 @@ eg.
 
 ## each paraphraph: cause + solution
 1. One cause of stress in modern life is that people work long hours. In many jobs, workers have to work for 10-12 hours a day, which means they come home late and do not have time to relax or spend time with their family with their family. For instance, in many Asian countris, the average office workers has to start work very early, and doesn't come back home until 9 or 10 p.m. +. A solution is for the goverment to bring law to limit the number of hours a person can work in one day. -- modern life
-1. Another cause of stress is job insecurity. In the past, most employees had a permanet contract and did not worry too much about losing their job. However, nowadays, it is common for people to work on short-term contract which just lasts a few months or one years. This means they are often often worried about what will happen to them at the end of the contract. + This problem could be addressed by goverment making companies give longer-term contracts to all their employees.
+1. Another cause of stress is job insecurity. In the past, most employees had a permanent contract and did not worry too much about losing their jobs. However, nowadays, it is common for people to work on short-term contract which just lasts a few months or one year. This means they are often worried about what will happen to them at the end of the contract. + This problem could be addressed by goverment making companies give longer-term contracts to all their employees.
 #### missed
 1. XX no time go home early -->come late and do not have time to relax or spend time with their family.
 2. several --> a few; only --> just; to --> or  !! chinglish!!
-3. for people to work on short-term contract
+3. nowadays, it is common for people to work on short-term contract
+4. nouns-s belong to their.  a object verb-s
 
 ### whole structure of cause + solution:
 1. (background). (problem). This essay will look at the reasons for this and propose some solution.
@@ -67,9 +68,9 @@ make a decision; rush to ~; take your time before you ~
 The more chunks of language you can learn, the more flexible your writing will be in the exam.
 
 ### keen sense, cope with, scratch
-- sharp or penetrating, in particular. high developed sense; -> having or showing eagerness or enthusiasm
-- (of a person) deal effectively with something difficult.
-- from marking on the suface -> from the very beginning
+- keen: sharp or penetrating, in particular. high developed sense; -> having or showing eagerness or enthusiasm
+- cope with: (of a person) deal effectively with something difficult.
+- from scatch: from marking on the suface -> from the very beginning
 1. I am able to pick up new language without much trouble.
 1. When I travel somewhere new, I like to sample the local food
 1. I feel I can **cope with most challenge**s that life throws at me

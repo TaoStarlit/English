@@ -1,14 +1,33 @@
-## preface recall the work shop hosted by a kind man
+## preface: recall the work shop hosted by a kind man  ---- on the Tuesday of this presentation
 where is the stress
 
 waterbird, n+n, 1st syllable stressed
+
+
+# Thursday:  Intonation
+## watching the video: shadow reading, and practice
+    - pausing
+    - stress
+    - rise, down
+    - bright, or sad
+the video contain: obama's speech in Berlin, Kevin Rudd's apology speech, Martin Luther King's speech at Lincoln
+
+Belgium(multi-ethnic country: German,French, and Dutch(Netherlands)), gabrielle;  Blue mountain, Nicole
+
+## Intonation
+1.  drop down: This is a statement. You are giving information. You are certain and confident about the information.
+2.  rise up: This is a question or incomplete statement. indicate that you are not sure.
+3.  constant/unchanged: You have more to say, incomplete statement
+4.  down+rise: 3213 You have some doubts or reservations or you want to qualify this with more information. You amy also be referring to what has already been said or will be said.
+5.  rise+down: 1321 Exclamation: You want to emphasise this. Depending on the context, you may feel enthusiastic, happy or surprised. Or you may want to contrast or contradict what someone else has said
+
 
 
 # Wednesday: Chunking and Pausing
 ## presentation or speech:
 slash at commas, before clauses, after the noun phrases that are emphased, dawn out the important verbs or adjectives, after be verbs
 
-## daily dialogues:
+## daily dialogues: 
 different stressed have different meaning P37
 
 ## adademic words  P30
@@ -19,7 +38,7 @@ different stressed have different meaning P37
 
 
 # Tuesday: Words -- syllable, endings, stress
-## word engding: past tense
+## word ending: past tense
 ### when -d when -t? 
 1. only voiced stop/fricative is followed by -d, others are t.  e.g. shorked -kt; notified -d;
 2. ce se, when is voiced fricative -z, or -s: if the last syllable is pronunced like the original letter: AEIOU, then it is -z, others are -s.  eg: amused -zd, surpirsed -zd, confused -zd; voiced -st, embarrassed -st, dipressed -st.
@@ -42,11 +61,11 @@ a**ma**zing, **fa**bulous, **cri**tical, unbe**lie**vable
     - vision,  emission
     - vacation, solution, popullation
     - musian
-    - economic, physics, 
+    - economic, physics, ethnic(th is not a syllabe)
     
 3. suffix words (pattern 2: Ooo -y -cal/ral -ate/ant)
     - democracy
-    - unity, security, obesity
+    - unity, security, obesity, migratory, intensity(the quality of being intense)
     - geography, psycology
     - physiology, psycology
     - medical, physical, peripheral

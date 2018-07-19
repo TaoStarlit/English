@@ -1,3 +1,10 @@
+# Thursday
+1. hook practice
+2. Nevy seal general's speech in UT
+ https://www.youtube.com/watch?v=pxBQLFLei70
+ - very clear structure, and link to the theme
+
+
 # Wednesday
 1. small talk / chit chat / one type of presentation: 
     - one slide 20 seconds
@@ -33,6 +40,8 @@
     - introduce a problem: suppose (situation) How would you ...?  // Have you ever wondered why it is that ...
     - start with an interesting fact: According the last studying / I read somewhere the other day that, .....
     - start with an anecdote: you know,...  Have you ever been in the situation where ...
+1. new words for your pre:
+### Tang dynasty, Savage 
 
 
 
