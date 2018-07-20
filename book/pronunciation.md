@@ -4,6 +4,8 @@ where is the stress
 waterbird, n+n, 1st syllable stressed
 
 
+Good afternoon, every. I think most all have been study in Syndey for 1 to 4 years. How is the life in sydney, very comfortable, because it is a harbour city, with pleasant climate and convenient transportation. Today, I will introduce another habour city, my hometown chaozhou City, because it is on the east coast of the Pacific Ocean like sydney, it is a livable place. There also a bullet train station and an international airplane near my home.  From my house, 10 minitues walks to the bullet train station, and 20 minute drive to the international airplance.
+
 # Thursday:  Intonation
 ## watching the video: shadow reading, and practice
     - pausing
