@@ -1,10 +1,36 @@
 ## preface: recall the work shop hosted by a kind man  ---- on the Tuesday of this presentation
-where is the stress
+1. say great job:
+https://www.quickbase.com/blog/30-ways-to-say-great-job
+Good work, as always.   well done, fantastic
+2. ask question: find out what does he want?  
+conversation:
+what bring you here? 
+how do you think
 
-waterbird, n+n, 1st syllable stressed
+自己的话题清单列表
+找youtube, ted.org完善表达
+
+公式短句，表述方式记下来（书写，emotion）
 
 
-Good afternoon, every. I think most all have been study in Syndey for 1 to 4 years. How is the life in sydney, very comfortable, because it is a harbour city, with pleasant climate and convenient transportation. Today, I will introduce another habour city, my hometown chaozhou City, because it is on the east coast of the Pacific Ocean like sydney, it is a livable place. There also a bullet train station and an international airplane near my home.  From my house, 10 minitues walks to the bullet train station, and 20 minute drive to the international airplance.
+
+# Friday
+
+you cant ask that   ABC iview   Anh's brush with fame + Julia Zemiro;s Home Delivery
+
+advanced showdow reading?   only only stress a word to make it louder, but also longer and higher.  
+
+The intonation includes not only droping down, rising up and remaining constant, but also other patterns like rise-down, down-remain, down-rise. --- the record about bird sencturay.    And how about the pitches of peak, vally, plateau, plain
+
+?? what is the name of the service? submit your work a day before and make an appointment -- such a good service
+?? laptop, litsten and write
+?? library
+?? 1 for 1 service
+
+Good afternoon, every year. 
+I think most of us have been studying in Syndey for 1 to 4 years. 
+How is the life in sydney? very comfortable, because it is a harbour city, with pleasant climate and convenient transportation. 
+Today, I will introduce another habour city, my hometown chaozhou City, like sydney, because it is on the east coast of the Pacific Ocean, which makes it a livable city, too. Besides, There is a bullet train station and an international airplane near my home.  From my house, it takes only 10 minitues walking to get to the bullet train station, and if I want to take an airplane, it is only 15 minutes to drive you there. In addition, the famous attraction, one of the four ancient brights of China is in my home town. In partcular, it is certainly a moveable bridge, which enables a large ship sail across the bridge. Let me show ancient technology of moveable bridge. The middle of bridge is build by 2 groups of smaller ships and 2 bridge decks, without electricity 8 hundred age, this movability technology still worked well. In spite of remaining the ancitent technique, it is not a feudal city. In this year spring festival, there were a series light shows near the brights, like the vivid with traditional chinese elements.
 
 # Thursday:  Intonation
 ## watching the video: shadow reading, and practice

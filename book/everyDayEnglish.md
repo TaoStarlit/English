@@ -1,3 +1,12 @@
+## 0722
+1. active feedback: cool ..., low pay -- but it is really good to your social activity, then we will talk more
+2. interesting topic, when Marga(name) talking about art and orchestra, the local students who hadn't show insterst on us before, at that moment tended to turn to us and listen.
+
+
+## 0721 
+1. Ask question:
+    - where and when were the more amazing sunset you have ever seen?  ---> place, been, near sydney
+        - very good, with Firas(name), he mentioned two other site.
 ## 0719
 1. long attributive to describe a object:
     - The bird sanctuary povides us with oppotunies **to study** many aspects **of the** lives **of** the migratory birds **that** pass through here every years.(bird migration)

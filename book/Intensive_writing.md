@@ -65,10 +65,10 @@ If graduates want to set up their business, they have make to make full preparat
 1. trend, change:
     - It used to very common for sb. to do sth A, but nowadays, an increasing number of sb. try to do sth B.  / few and few sb.
 1. Qualifying your opinion: in a sense, not too absolutely, in some cases:
-    - make an exception for + sb.: I think doing is quite/very adj. for most of the sb., but I should *make an exception for* those who xxx/ with sth. //eg. I agree with making shops close early on Sundays, but I think we *should make an exception* for chemists, because people may need to go there in an emergency.
-    - take into account + sth.: I agree with sending serious criminals to prison, but we *should take into account* the age of the offender. Young offenders should receive a more lenient sentence
+    - make an exception for + sb. (someone with high destinction): I think doing is quite/very adj. for most of the sb., but I should *make an exception for* those who xxx/ with sth. //eg. I agree with making shops close early on Sundays, but I think we *should make an exception* for chemists, because people may need to go there in an emergency.
+    - take into account + sth. (key factors or attributes): I agree with sending serious criminals to prison, but we *should take into account* the age of the offender. Young offenders should receive a more lenient sentence
     - only in some cases. (the extreme case):I agree with community service for criminals, *but only in some cases*. For serious crimes, prison is a more suitable punishment.
-    - it depends on + whether/how long: Generally speaking, I agree with giving benefits to unemployed people, but I also think *it depends on* whether they are looking for a job and how long they are unemployed. After six months, I think they should have to do training course to help them find a job.
+    - it depends on + whether/how long (what is the event like): Generally speaking, I agree with giving benefits to unemployed people, but I also think *it depends on* whether they are looking for a job and how long they are unemployed. After six months, I think they should have to do training course to help them find a job.
     - only up to a point. (the same subject need to do other): I think it is good that student work while they are at university, *but only up to a point*. They also need to have enough time to study.
 1. give an opinion about future trends: prediciton, Subjunctive(imagine or wish)
     - I cannot imagine that noun will xx / noun would xx if noun did

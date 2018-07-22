@@ -37,6 +37,10 @@
 # Unit 1 The natuarl wolrd
 
 
+## idea for writing and speaking
+1. tree? is the habitant of a large variety of animal; hold on the soil
+2. 
+
 
 ## AudioScript-1 The environmental impact of logging (lecturer)
 ### terrestrial, aquatic, trail, variety, beneath the bark, owls, squirrels, on the branches or in the trunk, erode 

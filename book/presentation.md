@@ -1,3 +1,20 @@
+1. ID
+2. Well-organized and systematic training: from concept to demonstration, from video to practice, from chit-chat in the group to real presentation in teamwork. By the way, most students stayed until last evening and the last hour, which enables us to communicate and learn more from each other. Furthermore, when too many students from the same country sat in the same group, the lecturer would try to reallocate the seats for us, which give us more opportunities to speak English instead of mother languages.
+3. If I really need to give a suggestion, I think the course can recommend more video courses or materials for students to learn further after this programme even though most of the student may not learn further.
+
+
+polite: mention some similar example, but we was not aware of the problem and solution, eg. what is your name, oh -- then forget it quickly. Second day, hello 。。。 after one month, you can not ask her/his name again. So if you are not clear, ask in time.
+what is another answer? --color. you are not helping me... but thanks.
+
+
+# Friday
+For the study oversea topic, this time I performed much better than the afternoon. using the mind map, pausing, stress, intonatiion. Fluently, didn't omit syllables.
+feedback: 1. when you are thinking, you look up to the celling, not the audiences!! 2. pratice your muscles of mouse, then you will be relaxed when speaking English.
+In the daily conversation, you can prepare mind map first!
+
+
+change dwelling place. moving house.   immaculately clean
+
 # Thursday
 1. hook practice
 2. Nevy seal general's speech in UT
