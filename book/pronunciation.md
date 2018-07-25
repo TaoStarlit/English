@@ -1,3 +1,8 @@
+## what mistakes you have made, the correct one:
+- dropping
+- shadow
+- sanctuary  4 syllables; not sen  or tury-century
+
 ## preface: recall the work shop hosted by a kind man  ---- on the Tuesday of this presentation
 1. say great job:
 https://www.quickbase.com/blog/30-ways-to-say-great-job

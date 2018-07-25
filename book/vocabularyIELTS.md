@@ -17,10 +17,15 @@
 # Unit 1 Growing up
 ## 1.2 1a listening
 ### tough, touch; it at all , as I talked
-all the last releases <-(the new movies) &ensp  we don't have much in common any more (express changing X at all)
-But nowadays all we seem to do is argue and that causes a lot of conflict. &ensp he is a very approachable and, if I'm struggling with an assigment, I find her advice really helps me.
-My parent are quite old so I feel as though they're out of touch with the modern world. &ensp They don't seem to have any idea of what things cost. &ensp We used to fight a lot when we were growing up but there's a really close bond between us now.
-they just don't understand it at all (no contrast X as I talk). &ensp Luckily, Grandad shares my tastes.  &ensp violin; cello player 
+1. all the last releases <-(the new movies)
+1.  we don't have much in common any more (express changing X at all)
+1. But nowadays all we seem to do is argue and that causes a lot of conflict. 
+1. he is a very approachable and, if I'm struggling with an assigment, I find her advice really helps me.
+1. My parent are quite old so I feel as though they're out of touch with the modern world. 
+1. They don't seem to have any idea of what things cost. 
+1. We used to fight a lot when we were growing up but there's a really close bond between us now.
+1. they just don't understand it at all (no contrast X as I talk).  Luckily, Grandad shares my tastes.  
+1. violin; cello player 
 
 
 

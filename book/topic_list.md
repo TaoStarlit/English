@@ -1,3 +1,11 @@
+## what mistakes you have made, the correct one:
+- stuff - thing/material   -- staff - all the people in a organization (music staff is organized)
+- designate Ooo, the second syllable is z
+- semitone Ooo; hemisphere; Oooo
+- component pitches:  com- oOo as adj : compulsory vs compulsive != permanent Ooo
+- transposition vs transportation   :  position sport
+
+
 ## daily talking(your hoppies) & ielts (listening and writing)
 
 ### from the book:

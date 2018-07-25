@@ -1,3 +1,10 @@
+## what mistakes you have made, the correct one:
+- overwhelm   -- verb oO.  vs whale: animal
+- persevere / severe -- ere Oo   (of something bad or undesirable) very great; intense:   a severe bad or shortage of technicians
+- accommodation Oo;  accommodate Ooo    other shwa
+- struggle:   doubld G
+- 
+
 ## 0725 6a
 1. When I *first started to* learn the English, I **really struggled with** it. I don't really *have a problem with* the pronunciation like the other students in my class. I **was just overwhelmed by all of the vocabulary**. But **I persevered and soon I was scoring ten out of ten** in all the tests.
 2. **By the time I got to university**, I could produce essay and translated 18 century texts without much difficulty, and I actually enjoyed learning the grammar rules. Then, as part of my university course, I had to go to and live in France for a year. **That's when I learned that** communication is more important than accuracy.
