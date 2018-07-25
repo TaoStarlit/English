@@ -14,7 +14,7 @@ In conclusion, I think prison is not the best way for all crimal, and the best p
 
 
 idea: crimal, prison: need accumualte idea first --- the vocabulary book: 偷看下idea  discuss if it is effective
-!!! alternative sheme. not  else is best,
+!!! alternative scheme. not  else is best,
 
 # Unit 2 Problem and Solution essay 1:
 ### solution:

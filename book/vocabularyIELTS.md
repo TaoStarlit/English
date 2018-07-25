@@ -1,10 +1,31 @@
-#Unit 1 Growing up
+# Unit 6 Effective communication:
+### 0725 6a
+1. When I *first started to* learn the English, I **really struggled with** it. I don't really *have a problem with* the pronunciation like the other students in my class. I **was just overwhelmed by all of the vocabulary**. But **I persevered and soon I was scoring ten out of ten** in all the tests.
+2. **By the time I got to university**, I could produce essay and translated 18 century texts without much difficulty, and I actually enjoyed learning the grammar rules. Then, as part of my university course, I had to go to and live in France for a year. **That's when I learned that** communication is more important than accuracy.
+3. *As soon as I arrived I realize* I didn't know how to order the type of coffee I liked and **trying to find accommondation** was a nightmare.
+4. I could see **there was no point in just knowing words if you can't** hold a conversation with a native speaker. Fluency is what helps you to function properly - it's what helps you get a job, hold a conversation or just buy the things you need.
+- when I first started to ..., I really struggle with it
+- I don't really have problem with the xxx, just like other xx. I was just overwhelmed by all of the xxxx.
+- By the time I got xxxx, i could xx, and I really enjoyed xx
+- As part of my xx course, I had to xxx.  That's when i learned that xx
+- As soon as I arrived I realized (\simequ learned) I didn't know how to, and trying xx was a nightmare
+- I could see (after realizing problem, I know the principle) there was no point in just doing xx if you can't hold a conversation with a native speaker.
+- Fluency is what helps you to function properly. it is what helps you get a job, xxx ,xxx or xx.
+- persevere
+
+
+# Unit 1 Growing up
 ## 1.2 1a listening
 ### tough, touch; it at all , as I talked
 all the last releases <-(the new movies) &ensp  we don't have much in common any more (express changing X at all)
 But nowadays all we seem to do is argue and that causes a lot of conflict. &ensp he is a very approachable and, if I'm struggling with an assigment, I find her advice really helps me.
 My parent are quite old so I feel as though they're out of touch with the modern world. &ensp They don't seem to have any idea of what things cost. &ensp We used to fight a lot when we were growing up but there's a really close bond between us now.
 they just don't understand it at all (no contrast X as I talk). &ensp Luckily, Grandad shares my tastes.  &ensp violin; cello player 
+
+
+
+
+
 
 # Unit 21
 1. Try to use a monolingual (not bilinguial) dictionary because this will help practise your English more.
@@ -57,6 +78,8 @@ or directly from verbs, denoting a place or object appropriate for the activity 
 
 -ive: a suffix of adjectives (and nouns of adjectival origin) expressing **tendency, disposition, function, connection**, eg. imperative.   impel: urge/force/constrain --> imperative
 
+- ic: as an adjective-forming suffix with the particular senses “having some characteristics of” (opposed to the simple attributive use of the base noun) (balletic; sophomoric); “in the style of” (Byronic; Miltonic); “pertaining to a family of peoples or languages” (Finnic; Semitic; Turkic).
+
 
 un-: a prefix meaning "not", freely used as an English formative, giving negative or opposite force in adjectives and their derivative adverbs and nouns (unfair; unfairly; unfairness; unfelt; unseen; unfitting; unformed; unheard-of; un-get-at-able), and less freely used in certain other nouns (unrest; unemployment).
 
@@ -66,7 +89,15 @@ my answer of 1.2: BFACHDEG -- alright!!
 ## the pronunciation I am not so sure:
 ### access, assess, synonym, antonym, thesaurus, corpus, phonology, etymology, adjective, adverbial, preposition, collocaion, prefix, suffix, formative, commendation, starvation, temptation, intensify
 
+
+
+
 # Unit 22 how to manage the list of word
+
+
+
+
+
 
 # Unit 23 but I turn to the writing task 1 1st:
 pie chart, line chart, bar chart/graph;  table; diagram; flow chart
@@ -113,6 +144,9 @@ simple present tense: The machine swithes off when the bag is full
 ### phrase, plunge, plateau
 
 words and phrases
+
+
+
 
 
 # Unit 24 task 2  one opinion, do you agree or disagree? 

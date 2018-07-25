@@ -1,6 +1,7 @@
+### vocabulary: globalization - ageing society
 41. astonding: the summit offers astonding view. -- surprising, impressive or notable
 1. concerning: I find many of my comments very concerning -- cause anxiety; worring.
-1. profound: profound feel of disquiet; a profound philosopher -- ver great or instense, having great knowledge
+1. profound: profound feel of disquiet; a profound philosopher -- very great or instense, having great knowledge
 1. cumulative: the cumulative effect of two years of drought -- increasing or increased in quantity, degree, or force by successive addition
 1. sceptical: the public were deeply sceptical about some of the proposals -- not easily convinced; having doubts or reservations
 1. flatten out: over the last two years our sales increase has flatten out -- (of an increasing quantity or rate) show a less marked rise;slow don
@@ -11,13 +12,13 @@
 1. by the fact that + clause
 
 
-
+### corporate information factory 
 The first fundamental pressure is growing consumer demand. Consumers expect companies to understand and respect their needs and desires. Because the customer drives the business relationship, business people must hear what the customer has to say and respond by delivering relevant, competitive, and timely products and services.
 1. timely:done or occurring at a favourable or useful time; opportune
 1. expect sb. to 
 1. hear A and repond by doing 
 1. understand and respect their needs and desires
-1. a dynamic object - doing as noun phrase: xx is growing consumer demand.
+1. a dynamic object - doing + noun. as noun phrase: xx is growing consumer demand.
 1. by delivering relevant, competitive, and timely products and services.
 
 

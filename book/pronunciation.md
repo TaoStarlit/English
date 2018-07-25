@@ -85,13 +85,13 @@ a**ma**zing, **fa**bulous, **cri**tical, unbe**lie**vable
     
 ### word stress
 1. noun, stress in the 1st syllable; verb, stress in the 2nd syllable.
-2. suffix words (pattern 1: Oo.  -ion, -an -ic/ics, cial/tial/tual) 
+2. suffix words (pattern 1: Oo.  -ion, -an -ic/ics) 
     - vision,  emission
     - vacation, solution, popullation
     - musian
-    - economic, physics, ethnic(th is not a syllabe)
+    - economic, physics, ethnic, demographic(th is not a syllabe)
     
-3. suffix words (pattern 2: Ooo -y -cal/ral -ate/ant)
+3. suffix words (pattern 2: Ooo -y -cal/ral cial/tial/tual, -ate/ant)
     - democracy
     - unity, security, obesity, migratory, intensity(the quality of being intense)
     - geography, psycology
