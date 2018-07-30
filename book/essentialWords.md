@@ -6,6 +6,15 @@
 1. obesity and depression: ,to avoid suffuring problems such as ~
 
 
+## new word:
+1. rejuvenate: v. to restore, refresh.   MS. People who spend their time engaged in passive pastimes such as watching TV actually end up feel less rejuvenated that people who choose more active leisure activities. ---(for logic, now give more detail about the latter: People who report feel the most astisfaction with how they spend their leisure time engage in a range of activities for relaxation, both physical and intellectual.)
+1. reluctant: adj. not wanting to do something; unwilling. MS. People can feel reluctant to be physically active after a tirng week at work.
+1. reluctance: noun. Reluctance to spend time in nature is a problem for modern children.
+1. deliberately: intentionally, on purpose; 
+1. deliberate: verb. engage in long and careful consideration. MS. The group deliberate for a hour before reaching a decision.  
+1. adj.done consciously and intentionally. they need to make a deliberate decision to spend more time in nature.  1. deliberation: careful consideratioin: MS. After deliberation, I decided to spend some time every data engaged in outdoor activities.
+
+
 ## Listen first
 1. peripheral (XX perifiel) vision : at the edge
 2. leisure(voiced fricative) time
@@ -13,9 +22,9 @@
 4. anticipate (in ti ci pate): to expect, be ready for something happen
 5. renuber
 6. look on the ball, also scan the whole court
-7. at the leisure time, good athletes(Oo：XX athlects) do it unconsciously
-7. they do this so fall, it indiscernible (XX insenseable) to us, when we're watching the game. (impossible to see or notice)
-8. coordinate (verb, bring the different elements into a harmonious or effecient relationship) when you see a play move in to shoot the basket, he's there because he was able to coordinate all the information he took in about the action of the game, so he could make this move.
+7. at the leisure time, good athletes(Oo adj.oOo athletic) do it unconsciously
+7. they do this so fast, it's indiscernible (XXinsenseable) to us, when we're watching the game. (impossible to see or notice)
+8. coordinate (verb, bring the different elements into a harmonious or effecient relationship) when you see a play move in to shoot the basket, he's there because he was able to coordinate all the information he took in about the action of the game, so he could make this move.    --MS: he could coordinate play with other children in his childhood.
 
 ## reading
 1. more than that: 

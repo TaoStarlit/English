@@ -1,3 +1,25 @@
+
+
+fuel, fueling
+
+prepare, preparation
+obstacles 
+
+deteriorate
+
+rectification, rectify
+
+
+continuous vs discrete
+
+
+
+
+
+
+
+
+
 # Unit 6 Effective communication:
 ### 0725 6a
 1. When I *first started to* learn the English, I **really struggled with** it. I don't really *have a problem with* the pronunciation like the other students in my class. I **was just overwhelmed by all of the vocabulary**. But **I persevered and soon I was scoring ten out of ten** in all the tests.
