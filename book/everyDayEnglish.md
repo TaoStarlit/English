@@ -3,7 +3,12 @@
 - persevere / severe -- ere Oo   (of something bad or undesirable) very great; intense:   a severe bad or shortage of technicians
 - accommodation Oo;  accommodate Ooo    other shwa
 - struggle:   doubld G
-- 
+
+
+## 0801:
+1. 积木：Lego blocks;  buiding block; toy brick 砖块
+2. 折纸：Origami ooOo: The Japanese art of folding paper to decorative shapes and figures.
+3. 四海一家：Cosmopolitan ooOoo: ?? in Chinese we can type the (Phonetic symbol) Pinyin easily, as it is made of 26 English Letters. But I can not type the English Phonetic symbol by a keyboard.
 
 ## 0730:
 1. reminder, remind, reminding:  reminder
