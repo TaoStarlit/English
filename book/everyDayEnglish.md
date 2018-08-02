@@ -5,6 +5,25 @@
 - struggle:   doubld G
 - 
 
+## 0730:
+1. reminder, remind, reminding:  reminder
+1. are you available on Monday evening/night.  a certain date, so it is on.  not at.
+
+
+Date and Time
+1. Good night! I'll see you in the morning. 
+2. I don't usually eat much at lunchtime - just a sandwich. 
+3. The shops are all closed on June 10th; it's a public holiday. 
+4. He needed to get up in the night to let the cat out.   but we say in the night when we are talking about a short time during the night.
+5. Owls come out at night, but you can also see them during the day 
+6. She didn't come to work on Tuesday; she was ill. 
+7. They moved to London about ten years age.
+8. The castle was built in the 14th century.
+
+\ is back slash
+
+pressure: unvoiced   pleasure: voiced
+
 ## 0726
 awkward: classes start on Thursday this week (from 11am to 2pm). It's an awkward time
 

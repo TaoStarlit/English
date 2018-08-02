@@ -49,7 +49,7 @@ To sum up, there are so many important aspects that it is risky for graduates to
 In this essay I explored the critical aspects the graduates should be aware of when running a company.
 I have also outlined the several key personalities of the originator of a company and shared some tips to self test and train.
 Nevertheless, I mentioned many exciting things when an originator can run a company well.
-If graduates want to set up their business, they have make to make full preparation first.
+If graduates want to set up their business, they have to make full preparation first.
 
 
 

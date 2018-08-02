@@ -1,3 +1,19 @@
+# Unit 3 Transportation
+### Listening:  good chunk and collocation
+1. increasing + adj. : Train travel because increasing common in the mid- to late- 19 century, despite the difficulties involved with this mode of travel.
+1. other available means of + noun. : In many ways, trains were more efficient than other available means of transportation, but there were still drawbacks.
+1. state+reason detail: Travel at night is tricky, for example, because trains lacked effective methods of illumination.
+1. Rides on early trains were often rough because xx, although this improved over time and riding the train became more comfortable. 
+1. introduce a phrase or clause **contrasting** with what has already been mentioned: despite, but and although (+phrase +both +clause):  above  +  difficulties involved with;  there were still drawback; this improved over time.
+1. be a reason why; be frequently vulnerable: xxx, and this was one reason why trains were frequently vulnerable to delays. 
+1. keep away from + passive: the smoke from the locomotive could not be kept away from the rest of the train.
+1. be the major means of; major effect on: Trains were the major means of long-distance travel for a long time and had major effects on the society and the economy.
+1. conclusion: Clearly, the initial cost of building the railroads was well worth it, despite the drawbacks involved.?? -- Good: adjective: this place are well worth a visit.  jewellery worth ?450 was taken
+
+
+https://learnenglish.britishcouncil.org/en/english-grammar/time-and-dates
+
+
 # Unit 2 Leisure time
 #### good new collocation
 1. physical and intellectual: who xx engage in a range of activities for relaxation, both ~  

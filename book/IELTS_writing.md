@@ -1,10 +1,22 @@
+
+
+
+
+
 # Unit 3 Crime
 ### before you study this this unit, try to writing the essay on the topic: prison is the best punishment for criminals.
-2:1 it depends on, take xx into account.  introduction: need statement
+1:2 it depends on, take xx into account.  introduction: need statement
+
+### after learn this unit, I want to write a essay of opinion, and another for discussion with the similar content and different formulas. 
+review the formulas, ideas, example, synonym, mind mind:  D:\BaiduYunDownload\WorkStudy\IELTS\AdvancedWriting.xlsx
+
+Prison is the best punishment for criminals. Do you agree or disagree?
+Some people think a crime should always be sentenced to prison, whereas other think you should take the circumstances of the crime into a crime. What is your viewpoint.
+
 
 For crime issue, some people believe the best way to punish criminals is prison, and others do not think so. In opinion, prison is only the most essential way of punishing the criminals, but it should take into account of the age and the type of the one with crime.  and there should be more effective way depending on the age and the type of the person with crime. This essay will first discuss about the prison punishment. Then it will analyse its deficience and alternative punishment way. In this essay, I will shared my opinion as well as examples.
 
-Prison is a basic way to to punish the crimals as it can take the freedom of the crimals and protect other from these crimals for a while. Obviously, the crimal who is be confined in the prison can do harm to other people in the sociaty, so other people can enjoy their normal without the interence of these crimal. For example, when a theif is taken into the prison, others' possesions will be safer, an they are not expured to the theif. Moreover, in the prison, the crimal can be rehabited to be a worker, and after they are released, they can to get a simple job of worker and will not be back to be a theif any more. Prison is good way to transfer the crimal to be good guy as well as to protect other people.
+Prison is a basic way to to punish the crimals as it can take the freedom of the crimals and protect other from these crimals for a while. Obviously, the crimal who is be confined in the prison can do harm to other people in the sociaty, so other people can enjoy their normal without the interence of these crimal. For example, when a theif is taken into the prison, others' possesions will be safer, as they are not expured to the theif. Moreover, in the prison, the crimal can be rehabited to be a worker, and after they are released, they can to get a simple job of worker and will not be back to be a theif any more. Prison is good way to transfer the crimal to be good guy as well as to protect other people.
 
 Having said that, prison is a good punishment only in some cases. For teenagers, if by chance they become a crimal and are taken into the prison, they can't to go to school for the elementary education. What's worse, if other crimals shape the personality to be worse, and then after they go out of the prison, they may do more crimes, which make the sociality more unsafe. For some financial criminals, even in the prison, they can continue to make more crime if they are able to communicate with their partners and operate the financal tool. Therefore, prison is not always a good punishment.
 
@@ -16,6 +28,84 @@ In conclusion, I think prison is not the best way for all crimal, and the best p
 idea: crimal, prison: need accumualte idea first --- the vocabulary book: 偷看下idea  discuss if it is effective
 !!! alternative scheme. not  else is best,
 
+
+## the concept about crime:
+- corporal punishment: a means of punishment that involves hitting someone
+- capital punishment: sentencing someone who has committed a crime to the death penalty
+- life imprisonment: the maximum prison sentence which a court can issue
+- a curfew order: a punishment which tell someone by law when they have to be in their home
+
+## your bank of word and phrases:
+1. necessary evil: something which we know is not good but that we still need
+2. would-be: the xx in the future. eg. prison send out a strong message to would-be criminals
+3. petty crime: less serious offence
+4. not basic need: luxuries/ luxury
+5. alternative: another choice
+6. a way of: a means of
+7. harm: cause pain or suffering
+8. rub shoulder with sb : spending time together in the same situation
+9. re-offend: commit crimes again
+10. release: set free
+11. prisoners: inmates
+12. most: the majority of
+13. fail: not succeed
+++ 
+14. be allowed to, roam freecan't not be allowed to roam free in our society/community
+15. as a means of, not effective in a lot of cases: if we are talking about prison as a means of punishment, I would have to say that I doubt it is very effective in a lot of cases. 
+16. have sth. taken: if they have taken a life, they should have their freedom taken away from them for life
+17. a high percentage of; set free: ~ prisoners re-offend once they are released back into the community. 
+18. ... ....
+19. For many, for others
+
+
+---
+introduce others' opinions and add more
+#### chunk for introducing opinion 
+Many people / Some / A growing number of people argue/believe/think/feel/say that ...
+It is argued by some that ...
+There is a common belief that ...
+This is because they say it is adjective to ..
+#### chunks for adding more
+They clain/feel that ..
+It is their view/belief that ..
+Another common belief about TT is that ...
+There is also an argument that
+
+1. believe that Statement. They claim that Fact;   television / good for children / educational / helps / learn
+2. hold the view that Prediction. It is their view that fact;  robots / replace teachers / future / marking test paper / more efficient
+3. argue that Statement. This is because they said More important choice;   sport in school / waste of time / concentrate on key subjects / sport / outside school
+4. feel that Suggestion. They claim that Effect;   teachers / able / physical discipline / reduce / misbehaviour
+5. Many people hold the view that Statement. They feel that Fact; take a gap year / waste of time / people / become / lazy / not want to work / return
+
+- my draft:
+1. Many people believe that watching television is good for children. They clain that it is education and that, in fact, it helps them learn.
+2. A growing number of people hold the view that robots will replace teachers. It is their view that, in some situations, such as marking test paper, the robots would be more efficient.
+3. Many people argue that playing sport in school is a waste of time. This because they said students should concentrate on key subjects and they should play sport outside the school hours.
+4. Some parents feel that teachers should be able to build physical discipline. They claim that it can reduce the misbehaviour of the students.
+5. Many people hold the view that taking a gap year is a waste of time. They feel that people who have a gap year playing oversea would become lazy and would not want to work when they return.
+- the correct one:
+1. Many people believe that watching television is actually a good thing for children. They claim that it is educational and that, in fact, it helps them learn.
+    - more specific: be good for --> is actually a good thing for.  actually: emphasize the fact of a situation
+    - typos: education --> educational;  claim
+1. A growing number of people hold the view that eventually robots will replace teachers in the future. It is their view that, in some situations, such as marking exam papers, the robots would be more efficient.
+    - more specific: adverb, and adverbial phrase.  that eventually robots will ...  in the future
+    - exam papers  -- countable
+1. Many people argue that doing sport in school is a waste of time. This because they said it is more important to concentrate on key subjects like mathematics and sciences and that sport should be done outside school hours.
+    - collocation: sport: doing sport; is good sport;(Unc)  in school sports(pl);  a waste of time
+    - comparable:  students should do --> it is more important to do 
+    - passive structure (weaken the subject: students; focus more on the object: sport): sport should be done outside school hour
+1. Some parents feel that teachers should be able to use physical discipline. They claim that this method can reduce misbehaviour and promote respect.
+    - collocation: use/apply discipline
+    - synonym: it ---> this method
+    - non-article for uncountable noun
+1. Many people hold the view that taking a gap year is a waste of time. They feel that people who travel for a year would become lazy and do not want to work when they return.
+    - need better paraphrase: taking a a gap --> have a gap year for playing --> travel for a year time
+    - become and do not want;  would become and do not want
+
+
+
+
+---
 # Unit 2 Problem and Solution essay 1:
 ### solution:
 1. A solution is for goverment to do
@@ -49,7 +139,7 @@ eg.
 5. To sum up, (problem), due to reasons such as A, B and C. (Statement, unless we can xxx, consequence). My view is that the main responsibility for solving the prolbem lies with xxx, xx and xx.
 
 
-
+---
 # Unit 1 Living aborad
 What are the advantages and disadvantages of leaving your country to live or study abroad?
 - introduction
@@ -173,7 +263,7 @@ read a article entitled getting away from it all. -- extract the information you
     - intead of having to doing, you have more room xx, which are more suitable for the internet era.
     - Instead of eating in front of the TV, it would be a good idea if families made time to eat together.
     - Instead of throwing away newpapers and bottles, people should recyle them. 
-    - Nowadays, people tend/prefer to to call their friends using a mobile, instead of using a landline.
+    - Nowadays, people tend/prefer to call their friends using a mobile, instead of using a landline.
     - In the past, people tended to live in the same city all their life, but now they often move from city to city instead.
     - I used to be very common to write letters, but now people tend to send email instead.
 1. non-defining relative clause for comments or more information
@@ -183,7 +273,7 @@ read a article entitled getting away from it all. -- extract the information you
     - , the goverment reduced business tax for new companies last year, which is a positive step, because it makes it easier for people to set up a company.
 1. defining relative clauses:
     - people who run their own businesses face many challenges.
-    - people who word at home often miss discussing deals with colleagues.
+    - people who work at home often miss discussing deals with colleagues.
     - Countries that spend a lot of money on public transport often have less pollution in cities.
     - people who have lots of brothers and sisters tend to learn how to share things better than people who are an only child
     - People who live in a big city have more job opportunities than people who live in small village.
@@ -219,3 +309,6 @@ read a article entitled getting away from it all. -- extract the information you
     - personally, for me
     - I think, I believe
     - in my opininon
+
+the whole content table
+D:\BaiduYunDownload\WorkStudy\IELTS\AdvancedWriting.xlsx
