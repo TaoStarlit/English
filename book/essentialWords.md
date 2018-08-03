@@ -2,7 +2,7 @@
 ### Listening:  good chunk and collocation
 1. increasing + adj. : Train travel because increasing common in the mid- to late- 19 century, despite the difficulties involved with this mode of travel.
 1. other available means of + noun. : In many ways, trains were more efficient than other available means of transportation, but there were still drawbacks.
-1. state+reason detail: Travel at night is tricky, for example, because trains lacked effective methods of illumination.
+1. state + reason detail: Travel at night is tricky, for example, because trains lacked effective methods of illumination.
 1. Rides on early trains were often rough because xx, although this improved over time and riding the train became more comfortable. 
 1. introduce a phrase or clause **contrasting** with what has already been mentioned: despite, but and although (+phrase +both +clause):  above  +  difficulties involved with;  there were still drawback; this improved over time.
 1. be a reason why; be frequently vulnerable: xxx, and this was one reason why trains were frequently vulnerable to delays. 
@@ -10,8 +10,51 @@
 1. be the major means of; major effect on: Trains were the major means of long-distance travel for a long time and had major effects on the society and the economy.
 1. conclusion: Clearly, the initial cost of building the railroads was well worth it, despite the drawbacks involved.?? -- Good: adjective: this place are well worth a visit.  jewellery worth ?450 was taken
 
+#### when I was listening to this record, I was not sure about he  preposition:
+1. method/means of doting
+2. cost of
 
 https://learnenglish.britishcouncil.org/en/english-grammar/time-and-dates
+
+
+
+### Major subways of Europe
+1. intrinsic (belonging naturally; essential.); centerpiece (not seperated); be around: it is such a xx part of London. it is famous worldwide. it is really a centerpiece of the city. and it has been around for a long time
+2. intrinsic; stean engines pull the (bullet);: at time time, they use steam engine to pull the trains.  
+3.  can/could; (to the system was built)intonation to distinguish main sentence or Apposition clause; : steam engine was intrinsic to the way the system was built.  
+4.  couldn't because past simple, the plural(ou ol): the tracks couldn't be very deep because the engines had to release steam
+3. there were vents (XX that was advanced): the tunnel/channel had to be close to the surface of the ground, and there were vents to release the steam to the streets.   vent: an opening that allows air, gas, or liquid to pass out of or into a confined space.
+4. new technique: introduced: so we should exmplain all that and talk about how the system changed when the electric trian was insduce??
+5. that made a big difference because the tunnels could be deeper since they didn't have to worry about releasing steam.
+6. methods that made it possible(not to do):a sort of shield (not seal): and they had developed methods that made it possible to dip deeper tunnels becasue they used a sort of shield to support the tunnel while the workers were dipping.
+7. (all plural): be happy with: people were happy with the deeper tunnels because it wasn't necessary to destory trees and bulidings to dip them.
+
+### vocabulary:
+deconstruct: antonym of construct: reduce (something) to its constituent parts in order to reinterpret it.
+destruction: the act of ruin something.  4B
+shield: something that serve as protection. 14D
+vent: an opening to let air, steam or smoke out
+showcase: a setting in which present something 15 G
+disruptive: stopping the usual course of activity 6 P -- although the method was disruptive, it worked.
+pedestrian: a person traveling on foot
+rival: to compete with 13 A ---
+spring up: to appear 16 S ---
+architecure: 1 the style of building
+clog: v. to fill so much as to make movement difficult -- horses and pedestrains had so clogged the streets of London that no railroads could enter the city except underground.
+instrinsic: basic 2 K
+centerpiece:  2 the main or most important feature -- many big cites have an underground rail systems as their cenerpiece.
+headquarters: 8 B central office for a military commander  -- Oooo 
+
+### other words:
+devise: plan or invent (a complex procedure, system, or mechanism) by careful thought.-- a engineer had devised a wa of supporting the tunnel, while the workers dug.
+carve, circular, diameter: Greahead shield carved a circular tube more than seven feet in diameter, which is why the Loondon Underground is calledthe Tube. carve: cut (a hard material) in order to produce an object, design, or inscription. circular:adj. having the form of a circle.  diameter: a straight line passing from side to side through the centre of a body or figure, especially a circle or sphere; dimeter:a line of verse consisting of two metrical feet.
+#### reading answer: 
+1-4 C C A B 5-7 B C A
+
+nouveau, mosaics, sculpturs,paintings, innovative
+Pair's underground is famous for its beautiful architecture: Paris's Metro is known for its beauty. The stations and entrances are examples of art nouveau archiecture, and they are decorated with mosaics, sculptures, paintings, and innovative doors and walls
+
+
 
 
 # Unit 2 Leisure time
@@ -29,18 +72,37 @@ https://learnenglish.britishcouncil.org/en/english-grammar/time-and-dates
 1. deliberately: intentionally, on purpose; 
 1. deliberate: verb. engage in long and careful consideration. MS. The group deliberate for a hour before reaching a decision.  
 1. adj.done consciously and intentionally. they need to make a deliberate decision to spend more time in nature.  1. deliberation: careful consideratioin: MS. After deliberation, I decided to spend some time every data engaged in outdoor activities.
+1. locomotive: -tive *Oo  engine of pulling trains; a powered railway vehicle used for pulling trains
+1. involve: have or include something as a necessary or integral part or result.
 
 
 ## Listen first
-1. peripheral (XX perifiel) vision : at the edge
+1. peripheral (XX perifiel) vision : at the edge  oOoo
 2. leisure(voiced fricative) time
 3. out of the count (XX horse)
-4. anticipate (in ti ci pate): to expect, be ready for something happen
-5. renuber
-6. look on the ball, also scan the whole court
-7. at the leisure time, good athletes(Oo adj.oOo athletic) do it unconsciously
-7. they do this so fast, it's indiscernible (XXinsenseable) to us, when we're watching the game. (impossible to see or notice)
-8. coordinate (verb, bring the different elements into a harmonious or effecient relationship) when you see a play move in to shoot the basket, he's there because he was able to coordinate all the information he took in about the action of the game, so he could make this move.    --MS: he could coordinate play with other children in his childhood.
+4. anticipate (in ti ci pate): to expect or predict, be ready for something happen -- he has to anticipate their maneuver 
+5. maneuver: movement (man+euver; man+nervous,need movement)  interpret oOo; interpretation oooOo
+6. may look the ball, also has to scan the whole court
+7. There isn't time. (at the leisure time,) good athletes(Oo adj.oOo athletic) do this unconsciously
+8. they do this so fast, it's indiscernible (XXinsenseable) to us, when we're watching the game. (impossible to see or notice) -- but they don't respond indiscernibly
+9. coordinate (verb, bring the different elements into a harmonious or efficient relationship) when you see a play move in to shoot the basket, he's there because he was able to coordinate all the information he took in about the action of the game, so he could make this move.    --MS: he could coordinate play with other children in his childhood.
+
+
+ 
+### preposition, article, pronoun:
+1. move in   to shoot the basket
+2. the information he took in    about the game
+3. other mode of travel;  other available means of transportation;   trains lacked effective method of illumination
+5. the way+clause: the way the eye works; the way the train tracks were laid
+4. travel at night was tricky
+5. this was one reason why trains were frequently vulnerable to delays.
+6. major effect on society and the economy. 
+7. the initial cost of building the railborads was well worth it, despite the drawbacks involved.
+8. Rides on early trains were often rough because of the way 3.
+9. the major means of long-distance travel for a long time
+
+### English root/affix(affixes prefix suffix: Oo   e:ee u:run af:art)
+1. il lumin
 
 ## reading
 1. more than that: 
@@ -119,7 +181,7 @@ I *read some plants are actually* able to  determine when they've lost enough mo
 .. so they can accumulate water taken from the deep in the ground.
 
 #### missed
-1. rapid evaporation
+1. rapid evaporation? vapor: a substance diffused or suspended in the air,
 2. 
 
 
@@ -130,9 +192,10 @@ I *read some plants are actually* able to  determine when they've lost enough mo
 3. deforestation: the removal of all trees from a large area 
 4. logging: the cutting down of tree for commercial purposes
 4. intercept: to catch
-5. inhibit: to prevent, slow down   eg. tree inhibit soil erosion
+5. inhibit: to prevent, slow down   eg. tree inhibit soil erosion; tree shade inhibits the growth of algae. (a simple aquatic plant)
 6. myriad: many, numerous -- 'mi ri e
 7. vegetation: plants on a area
+8. habitat: the natural area where a plant or animal lives
 
 1. fascinate: Bird migration in particular has fascinated observers for centuries.(to interest greatly)
 2. biological, imperative, niches: Migration is an example of how nature has responded to the biological imperative for species to evolve and spread out into all possible ecological niches.

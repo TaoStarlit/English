@@ -5,6 +5,14 @@
 - struggle:   doubld G
 
 
+## 0803:
+the Asian and Australian
+https://www.scmp.com/week-asia/business/article/2151032/grapes-wrath-dark-clouds-australian-winemakers-china-ties-sour
+https://www.straitstimes.com/asia/australianz/asian-immigrants-altering-aussie-suburbs
+https://museumsvictoria.com.au/origins/history.aspx?pid=9
+https://economictimes.indiatimes.com/news/international/world-news/the-secret-to-australia-avoiding-recession-mass-immigration-from-india-china/articleshow/63281537.cms
+
+
 ## 0801:
 1. 积木：Lego blocks;  buiding block; toy brick 砖块
 2. 折纸：Origami ooOo: The Japanese art of folding paper to decorative shapes and figures.
