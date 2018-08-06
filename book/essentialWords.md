@@ -1,11 +1,11 @@
 # Unit 3 Transportation
 ### Listening:  good chunk and collocation
 1. increasing + adj. : Train travel because increasing common in the mid- to late- 19 century, despite the difficulties involved with this mode of travel.
-1. other available means of + noun. : In many ways, trains were more efficient than other available means of transportation, but there were still drawbacks.
-1. state + reason detail: Travel at night is tricky, for example, because trains lacked effective methods of illumination.
+1. in many ways = in many aspects; other available means of + noun. : In many ways, trains were more efficient than other available means of transportation, but there were still drawbacks.
+1. state, for example,+ reason detail: Travel at night is tricky, for example, because trains lacked effective methods of illumination.
 1. Rides on early trains were often rough because xx, although this improved over time and riding the train became more comfortable. 
-1. introduce a phrase or clause **contrasting** with what has already been mentioned: despite, but and although (+phrase +both +clause):  above  +  difficulties involved with;  there were still drawback; this improved over time.
-1. be a reason why; be frequently vulnerable: xxx, and this was one reason why trains were frequently vulnerable to delays. 
+1. words to introduce a phrase or clause *contrasting* with what has already been mentioned: despite, but, although (+phrase +both +clause):  ~  difficulties involved with;  ~ there were still drawback; ~ this improved over time.
+1. be a reason why (apposition clause); be frequently vulnerable to sth.: xxx, and this was one reason why trains were frequently vulnerable to delays. 
 1. keep away from + passive: the smoke from the locomotive could not be kept away from the rest of the train.
 1. be the major means of; major effect on: Trains were the major means of long-distance travel for a long time and had major effects on the society and the economy.
 1. conclusion: Clearly, the initial cost of building the railroads was well worth it, despite the drawbacks involved.?? -- Good: adjective: this place are well worth a visit.  jewellery worth ?450 was taken
@@ -19,39 +19,39 @@ https://learnenglish.britishcouncil.org/en/english-grammar/time-and-dates
 
 
 ### Major subways of Europe
-1. intrinsic (belonging naturally; essential.); centerpiece (not seperated); be around: it is such a xx part of London. it is famous worldwide. it is really a centerpiece of the city. and it has been around for a long time
-2. intrinsic; stean engines pull the (bullet);: at time time, they use steam engine to pull the trains.  
+1. intrinsic (-Oo belonging naturally; essential.); centerpiece (not seperated); be around: it is such a xx part of London. it is famous worldwide. it is really a centerpiece of the city. and it has been around for a long time
+2. intrinsic; steam engines pull the (X bullet);: at time time, they use steam engine to pull the trains.  
 3.  can/could; (to the system was built)intonation to distinguish main sentence or Apposition clause; : steam engine was intrinsic to the way the system was built.  
-4.  couldn't because past simple, the plural(ou ol): the tracks couldn't be very deep because the engines had to release steam
+4. couldn't because past simple, the plural(ou ol): the tracks couldn't be very deep because the engines had to release steam
 3. there were vents (XX that was advanced): the tunnel/channel had to be close to the surface of the ground, and there were vents to release the steam to the streets.   vent: an opening that allows air, gas, or liquid to pass out of or into a confined space.
-4. new technique: introduced: so we should exmplain all that and talk about how the system changed when the electric trian was insduce??
+4. new technique was introduced: so we should exmplain all that and talk about how the system changed when the electric train was introduced
 5. that made a big difference because the tunnels could be deeper since they didn't have to worry about releasing steam.
-6. methods that made it possible(not to do):a sort of shield (not seal): and they had developed methods that made it possible to dip deeper tunnels becasue they used a sort of shield to support the tunnel while the workers were dipping.
+6. methods that made it possible(not to do):a sort of shield (not seal: the same except:sh + d): and they had developed methods that made it possible to dip deeper tunnels becasue they used a sort of shield to support the tunnel while the workers were dipping.
 7. (all plural): be happy with: people were happy with the deeper tunnels because it wasn't necessary to destory trees and bulidings to dip them.
 
 ### vocabulary:
-deconstruct: antonym of construct: reduce (something) to its constituent parts in order to reinterpret it.
-destruction: the act of ruin something.  4B
-shield: something that serve as protection. 14D
-vent: an opening to let air, steam or smoke out
-showcase: a setting in which present something 15 G
-disruptive: stopping the usual course of activity 6 P -- although the method was disruptive, it worked.
-pedestrian: a person traveling on foot
-rival: to compete with 13 A ---
-spring up: to appear 16 S ---
-architecure: 1 the style of building
-clog: v. to fill so much as to make movement difficult -- horses and pedestrains had so clogged the streets of London that no railroads could enter the city except underground.
-instrinsic: basic 2 K
-centerpiece:  2 the main or most important feature -- many big cites have an underground rail systems as their cenerpiece.
-headquarters: 8 B central office for a military commander  -- Oooo 
+1. deconstruct: antonym of construct: reduce (something) to its constituent parts in order to reinterpret it.
+1. destruction: the act of ruin something.  5C
+1. shield: something that serve as protection. 14D a way of supporting the tunnel while the wrokers are dug, called the xx shield.
+1. vent: an opening to let air, steam or smoke out
+1. showcase: a setting in which present something 15 G
+1. disruptive (-Oo run): stopping the usual course of activity 6 P -- although the method was disruptive, it worked.
+1. pedestrian(oOo Oian, adept): a person traveling on foot.  a pedestrian tunnel has been built under the Thames river in 1825
+1. rival (Oo, ride travel): to compete with 13 A --- Paris started designing an underground rail service to rival London's.
+1. spring up: to appear 16 S ---
+1. architecure: the style of building 1I 
+1. clog: v. to fill so much as to make movement difficult -- horses and pedestrains had so clogged the streets of London that no railroads could enter the city except underground. 3R
+1. intrinsic: basic 9 K.  Public transportation is an intrinsic part of every modern city. 
+1. centerpiece:  2Q the main or most important feature -- many big cites have an underground rail systems as their cenerpiece.
+1. headquarters: 8 B central office for a military commander  -- Oooo 
 
 ### other words:
-devise: plan or invent (a complex procedure, system, or mechanism) by careful thought.-- a engineer had devised a wa of supporting the tunnel, while the workers dug.
-carve, circular, diameter: Greahead shield carved a circular tube more than seven feet in diameter, which is why the Loondon Underground is calledthe Tube. carve: cut (a hard material) in order to produce an object, design, or inscription. circular:adj. having the form of a circle.  diameter: a straight line passing from side to side through the centre of a body or figure, especially a circle or sphere; dimeter:a line of verse consisting of two metrical feet.
+1. devise: plan or invent (a complex procedure, system, or mechanism = design originally) by careful thought.-- a engineer had devised a way of supporting the tunnel, while the workers dug.
+1. carve, circular, diameter (oOoo): Greahead shield carved a circular tube more than seven feet in diameter, which is why the Loondon Underground is calledthe Tube. carve: cut (a hard material) in order to produce an object, design, or inscription. circular:adj. having the form of a circle.  diameter: a straight line passing from side to side through the centre of a body or figure, especially a circle or sphere;  dimeter(Ooo):a line of verse consisting of two metrical feet.
 #### reading answer: 
 1-4 C C A B 5-7 B C A
 
-nouveau, mosaics, sculpturs,paintings, innovative
+nouveau, mosaics, sculptures(Oo), paintings, innovative(-Otive)
 Pair's underground is famous for its beautiful architecture: Paris's Metro is known for its beauty. The stations and entrances are examples of art nouveau archiecture, and they are decorated with mosaics, sculptures, paintings, and innovative doors and walls
 
 
