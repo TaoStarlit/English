@@ -14,10 +14,48 @@ continuous vs discrete
 
 
 
+|Unit|Title|Topic|Learning|
+|---|---|---|
+|1|Growing up|Relations, families and early learning|relatively small|
+|20|The arts|Art appreciation, the performing arts|which art form|
+
+# Unit 20 The art
+1.1 which art form are shown in the these pictures? what do we call the people who do these things?
+- abstract art/painting, an artist
+- ballet/dancing, ballet dancers or ballerinas
+- portrait, an artist (trai)
+- a play, the theatre
+- opera, an opera singer
+- classical music, an orchestra (ki-che tra)
+- a sculpture, a sculptor
 
 
+1.3 new word:
+- artefact: African ~ inspired xx's work.  -- an object made by a human being, typically one of cultural or historical interest. (the noun form of A of AI)
+- universal impulse: there is seemingly universal impulse to express oneself.
+- tingle / most likely/thrill/reflection: most likely your skin tingled, you felt a thrill and you paused for a moment of reflection. -- experience or cause to experience a slight prickling or stinging sensation 抖动.   thrill: a sudden feeling of excitement and pleasure 哆嗦.
+- glimpse / mundane: Even glimpses of mundane objects such as the latest curvceous kettle, can inspire something similar. --of this earthly world rather than a heavenly or spiritual one. of the earthly world rather than a heavenly or spiritual one. <--平凡，尘世的
+- choreographed: formal qualities like proportion are choregraphed to produce the viewer's rush. -- compose the sequence of steps and moves for (a ballet or other performance of dance). 编排，编舞
+- aesthetic (sOtic)experience;  could analyse just as deftly. -- concerned with beauty or the appreciation of beauty.
+- transcending: rather than transcending the ordinary -- be or go beyond the range or limits of (a field of activity or conceptual sphere).
+- burgeoning: this is the burgeoning field of neuroaesthetics  -- begin to grow or increase rapidly; flourish. (young,beginning)
 
+1.4
+2. No, is limited to certain parts of the world v.s universal impulse
+3. (provoke) No, it provokes serious and careful thought. 
+4. Yes. ordinary objects can be aeshetically pleasing.   Mundane-orinary
+5. XX No. arrange and combine artistic elements to create a feeling of excitement. --> formal quality like proprotion are choregraphed to produce he viewer's rush.    Yes. Choregraphed
+6. XX No. idea v.s. conception and experience         Yes.  conception
+7. XX Yes. fail to catch on --> could analye as deftly.    No.  fail v.s. burgeoning(young,begin to grw)
+8. XX Yes. A way of rising above everyday life. --> part of everyday experience.  No. rather than transcending(go beyond) v.s. rise above
 
+#### 20 a
+#### 20 b
+- plays a very important role in my life
+- set and change the mood, so I xx
+- stimulating  / relaxing / distrating /
+- menu , I don't really like
+- enrich my life, and -- boring to very 
 
 
 # Unit 6 Effective communication:
@@ -49,6 +87,12 @@ continuous vs discrete
 1. they just don't understand it at all (no contrast X as I talk).  Luckily, Grandad shares my tastes.  
 1. violin; cello player 
 
+### for speaking
+1. at my age: his photo at my age.  when she was I my age
+1. relative small: my extended family is very large. my immediate (imm-) family is quite small
+1. resemblance: (resemble re-O) the resemblance between me and my grandfather is very striking.
+1. temperament / brain, have/inherited: I think my mother's brother's temperament/personality - we're both courageous(Oo-ous), optimistic(pessimistic) and decisive (O-oive: active, passive). Besides, I also inherited his mathematical brain!
+1. ?? options: teacher in elementary school or middle school, that is part of the civil service and goverment system.  never changed my career, because it gets high pay and farewell, occupy tax resource in a certain city or district. Even though, I have the right instincts of a teacher and mentor. Patient. more important a weak man. A big/fast man can be bully. He has known power all his life may lose respect for that power, but a weak man knows. the value of strength. And knows, that is the point, compassion. A compassionate man can observe and understand what a child really need, then arranage and enconrage the children to create what they want. 
 
 
 
