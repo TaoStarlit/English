@@ -33,23 +33,41 @@ continuous vs discrete
 1.3 new word:
 - artefact: African ~ inspired xx's work.  -- an object made by a human being, typically one of cultural or historical interest. (the noun form of A of AI)
 - universal impulse: there is seemingly universal impulse to express oneself.
-- tingle / most likely/thrill/reflection: most likely your skin tingled, you felt a thrill and you paused for a moment of reflection. -- experience or cause to experience a slight prickling or stinging sensation 抖动.   thrill: a sudden feeling of excitement and pleasure 哆嗦.
-- glimpse / mundane: Even glimpses of mundane objects such as the latest curvceous kettle, can inspire something similar. --of this earthly world rather than a heavenly or spiritual one. of the earthly world rather than a heavenly or spiritual one. <--平凡，尘世的
-- choreographed: formal qualities like proportion are choregraphed to produce the viewer's rush. -- compose the sequence of steps and moves for (a ballet or other performance of dance). 编排，编舞
+- tingle / most likely/thrill/reflection: most likely your skin tingled, you felt a thrill and you paused for a moment of reflection. -- experience or cause to experience a slight prickling or stinging sensation 抖动（皮肤发麻）.   thrill: a sudden feeling of excitement and pleasure 哆嗦.
+- glimpse / mundane (mud): Even glimpses of mundane objects such as the latest curvaceous kettle, can inspire something similar. --of this earthly world rather than a heavenly or spiritual one. of the earthly world rather than a heavenly or spiritual one. <--平凡，尘世的
+- choreographed (O- , ko  (ca)reer): formal qualities like proportion are choreographed to produce the viewer's rush. -- compose the sequence of steps and moves for (a ballet or other performance of dance). 编排，编舞
 - aesthetic (sOtic)experience;  could analyse just as deftly. -- concerned with beauty or the appreciation of beauty.
-- transcending: rather than transcending the ordinary -- be or go beyond the range or limits of (a field of activity or conceptual sphere).
-- burgeoning: this is the burgeoning field of neuroaesthetics  -- begin to grow or increase rapidly; flourish. (young,beginning)
+- transcending (tran-O): rather than transcending the ordinary -- be or go beyond the range or limits of (a field of activity or conceptual sphere).
+- burgeoning (O- burger oxygen): this is the burgeoning field of neuroaesthetics  -- begin to grow or increase rapidly; flourish. (young,beginning)
 
 1.4
+
 2. No, is limited to certain parts of the world v.s universal impulse
-3. (provoke) No, it provokes serious and careful thought. 
+3. (provoke) Yes, it provokes serious and careful thought.  沉思 reflection.   provoke -- stimulate or give rise to (a reaction or emotion, typically a strong or unwelcome one) in someone
 4. Yes. ordinary objects can be aeshetically pleasing.   Mundane-orinary
 5. XX No. arrange and combine artistic elements to create a feeling of excitement. --> formal quality like proprotion are choregraphed to produce he viewer's rush.    Yes. Choregraphed
 6. XX No. idea v.s. conception and experience         Yes.  conception
 7. XX Yes. fail to catch on --> could analye as deftly.    No.  fail v.s. burgeoning(young,begin to grw)
 8. XX Yes. A way of rising above everyday life. --> part of everyday experience.  No. rather than transcending(go beyond) v.s. rise above
 
-#### 20 a
+#### 20 a 
+1. write
+1. luxiery
+1. fair
+1. activity
+1. festeral
+
+6. visual
+1. artist
+1. creative
+1. gallery
+1. craftsman
+
+11. festerval
+1. interactive
+1. musical
+1. concerts
+
 #### 20 b
 - plays a very important role in my life
 - set and change the mood, so I xx
