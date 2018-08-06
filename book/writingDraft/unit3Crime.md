@@ -1,3 +1,10 @@
+Turesday:
+- writing:
+- linking words and sentence: 
+- how to type Phonetic symbol (I can only type stress so far eg. instrinsic -O-sic; courageous Oo-ous; curious Oo-ous; decisive: -O-sive; positive/negative: Oo-tive; agressive: -O-sive)
+- from listen material to speaking
+- the difference between speaking and writing (in our high school, we only do reading, the never use the word in speaking)
+
 Question A：discussion
 Some people think a crime should always be sentenced to prison, whereas other think you should take the circumstances of the crime into account. What is your viewpoint.
 

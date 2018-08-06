@@ -14,12 +14,12 @@ In this discussion, I will share my ideas as well as relevant examples.
 - most graduates VS most of the graduates: second is for specific, eg. most of the students in UTS  --》 here need graduates
 - short of is like a slang, --> be deficient in
 
-Setting up your own business is not an easy task, because there are several critical aspects for runing a company.
+Setting up your own business is not an easy task (a plain sail), because there are several critical aspects for running a company.
 Firstly, it is the business model that determines how well the company perform.
 I can not imagine that a company would be successful if the originator had no idea about the business model of his or her company, which could make it difficult to create and maintain the transaction structure of relevant stakeholders.
-Secondly, the graduates should inform themselves about the positioning of the business, including the target market, transaction content and model, before they set up their company.
+Secondly, the graduates should inform themselves about the proposition(positioning) of the business, including the target market, transaction content and model, before they set up their company.
 Thirdly, the essential part of the company is cash flow, so originators should be very cautious when designing the cash flow and profit model.
-Furthermore, if they confronted with the financial problem, they should have some backup to support the company, etc.
+Furthermore, if they confronted with a financial problem, they should have some backups to support the company.
 Therefore, before running a company, the graduate should be aware of the important aspects that they may be lack of.
 
 - a comany VS running a company: one thing VS doing one thing -- use noun phrases
@@ -29,8 +29,9 @@ Therefore, before running a company, the graduate should be aware of the importa
 - ? cash flow , when 1st mention, non article
 - be aware of
 - subjunctive mood, only would/should/could
+- backup is countable: backups
 
-Not only that, not everyone has the personality to run a business, and there is some tips to test if you have the necessary characters.
+Not only that, not just everyone has the personality to run a business, and there is some tips to test if you have the necessary characters.
 Basically, the originator and the manager of a company are always the decision-maker, which need accurate analysis of the certain situation and sufficient courage to put things forward and make a difference.
 In daily life, you can see or you can be such decision-maker, so check whether it is your style.
 Moreover, running a business is all about communication, which means you need to keep in touch with the clients, providers and investors, as well as to manage your staff.
@@ -39,16 +40,16 @@ Assuming you was going to make work that may create some profit by yourself with
 There are so many personas you can test and train before you setting up your company.
 
 Having said that, it is undoubted that running an own company is a exciting deed.
-For me, the main is that you can set the goals for the business yourself, which means that you feel more that you are doing and pursue the what you love.
+For me, the main is that you can set the goals for the business yourself, which means that you feel more that you are doing and pursuing the what you love.
 Rather than doing what your boss says, you have more room to be creative, which are suitable for the internet era.
-In the financial aspect, buying facility like furniture and cars via a company can have a tax wavier.
-In addition, you can feel more sense of achievement and responsibility because you can provide more jobs for the people.
+In the financial aspect, buying facilities like furniture and cars via a company can have a tax wavier.
+In addition, you can feel more sense of achievement and responsibility because you can provide more jobs for other people.
 Therefore, you will bring many benefits if you are able to run a company well.
 
 To sum up, there are so many important aspects that it is risky for graduates to set up a company, which is even though an excellent deed if it goes well.
 In this essay I explored the critical aspects the graduates should be aware of when running a company.
 I have also outlined the several key personalities of the originator of a company and shared some tips to self test and train.
-Nevertheless, I mentioned many exciting things when an originator can run a company well.
+Nevertheless, I mentioned it will bring many exciting things if an originator is able to run a company well.
 If graduates want to set up their business, they have to make full preparation first.
 
 

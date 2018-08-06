@@ -1,4 +1,4 @@
-
+in Listening (not stress in last syllable -- noun-le; adjective-al): Capitalize, and plural
 
 fuel, fueling
 
@@ -13,14 +13,17 @@ rectification, rectify
 continuous vs discrete
 
 
+Works by Alex Green, whose paintings depict (de-O) the beatiful scenery this island is famous for, will be a prominent feature.
+
+
 
 |Unit|Title|Topic|Learning|
-|---|---|---|
+|---|---|---|---|
 |1|Growing up|Relations, families and early learning|relatively small|
-|20|The arts|Art appreciation, the performing arts|which art form|
+|20|The arts|Art appreciation, the performing arts|which art forms; what do you call the people|
 
 # Unit 20 The art
-1.1 which art form are shown in the these pictures? what do we call the people who do these things?
+1.1 which art forms are shown in the these pictures? what do we call the people who do these things?
 - abstract art/painting, an artist
 - ballet/dancing, ballet dancers or ballerinas
 - portrait, an artist (trai)
@@ -50,23 +53,54 @@ continuous vs discrete
 7. XX Yes. fail to catch on --> could analye as deftly.    No.  fail v.s. burgeoning(young,begin to grw)
 8. XX Yes. A way of rising above everyday life. --> part of everyday experience.  No. rather than transcending(go beyond) v.s. rise above
 
-#### 20 a 
-1. write
-1. luxiery
+#### 20 a  from the question, we know the structure 3 festival
+1. Writer's -- write
+1. Literary (rar) XX luxury/luxurious(uxu: XX luxiery) -- spell
 1. fair
-1. activity
-1. festeral
+1. Activities -- activities  -- activity.  plenty of
+1. theme -- scence -- festerval 
 
-6. visual
-1. artist
+6. Visual -- visual
+1. exhibition (exhibit) --artist
 1. creative
-1. gallery
-1. craftsman
+1. galleries -- gallery. various
+1. craft -- craftsman
 
-11. festerval
+11. Festival -- (e i : XX festerval)
 1. interactive
-1. musical
-1. concerts
+1. Musical -- musical
+1. concerts -- 
+
+- words or phrase:
+1. the study of art in relation to its beauty: aesthetic
+1. organized sets of special events: festivals
+1. skilled: accomplished 
+1. creations: works
+1. represent of show something in picture or story: depict. Works by Alex Green, whose paintings depict the beatiful scenery this island is famous for, will be a prominent feature.
+1. make shape in wood or stone with a knife: wooden carving
+1. describes a show that involves the audience: interactive
+1. the people gathered to listen to a performance: audience
+1. take part in paticipate
+1. musical performance: concerts
+
+?? aesthetic(XX static), prominent feature, wonderful _exhibition_, amazed by __, aspition, display crop
+
+?? formula of sentences:
+- there be: 
+    1. there be noun + ing : The island will host 3 arts festivals, each one showcasing different areas of the art world.
+    1. there be noun + by noun as adjective: Throughout the week there will be talks by local and international writers and a chance.
+    1. there be noun + to do as purpose adjective  phrase: ~ and a change to dine with them at the various literary lunches.
+    1. there be noun + ed as adjective: the little haven't been forgetten and so there are plenty of chidren's activities planned as well.
+    1. there are some famous and accomplished painters in residence on the island. 
+
+- recommend
+    1. there be: First, there is Living Writer's week.  Later in the year, there will be a celebration of the visual arts.
+    2. should not miss: if you love music then you shouldn't miss the Festival of Voices.
+    3. why not consider: for those of you who are interested in aesthetics, why not consider a visit to xxx this year.
+- sentence and collocation:
+    1. Works by Alex Green, whose paintings depict the beatiful scenery this island is famous for, will be a prominent feature.
+    2. edition: You'll also be able to pick up old and new editions at he very large book fair.
+    3. in residence on (as adjective): refer to the there be 
 
 #### 20 b
 - plays a very important role in my life

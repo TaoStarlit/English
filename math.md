@@ -1,4 +1,9 @@
-in 5.3 density fitting
+# mathematic for CS
+linear:
+# exponent
+An equation with one or more unknowns is called linear if the unknowns appear on their own, without exponent
+
+# in 5.3 density fitting
 
 ## spherical, Gaussian
 
