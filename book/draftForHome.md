@@ -1,3 +1,40 @@
+### math technique for CS:
+#### pronunciation:
+- numeric: O-ric . | eg. all computation happens on the numeric coefficients in front of them.
+- exponent: component:  exO comO | with exponent
+- equation: vision
+- concrete instance: (real and soild, not abstract.  concrete and abstract are both O-, so con: lot; ab: apple)
+- simultaneously: OoOo ous
+- subtract:  verb: subO. | eg. We do this by subtracting 3 times equation 1 from equation 2.... using the last line we eliminate the entries in the 3rd column in lines one and two | (take away (a number or amount) from another to calculate the difference.)
+- inevitable: Ooble. | Always work with the compact notation, not the explicit equations containting variables or you will inevitably get confused.
+- fraction: Otion . | a numerical quality that is not a whole number. 
+- contradictory: history Otory  lot+schwa+history (mutally opposed or inconsistent)
+- irrelevant: ir O o ant. | eg. inrelevant equation:  look at constrain
+- constrain: verb: con is schwa. | eg. this means the equation does not constrain the value of x in any way. |  (compel or force (someone) to follow a particular course of action.)
+
+
+### advanced writing:
+#### pronunciation:
+- prepare: oO ; preparation OoOtion :  e in o is scawa;  e in O is set or bed
+- in 2nd phase
+- noun phrase
+
+#### sentence structure:
+1. aims to do sth., based on sth. , and sth.   This book , take your write to 7.0 or higher level,  our many years of successfully preparing students for the IELTS exam,  our experience as IELTS Writing examiners.
+2. 4 things, in each of the classes: IELTS examiners are looking for , and this book is designed to help you .
+3. discuss xx, express + view, explain the cause of, make some suggestions, state yours view, justify your opinion; sides of xx, cause of, make suggestion about how to, view about a topic.:you have to discuss the positive and negative sides of a topic and then express your view; you have to explain the causes of a common social problem and make some suggestions about how to solve it. state your view about a topic, then justify your opinion.
+4. a range of xx in different xx: the books contains a range of texts in different styles.
+5. make xx adj. and to do: This makes the topics enjoyable and to introduce you to a range of natural and useful vocabulary.
+5. have/contain xx which function: Each unit contains grammar exercises which show you how to apply grammar rules to your writing.
+
+#### feature of this book
+1. Academic vocabulary for writing:  This book contains many exercises which shows how to write using the correct academic style.
+1. Sample student answers: Each unit contains at least one real essay written by an IELTS student. We have given examiners's comments and suggestions at the end of each answer, to help you learning from these answers.
+1. Check and challenge, chance to do xx relative clause have done: At the end of each unit, you have the change to revise the language you have studied, and to extend your language with extra challenges.
+1. Practice question: At the end of each of the Check and challenge pages, there are one or two extra questions for you to apply what you've learned in the unit.
+
+
+
 ### vocabulary: globalization - ageing society
 41. astonding: the summit offers astonding view. -- surprising, impressive or notable
 1. concerning: I find many of my comments very concerning -- cause anxiety; worring.
