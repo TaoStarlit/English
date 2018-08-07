@@ -15,7 +15,7 @@
 
 ### advanced writing:
 #### pronunciation:
-- prepare: oO ; preparation OoOtion :  e in o is scawa;  e in O is set or bed
+- prepare: oO ; preparation OoOtion :  e in o is schwa;  e in O is set or bed
 - in 2nd phase
 - noun phrase
 
@@ -35,6 +35,25 @@
 
 
 
+# advantages and disadvantages:  From Unit 1. The helps is 4 pm.  but  what you do before 3 pm is not directly related to it. then the browser fail -- game over.   give you result first! Only if you have time, illustrate all the process. 
+
+- from P12
+
+Many students would love the leave their universities and have an extended study overseas. They imagine enjoying discussion with their foreign classmates as their tutor mentors them. However, study overseas is not always easy, and many are not prepared for the shock of studying in an new environment.
+
+At first, for those who decide to go abroad, study overseas is an exciting experience. With the new environment, they enjoy exploring the new-found facilities in their overseas university (and new attractions nearby), and study seems like an extended holiday. They don't mind hanging out and having lunch with their foreign classmates and discovering other aspects of other cultures. They can even give themselves extra time to learn and practice their language skills without fear of making mistakes.
+
+
+
+
+
+
+
+
+
+
+
+## before the 8th of August
 ### vocabulary: globalization - ageing society
 41. astonding: the summit offers astonding view. -- surprising, impressive or notable
 1. concerning: I find many of my comments very concerning -- cause anxiety; worring.
