@@ -1,7 +1,7 @@
-Turesday:
+Wednesday:
 - writing:
 - linking words and sentence: 
-- how to type Phonetic symbol (I can only type stress so far eg. instrinsic -O-sic; courageous Oo-ous; curious Oo-ous; decisive: -O-sive; positive/negative: Oo-tive; agressive: -O-sive)
+- how to type Phonetic symbol by keyboard (I can only type stress so far eg. instrinsic -O-sic; courageous Oo-ous; curious Oo-ous; decisive: -O-sive; positive/negative: Oo-tive; agressive: -O-sive)
 - from listen material to speaking
 - the difference between speaking and writing (in our high school, we only do reading, the never use the word in speaking)
 
@@ -26,7 +26,7 @@ A
 
 Essay A:
 ### Paragraph 1
-These days, when you turn on the TV or browse the website, you will learn about victims of crime. There is no doubt that criminals must be punished to give back justice to the victims, but what is the best effective punishment. Many people believe a prison sentence is the best way, while an increasing number of people say we must consider the specific situation of the crime. In this essay, I will see the both sides of them and give my opinion -- regarding the crime case by case.
+These days, when you turn on the TV or browse the website, you will learn about victims of crime. There is no doubt that criminals must be punished to give back justice to the victims, but what is the most effective punishment. Many people believe a prison sentence is the best way, while an increasing number of people say we must consider the specific situation of the crime. In this essay, I will investigate the both sides of the argument and give my opinion -- regarding the crime case by case.
 #### Note 1:
 1. typo in word ending. brown --> browse I didn't found when read it loud, because I didn't pay attention (not sure z or s) to the word ending in reading;
 2. definite article: fair --> justice, but since it is an uncountable noun, not a specific thing, so you cannot use the definite article preceding it.   multi links: A contrast (B => C)
@@ -57,6 +57,7 @@ It is a common belief that the prison sentence is an effective way to punish the
 
 ### Paragraph3:
 On the other hand, a growing number of people consider the age of criminals and the type of crime. They claim prison is not a proper place for young criminals because these young can be students, and the prison sentence eventually do harm to their education. What is worse, in the prison, if the students spent time with other criminals such as robbers, murderers and other violent criminals, they would re-offend worse after they were released because they had lost their education and school friends. As for financial crime, people believe this type of criminals should pay money as a fine first and must be restrained from the most of financial activities they were involved in, instead of going to the jail.
+
 ####Note 3:
 1. in 3rd sentence, here I use past simple tense and *would*. -- I use subjunctive mood whicexpresses a condition which is doubtful or not factual, because the young inmates can also spend time with other better criminal, and what I wrote is only an extreme situation. 
 2. after they are --> they were. I think it should be past simple tense too. And to express the past of it, I used past perfect tense.

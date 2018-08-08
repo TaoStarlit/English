@@ -35,8 +35,9 @@
 
 
 
-# advantages and disadvantages:  From Unit 1. The helps is 4 pm.  but  what you do before 3 pm is not directly related to it. then the browser fail -- game over.   give you result first! Only if you have time, illustrate all the process. 
+ advantages and disadvantages:  From Unit 1. The helps is 4 pm.  but  what you do before 3 pm is not directly related to it. then the browser fail -- game over.   give you result first! Only if you have time, illustrate all the process. 
 
+#  advantages and disadvantages:  From Unit 1. 
 - from P11
 
 Many students would love the leave their universities and have an extended study overseas. They imagine enjoying discussion with their foreign classmates as their tutor mentors them. However, study overseas is not always easy, and many are not prepared for the shock of studying in an new environment.
@@ -48,15 +49,16 @@ At first, for those who decide to go abroad, study overseas is an exciting exper
 
 Nowadays, taking a year out to study abroad is becoming increasingly popular. For many students, especially high-grade ones, the change to spend an extended period of time in studying overseas is an attractive one. However, there are both pros and cons to deciding to do this. In this essay, I will discuss some of the reason why moving abroad is so popular and some of the challenges to be overcome.
 
-Let's begin by looking at the advantage of moving away for study. One of the main positives of studying overseas is that it broadens your horizons. What I mean by this is that you have the chance to meet people from different cultural backgrouds (and to learn why the host country is so popular). This can make you more rounded as a person (+ and more deliberate in changing your home country).
+Let's begin by looking at the advantage of moving away for study. One of the main positives of studying overseas is that it broadens your horizons. What I mean by this is that you have the chance to meet people from different cultural backgrounds and to learn why the host country is so popular. This can make you more rounded as a person and  (more flexible/adaptable) (You can make a more thoughtfiul decision about changing your country.) (more carefully about changing your home country.) (more deliberate in changing your home country.) 
+- all content in the bracketss are good
 
-Secondly, moving abroad can lead to a better quality of life. Take Chinese students for example. Thousand of students from China study in UK, Australia and America every year. These country have cleaner air and natura-friendly environment(,and they can thus lead a heathy life).  In addication, by studying overseas, you can gain qualification and language skills, which may improve promotion prospects on your return.
+Secondly, moving abroad can lead to a better quality of life. Take Chinese students for example. Thousands of students from China study in UK, Australia and America every year. These countries have cleaner air and nature-friendly environments,and they can thus lead a heathy life.  In addition, by studying overseas you can gain qualifications and language skills, which may improve promotion prospects on your return.
 
-Turning to the other side of argument, culture shock is major problem. Many students who take a year out find it hard to cope with language barrier and the cultural differences (tackle the language problem). This is often leads to homesickness and in some cases a sense of isolation. (Some even try to avoid spending time with the local students in favor of mixing with those from their home country).
+Turning to the other side of argument, culture shock is a major problem. Many students who take a year out find it hard to cope with the language barrier and the cultural differences (tackle the language problem). This often leads to homesickness and in some cases a sense of isolation. Some even try to avoid spending time with the local students in favor of mixing with those from their home country.
 
-Another issue is that it can be difficult to start a new life (set up a study community) from scratch. In other words, when you move abroad, you have to make new friends and find you place in the study community. This process take times and can be especialy challenging if there is also a language barrier to deal with.
+Another issue is that it can be difficult to start a new life (set up a study community) from scratch. In other words, when you move abroad, you have to make new friends and find your place in the study community. This process take times and can be especialy challenging if there is also a language barrier to deal with.
 
-All things considered, staring life in a foreign country is never easy (not a plain sail). You need to weigh up the pros of the better enviroment, facilities and so on, and the cons of culture shcok and language barrier. Personally, I believe the benifits in terms of presonal growth eventually outweight any negatives.
+All things considered, staring life in a foreign country is never easy (not plain sailing). You need to weigh up the pros of the better enviroment, facilities and so on, and the cons of culture shcok and the language barrier. Personally, I believe the benefits in terms of personal growth eventually outweight any negatives.
 
 
 
