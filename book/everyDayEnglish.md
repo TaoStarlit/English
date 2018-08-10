@@ -4,6 +4,12 @@
 - accommodation Oo;  accommodate Ooo    other shwa
 - struggle:   doubld G
 
+## 0810
+idiom： a group of words having a meaning not deducible from those of the individual words (e.g., rain cats and dogs , see the light ).
+idiot: a stupid person.
+idol: an image or representation of a god used as an object of worship.
+The Avengers: hero gather together
+
 ## 0809
 This afternoon, I participate the Bible study group in the building 6. All of the member are come from Asian, the most are Maly and singore. So we are speak English fluently. A singpore girl is impressive, it looks like another student from my hometown. When she speaking and I didn't look at her, it sounds like an Eurepean. 
 The host is another Maly, and he is very farmilar with the Bible. We discuss the creation week of the God, and discussion, then he will give his explaination that come from the Bible. The God is powerful out of the Universe. He create the world sequencally and logically. Related to the parents, I can not help to create humman, because he is a creator. Like the parent can to help to raise us, because they are parents.
