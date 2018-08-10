@@ -26,8 +26,15 @@ A
 
 Essay A:
 ### Paragraph 1
-These days, when you turn on the TV or browse the website, you will learn about victims of crime. There is no doubt that criminals must be punished to give back justice to the victims, but what is the most effective punishment. Many people believe a prison sentence is the best way, while an increasing number of people say we must consider the specific situation of the crime. In this essay, I will investigate the both sides of the argument and give my opinion -- regarding the crime case by case.
+These days, when you turn on the TV or browse the internet, you may learn about victims of crime. There is no doubt that criminals must be punished to give back justice to the victims, but what is the most effective punishment? Many people believe a prison sentence is the best way, while an increasing number of people say we must consider the specific situation of the crime. In this essay, I will investigate the both sides of the argument and give my opinion.  (-- regarding the crime case by case.)
 #### Note 1:
+1 The TV in general.  internet is only one internet, so we can use the.  the TV fixed term.  But website can be many websites
+1. will -- > may.  possibilty.
+2. give back sounds inform --> provide
+3. however, the most effective punishment must be considered.
+4. not best  -> appropriate   (best is vauge)
+5. situation --> what is the .     
+6. I x investigate(not personal pronoun)
 1. typo in word ending. brown --> browse I didn't found when read it loud, because I didn't pay attention (not sure z or s) to the word ending in reading;
 2. definite article: fair --> justice, but since it is an uncountable noun, not a specific thing, so you cannot use the definite article preceding it.   multi links: A contrast (B => C)
 3. definite article: the victims --> should I use the definite article? (countable and plural). yes, you have mentioned learn about victims of crime.
@@ -47,10 +54,10 @@ Approach/way/method in google dictionary
     - a way of punishing xx   or  a way to punish xx
 
 ### paragraph 2, stand 1
-It is a common belief that the prison sentence is an effective way to punish the criminal in many aspects. Many people say taking the freedom away from the criminals can protect other people and their possessions because the criminals would no longer roam free in their community if the criminals were arrested into jail. What is more, some feel that the prison can rehabilitate the criminals. A good example of this could be a shoplifter. He or she steals something in the shop and is sentenced into the prison where he or she has to study and does work during that period. As a result, this former shoplifter can find a job with the working experience after being set free into the society and will never re-offend.
+It is a common belief that the prison sentence is an effective way to punish the criminal in many aspects/way. Many people say taking the freedom away from the criminals can protect other people and their possessions because the criminals would no longer roam free in their community if the criminals were arrested into jail. What is more, some feel that the prison can rehabilitate the criminals. A good example of this could be a shoplifter. He or she steals something in the shop and is sentenced into the prison where he or she has to study and does work during that period. As a result, this former shoplifter can find a job with the working experience after being set free into the society and will never re-offend.
 #### note 2, stand 2:
-1. indefinite article: ~~the belief of many people~~ --> a common belief. But what if I keep 'many people'?     
-2. definite article VS possessive pronoun: touch the community --> roam free in their community? can *the* replace *their*
+1. indefinite article: ~~the belief of many people~~ --> a common belief. But what if I keep 'many people'?  --- Don't!! because common has impled many people   
+2. definite article VS possessive pronoun: touch the community --> roam free in their community? can *the* replace *their*?
 3. a shoplifter VS shoplifters?  is it only: he or she --> they ? -- but here, criminals, people and shoplifters can use they to refer to, which is very confusing, so the optimal solution of mine: the criminals VS people(they/their) VS shoplifter(he/she)
 4. in the last whole example, I use present simple tense, *can* and *will* to demonstrate the process from committing crime, being arrested to being set free. What is the difference from present simple tense, *could* and *should*?
 5. the word common implies many people, so don't add many people

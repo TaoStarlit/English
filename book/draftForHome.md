@@ -40,31 +40,28 @@
 #  advantages and disadvantages:  From Unit 1. 
 - from P11
 
-Many students would love the leave their universities and have an extended study overseas. They imagine enjoying discussion with their foreign classmates as their tutor mentors them. However, study overseas is not always easy, and many are not prepared for the shock of studying in an new environment.
+Many students would love to have an extended study overseas. They imagine enjoying discussion with their foreign classmates as their tutor mentors them. However, studying overseas is not always easy, and many are not prepared for the difference of studying in an new environment.
+
+-- study, noun  V.S. studing: **process, state**.  you can using overseas study. but not study overseas
+
+-- redundent: leave their (home) universities (in their own countries) and have an extended study overseas.   
+-- not good example to support the first sentence.  not convincing
 
 At first, for those who decide to go abroad, study overseas is an exciting experience. With the new surrounding, they enjoy exploring the new-found facilities in their overseas university (and new attractions nearby), and study seems like an extended holiday. They don't mind hanging out and having lunch with their foreign classmates and discovering other aspects of other cultures. They can even give themselves extra time to learn and practice their language skills without fear of making mistakes.
 
+- university, universities.  if in the same sentence/paragraph, they must be constant. But about in different paragraphs.
+- the new found facilities. the + plural  is ok?
 
-- from page 12
+In many cases, when students condider going aborad to study, they fail to realized how the different studying overseas will be. As time goes by, they experience feeling of frustation in daily study when language barriers and cultural differences become the a headache. In this stage, many people refuse to accept the differences of their host country and some actually avoid spending time with local people in favor of mixing with those from their home country.
 
-Nowadays, taking a year out to study abroad is becoming increasingly popular. For many students, especially high-grade ones, the change to spend an extended period of time in studying overseas is an attractive one. However, there are both pros and cons to deciding to do this. In this essay, I will discuss some of the reason why moving abroad is so popular and some of the challenges to be overcome.
-
-Let's begin by looking at the advantage of moving away for study. One of the main positives of studying overseas is that it broadens your horizons. What I mean by this is that you have the chance to meet people from different cultural backgrounds and to learn why the host country is so popular. This can make you more rounded as a person and  (more flexible/adaptable) (You can make a more thoughtfiul decision about changing your country.) (more carefully about changing your home country.) (more deliberate in changing your home country.) 
-- all content in the bracketss are good
-
-Secondly, moving abroad can lead to a better quality of life. Take Chinese students for example. Thousands of students from China study in UK, Australia and America every year. These countries have cleaner air and nature-friendly environments,and they can thus lead a heathy life.  In addition, by studying overseas you can gain qualifications and language skills, which may improve promotion prospects on your return.
-
-Turning to the other side of argument, culture shock is a major problem. Many students who take a year out find it hard to cope with the language barrier and the cultural differences (tackle the language problem). This often leads to homesickness and in some cases a sense of isolation. Some even try to avoid spending time with the local students in favor of mixing with those from their home country.
-
-Another issue is that it can be difficult to start a new life (set up a study community) from scratch. In other words, when you move abroad, you have to make new friends and find your place in the study community. This process take times and can be especialy challenging if there is also a language barrier to deal with.
-
-All things considered, staring life in a foreign country is never easy (not plain sailing). You need to weigh up the pros of the better enviroment, facilities and so on, and the cons of culture shcok and the language barrier. Personally, I believe the benefits in terms of personal growth eventually outweight any negatives.
+- plural noun becomes a singular noun.   is it OK?
 
 
 
-1. sb. who take a year out find it hard to
 
 
+1. sb. who take a year out   find it hard to cope with the language barrier.
+1. past perfect tense to so the sequence of the events
 
 
 
@@ -75,7 +72,7 @@ All things considered, staring life in a foreign country is never easy (not plai
 41. astonding: the summit offers astonding view. -- surprising, impressive or notable
 1. concerning: I find many of my comments very concerning -- cause anxiety; worring.
 1. profound: profound feel of disquiet; a profound philosopher -- very great or instense, having great knowledge
-1. cumulative: the cumulative effect of two years of drought -- increasing or increased in quantity, degree, or force by successive addition
+1. cumulative: the cumulative effect of two years of drought -- increasing or increased in quantity, degree, or force by successive addition;   drought 干旱
 1. sceptical: the public were deeply sceptical about some of the proposals -- not easily convinced; having doubts or reservations
 1. flatten out: over the last two years our sales increase has flatten out -- (of an increasing quantity or rate) show a less marked rise;slow don
 1. meddle: I don't want him meddling in our affairs -- interfere in something that is not one's concern
@@ -85,9 +82,9 @@ All things considered, staring life in a foreign country is never easy (not plai
 1. by the fact that + clause
 
 
-### corporate information factory 
+### corporate information factory -- Leo
 The first fundamental pressure is growing consumer demand. Consumers expect companies to understand and respect their needs and desires. Because the customer drives the business relationship, business people must hear what the customer has to say and respond by delivering relevant, competitive, and timely products and services.
-1. timely:done or occurring at a favourable or useful time; opportune
+1. timely: done or occurring at a favourable or useful time; opportune
 1. expect sb. to 
 1. hear A and repond by doing 
 1. understand and respect their needs and desires

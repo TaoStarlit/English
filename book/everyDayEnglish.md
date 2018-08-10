@@ -4,6 +4,15 @@
 - accommodation Oo;  accommodate Ooo    other shwa
 - struggle:   doubld G
 
+## 0809
+This afternoon, I participate the Bible study group in the building 6. All of the member are come from Asian, the most are Maly and singore. So we are speak English fluently. A singpore girl is impressive, it looks like another student from my hometown. When she speaking and I didn't look at her, it sounds like an Eurepean. 
+The host is another Maly, and he is very farmilar with the Bible. We discuss the creation week of the God, and discussion, then he will give his explaination that come from the Bible. The God is powerful out of the Universe. He create the world sequencally and logically. Related to the parents, I can not help to create humman, because he is a creator. Like the parent can to help to raise us, because they are parents.
+
+## 0808
+1. convincing: you example/specific statement must be convincing when support your general statement
+1. stock phrase
+1. state,process: studying overseas.   just noun: overseas study
+
 
 ## 0803:
 the Asian and Australian

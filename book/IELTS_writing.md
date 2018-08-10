@@ -206,6 +206,39 @@ verb+ing; verb+to infinitive; verb+object to infinite; verb+object+to+object;  v
 1. to add other point to support an initial one and strengthen your argument 
 1. to lead to your conclusion and opinion at the end of your essay | ~ is never easy (no need to show your standpoint). You need to weigh up the pro of .. , and the cons of ... Personally, I believe the benefits in terms of personal growth eventually outweight any negative.
 
+
+#### from page 12 advisor has checked it
+
+Nowadays, taking a year out to study abroad is becoming increasingly popular. For many students, especially high-grade ones, the change to spend an extended period of time in studying overseas is an attractive one. However, there are both pros and cons to deciding to do this. In this essay, I will discuss some of the reason why moving abroad is so popular and some of the challenges to be overcome.
+
+Let's begin by looking at the advantage of moving away for study. One of the main positives of studying overseas is that it broadens your horizons. What I mean by this is that you have the chance to meet people from different cultural backgrounds and to learn why the host country is so popular. This can make you more rounded as a person and  (more flexible/adaptable) (You can make a more thoughtfiul decision about changing your country.) (more carefully about changing your home country.) (more deliberate in changing your home country.) 
+- all contents in the brackets are good
+
+Secondly, moving abroad can lead to a better quality of life. Take Chinese students for example. Thousands of students from China study in UK, Australia and America every year. These countries have cleaner air and nature-friendly environments, and they can thus lead a heathy life.  In addition, by studying overseas you can gain qualifications and language skills, which may improve promotion prospects on your return.
+- Thousands of, pay attention to the -s
+- ..., and they can thus lead a heathy life -- is good
+- in addition.      he is addicted in smoking.
+- qualifications and environments are countable
+
+Turning to the other side of argument, culture shock is a major problem. Many students who take a year out find it hard to cope with language barriers and cultural differences / hard to cope with the language barrier and the cultural difference (tackle the language problem). This often leads to homesickness and in some cases a sense of isolation. Some even try to avoid spending time with the local students in favor of mixing with those from their home country.
+- is **a** major problem.  verb article noun; be article noun. Don't forget the article
+- language barrier -- why definite article here? based on the context!  using plural to avoid article is also correct.  a language barrier is not good because you have mentioned the culture shock context
+- often lead to A and in some cases B
+- avoid doing A in favor of doing B
+
+Another issue is that it can be difficult to (start a new life) set up a study community from scratch. In other words, when you move abroad, you have to make new friends and find your place in the study community. This process takes times and can be especially challenging if there is also a language barrier to deal with.
+- set up a study community -- is good
+- this process takes time and can be xxx -- good.  takes time is actually,  challenging is probably
+
+All things considered, studying in a foreign country is never easy (not plain sailing). You need to weigh up the pros of the better enviroment, facilities and so on, and the cons of culture shcok and the language barrier. Personally, I believe the benefits in terms of personal growth eventually outweight any negatives.
+- not plain sailing.   no article?  " a plain sail." not a grammar prolbem, plain sailing is a stock phrase.
+- is A(adj.) not B(verb-noun or noun): is difficult not plain sailing; 
+- is not B: is not a plain sail.
+- enviroment or enviroments ?  in the former paragraph, the subject is thousands of students, so the object should be plural, too.  Now, the subject is you, so the object is corresponding singular.
+
+
+
+
 #### introduction: pros and cons
 1. Write a general sentence about the topic
 1. Add an extra sentence to support the first
