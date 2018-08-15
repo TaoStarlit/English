@@ -1,5 +1,33 @@
 # mathematic for CS
 
+## 5 A different way of describing lines and planes
+25. A line from a linear equation (the knowns are the coordinates, not the scalar parameter):
+
+$x_1+2x_2=3$, $x_2$ choose free, $x_1=3+2x_2$
+substitude $x_1=3+2x_2$ into the coordiate: $P=(x_1, x_2)=(3+2x_2,x_2)=(3,0)+x_2(2,1)=P+x_2 \vec v$
+
+26. A plane from a linear equation:
+ $P=(x_1, x_2, x_3)=(5+2x_2-3x_3,x_2,x_3)=(5,0,0)+x_2(2,2,0)+x_3(-3,0,1)=P+x_2\vec v +x_3\vec t$
+
+27. Intersection tasks revisited:
+
+intersection tasks become very easy when one of the geometric entities is given in the parametric representation and the other as an equation.
+
+substitude the line in parametric representation in to the plane equation, using the fact that the coordinates of points on the line are $X={2+s, 1, 1-3s}$, it is on the plane, so $x_1-2x_2+3x_3=5=2+s-2+3(1-3s)=3-8s=5$ then s=-1/4. substitude into the line equation,we obtain the intersection point.
+
+28. Translating between the parametric and equatinal representations.
+$X=P+s \vec v$ and we are looking for an equation $ax_1+bx_2=d$, which describes the same line, then all we need to do is set
+
+$$\begin{array}{l}
+a=-v_2\\
+b=v_1\\
+d=ap_1+bp_2
+\end{array}$$
+
+29. practical advice
+
+
+## 4 Analytic Geometry in three dimensions; vector spaces
 |want|how|attention|
 |--|--|--|
 |east north upward|let the x-axis be horizontal pointing to the East, (omit be to the), the ~ horizontal pointing north, ~ pointing vertically upwards|be and the are vertical upwards|
@@ -10,10 +38,6 @@
 |1-s-t,s,t PQR|the part of the plane where all 3 parameters ~ ~ are between 0 and 1 is exactly the triangle with corners PQR| where all 3 parameters ... is exactly the triangle with corners P Q R|
 |(2/3,1/3)-->(2,1)|You can avoid these by simply stretching the direction vector.||
 
-
-
-
-## Analytic Geometry in three dimensions; vector spaces
 An example would be to let the x-axis be horizontal pointing to the East, the y-axis horizontal pointing North, and the z-axis pointing vertically upwards.
 
 15. vector and line movement
