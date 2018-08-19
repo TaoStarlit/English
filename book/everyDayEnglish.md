@@ -4,6 +4,48 @@
 - accommodation Oo;  accommodate Ooo    other shwa
 - struggle:   doubld G
 
+
+## 0819
+1. Dynasty Warrior:   Oosty
+1. Longevity -Ooty
+1. anniversary ceremony  -Oory,  mony(diff,if 4 syllables Oo,Oo, if 3 syllables 3 Ooo; if mono homo, oO--) -Oo,mony
+1. destiny Oony  :   the future destined for a person or thing; fate; fortune; lot
+1. harmony: Oony : agreement; accord; harmonious relations.
+1. balcony: a platform projecting(突出) from the wall of a building with a balustrade or railing along its outer edge, often with access from a door or window
+1. monophony： mo'no--  music composed of a single melody with no accompaniment or harmony. Cf. homophony, polyphony.
+1. homophony:  ho'no--   part music composed in a homophonic style
+
+daily talking:
+1. what did you do last week
+1. are you usually go out and travel
+
+
+
+## 0816
+1. student in another hemisphere    hemi: Oo
+1. does not agree the idea of me living with others
+
+## 0815
+#### new word, when I am write a drafts of the contract:
+1. contract: Oo
+1. contractor:-Otor
+1. tenant: (captain)
+1. fortnight:
+1. guarantee, guaranty
+1. complimentary, complimentarity
+1. negotiation
+1. deposit strip: diO-
+
+
+#### connect on the flatmate
+I've have interviewd several visitors.  （-- 这房很抢手） 
+But I prefer to find a student study in UTS or near (another mate is studying in TAFE, which is also suitable)) and that why I'd like to share house with you . （-- 你也许更适合） 
+In that way, we can help each other and figure life/study out (figure life out 是从对方的自我介绍里找到的).  （-- 点明双方需求匹配）
+
+I notice your move date is 18th August, which seems to be urgent. Our flat still has one temporary vacancy before our move date (7th-Sep), perhaps you can make it here, and then live in the room you like the most in our fate on 7th-Sep. （-- 乐意提供帮助）
+
+What time is available for you? I will also stay in our office in UTS until about 9 pm. (-- 正题 联系面谈了)
+
 ## 0810
 idiom： a group of words having a meaning not deducible from those of the individual words (e.g., rain cats and dogs , see the light ).
 idiot: a stupid person.
