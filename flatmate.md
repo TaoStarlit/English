@@ -1,4 +1,25 @@
-- 0911
+##### 0912
+- drying rack
+  1. the container for drying bowls and dished is call drying rack. 
+  1. ?? but how about the one for drying coat? is it coat hangon/hanger.
+- is redeeming coins for acount balance complicated? -- easy
+- cash deposit to saving accunt. Total amount  $\to$  available balance
+  1. complicated : a complicated stereo system. consisting of many interconnecting parts of elements; intricate
+  1. sophisticated: highly sophisticated computer system.  (of a machine, system, or technique) developed to a high degree of complexity
+  1. complex: consisting of many different and connected parts. a complex network of water channels.
+- mental, intellectual, emotional
+  1. children need intellectual stimulation. of or relating to the intellect
+  1. mental faculties. of or relating to the mind.   a mental hospital. of or relating to disorders of the mind.
+  1. children with emotional difficulties. of or relating to a person's emotions.
+- mind, intellect, emotion(sentiment)
+  1. as the thoughts ran through his mind, he came to a conclusion. the element of a person that enables them to be aware of the world and their experiences, to think, and to feel; the faculty of consciousness and thought.
+  1. he was a man of action rather than of intellct. the faculty of reasoning and understanding objectively, especially with regard to abstract or academic matters.
+  1. she was attempting to control her emotions. a natural instinctive state of mind deriving from one's circumstances, mood, or relationships with others.
+  1. I agree with your sentiments regarding the road bridge. a view of or attitude toward a situation or event; an opinion.
+  1. intellect, intelligence (the ability to acquire and apply knowledge and skills.) , intelligent
+
+
+##### 0911
 - spin, spine
   1. we will conclude the dance with double spins
   1. she concluded the dance with a double spins.
@@ -13,7 +34,7 @@
   
   
   
-- 0910
+##### 0910
 - dishwashing detergent, yellow: sponge, green: scourer
   1. a sponge has a soft porous body, while a scourer 
   1. dishwashing detergent can kill bacteria in the bowl.
@@ -26,7 +47,7 @@
 - critical, critism, crucial, dynamic introdution
 - tighten it up
 
-- 0908 0909 
+##### 0908 0909 
 - vaccum cleaner
   1. the vacuum cleaner is so efficient in removing dust.
   1. It would be another ten years before the electric vacuum , iron, and frying pan became available as consumer products.
@@ -36,7 +57,7 @@
   1. the method of using Ajax is to spary and wipe.
 
 
-- 0907
+##### 0907
 - plastic bags, bag of bags
   1. plastic bags are put in the bag on the wall. And this is another bag of bags made of other materials
   1. include, consist of, be made of, comprise
