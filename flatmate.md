@@ -1,22 +1,26 @@
+##### 0914
+- anxious
+  1. the dog is so anxious. when I leaf him, he so felt sad. I went back, he was so exited and barked.
+
 ##### 0913
 - spill
-  1. Corey give me 2 glass containers for my rice. In that way, I can avoid spilling out the rice when I put it out from an original bag of rice.
+  1. Corey gave me 2 glass containers for my rice. In that way, I can avoid spilling the rice when I pour it out from the original bag of rice.
 - basin, sink, bucket,
   1. The dishwashing detergent and scourer can kill and remove away the mold on the wash basin.
-  1. Is it proper to use a plastic bucket to contain the laundry.
+  1. Is it proper to use a plastic bucket to contain the laundry? tidy
 - war craft III, reigh of chaos, throne, sequel, both of which, Orcs, Night Elves, praise, critics, acclaim
-  1. Warcraft III: Reign of Chaos is a high fantasy real-time strategy video game developed and published by Blizzard Entertainment released in July 2002. 
+  1. Warcraft III: Reign of Chaos is a high fantasy real-time strategy video game developed and published by Blizzard Entertainment and released in July 2002. 
   1. It is the second sequel to Warcraft: Orcs & Humans.
-  1. The Frozen Throne is an expansion pacl of War III. An expansion pack, The Frozen Throne, was released in July 2003.
+  1. The Frozen Throne is an expansion pack of War III. An expansion pack, The Frozen Throne, was released in July 2003.
   1. Four playable factions can be chosen from: Humans and Orcs, both of which appeared in the previous games, and two new factions, the Night Elves and the Undead.
   1. The game received acclaim from critics, who praised the game's presentation and multiplayer features.
 
 
 ##### 0912
 - drying rack
-  1. the container for drying bowls and dished is call drying rack. 
+  1. the container for drying bowls and dishesis called (kitchen ware) drying rack. 
   1. ?? but how about the one for drying coat? is it coat hangon/hanger.
-- is redeeming coins for acount balance complicated? -- easy
+- XX is redeeming coins for acount balance complicated? -- is exchanging/depositing coins into my account easy?
 - cash deposit to saving accunt. Total amount  $\to$  available balance
   1. complicated : a complicated stereo system. consisting of many interconnecting parts of elements; intricate
   1. sophisticated: highly sophisticated computer system.  (of a machine, system, or technique) developed to a high degree of complexity
@@ -34,7 +38,7 @@
 
 
 ##### 0911
-- spin, spine
+- spin, spine  ---- Kate 0914, we checked above contents until here. next time we will begin with this part.
   1. we will conclude the dance with double spins
   1. she concluded the dance with a double spins.
   1. the abdomen, commonly called the "six-pack", is reponsible for maintaining spine stabilty as well as shortening the distance between your torso and hips.  rotate your torso
