@@ -5,6 +5,28 @@
 - struggle:   doubld G
 
 
+# 0913
+    1. we are making a lot of progress. (uncountable, use "a lot of" to qualify)
+    2. we need to progress at a fast rate.
+    3. there have been increased carbon emissions.
+    4. temperatures are expected to increase.
+- bring, brought, buy, bought
+    1. I am not a picky eater. But I love Chinese food. Haha
+    2. What’s spice alley?
+    3. Its this open air food court area near central park that has different cuisines!
+    4. how much will you spend in the Malaysian Restaurant? as I have brought my lunch.
+- curve, curse, diagnostic, evaluation, evaluate
+    1. The ROC curve is a fundamental tool for diagnostic test evaluation.
+- diagnosis(Osis), diagnostic (Otic)
+    1. early diagnosis and treatment are essential: The identification of the nature of an illness or other problem by examination of the symptoms.
+    2. a diagnostic tool: Concerned with the diagnosis of illness or other problems.
+-when you consider xxx, one with xx, the other without xx, you will rarely observe a perfect seperation xxx. Indeed, the distribution of the test results will overlap, as shown in the following figure.
+- for every possible xx, there will be some cases xx, but some casess xxx.
+    1. For every possible cut-off point or criterion value you select to discriminate between the two populations, there will be some cases with the disease correctly classified as positive (TP = True Positive fraction), but some cases with the disease will be classified negative (FN = False Negative fraction). 
+    2. https://www.medcalc.org/manual/roc-curves.php
+    3. 
+- boosting anomaly detection
+
 # 0911
 - Assassin, shooter, mage, tank, auxiliary
 - one more bud today.
