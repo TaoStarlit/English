@@ -5,7 +5,26 @@
 - struggle:   doubld G
 
 
+# 0914
+- origami introduction: below(not following), crease(root of decrease, 折痕，起皱), xx is useful if you want to make xx, above(not previous), diagonal(not diagnosis/diagnostic), organ(here it's an instrument) slit:crack gap, slid:past of slide, slip:~away
+    1.  when making the models, follow the key below to find out what the lines and arrows mean.
+    2.  fold the paper so that, the crease is pointing up at/away from you, like a mountain/valley.
+    3.  an outside reverse fold is useful if you want to make a head, beak, or foot, or another part of your model that stick out. (flatten the shape of another part of your model)
+    4.  Make a kite base, as shown above. Then ..
+    5.  Start with a square of paper like this. Make two diagonal valley folds.
+    6.  You now have an organ base. The two flaps at the bottom are separated by an open slit.
+- make sb. sth. || what a fun way to do xx || pair sth with sth
+    1. Bookmark: if you know someone who loves to read, you could make them this pretty origami bookmark. What a fun way to mark the pages of a book you love!
+    2. your bookmark is ready! why not pair it with a book as a gift?
+- be supposed to .. Maybe xx will do the same for you. || sailor(seller: say, set)
+    1. Dolphins are supposed to bring good luck to sailors. Maybe this origami version will do the same for you!
+- as a symbol of .. || the dove (a kind of) || take to the air
+    1. the dove is traditionally used as a symbol of peace and love. Make your own peace symbol with this origami version!
+    2. gently pull out the wings and your origami dove is ready to take to the air.         
+
+
 # 0913
+- vocabulary ielts
     1. we are making a lot of progress. (uncountable, use "a lot of" to qualify)
     2. we need to progress at a fast rate.
     3. there have been increased carbon emissions.
