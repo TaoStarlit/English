@@ -1,3 +1,27 @@
+##### 0915
+- confucious, confucianism, Dao, Daoism, Buddhists, Buddism
+    1. Dao contributed to the folk religion of the people primarily in the rural areas of China and became the official religion of the country under the Tang Dynasty.
+    2. It emphasizes doing what is natural and "going with the flow" in accordance with the Tao (or Dao), a cosmic force which flows through all things and binds and releases them.
+    3. buddhism (/ˈbʊdɪzəm/, US also /ˈbuː-/)[1][2] is the world's fourth-largest religion[3][4] with over 520 million followers, or over 7% of the global population, known as Buddhists.
+    4. metempsychosis: it supposed transmigration at death of the soul for human being or animal into a new body of the same or a different species.
+- fenghuolun, confucianism: more xxxly, (tell what you can do, what you can do)
+- happy ending, delightful/ pleasant, charming;sad, tragic
+- righteous, righteousness
+- year 11, there are one more year to go
+    1. k -2 0, elementary school 1-6, middle 7-9, high 10-12.
+    1. k to 6, secondary/high 7-12   year 11, a more year to go. 7-10 science,  11-12 phisics
+    1. how many year to go?  how many many does he or she have to go? how many years does he or she have left of school?  adverb
+-  physics
+    1. motion, force, kinetic energy
+    2. weiyi, shudu, jiasudu; hanshu, daoshu; ziyouluodi, pingpao, xiepao; use your mathetics tool, do some experiment with thing and observation
+    3. zhongli, mochali, guanxing, dongneng: huoche, car, observe and think the phenomenon
+    4. See the essence through the phenomenon. Look beyond the surface.
+    5. Force as vector: diagram of force: the point, direction, the Daxiao
+- Mechanics:
+  - Forces in Equilibirum; Dynamics; Force and Motion; Energy and Power
+- Saffron City, Cerulean City, Pewter City, Viridian City, Cinnabar Island
+1. 1 7 6
+
 ##### 0914
 - anxious
   1. the dog is so anxious. when I leaf him, he so felt sad. I went back, he was so exited and barked.
