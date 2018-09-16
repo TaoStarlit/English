@@ -33,7 +33,7 @@
 	1. Energy supplied by gas is measured in therms, whereas energy supplied by electricity is in kilowatt hours.
 	1. Units of all other quantities are derived from the S.I. base unit.
 
-- square meter,  volume, cubic meter, ampere, kelvin, abbreviated to, Numberical, decimal, ternary from, exception, prefix
+- square meter,  volume, cubic meter, ampere, kelvin, abbreviated to, Numerical, decimal, ternary from, exception, prefix
 	1.  volume: the amount of space that a substance or object occupies
 	1. cubic: having the shape of a cube
 	1. ampere: (am- pair) a unit of electric current equal to a flow of one coulomb per second.
@@ -50,8 +50,33 @@
 	1. Engineers usually express numerical values in the ternary form where the power of 10 is a multiple of 3 (i.e. 10^3, 10^6, etc.)
 	1. These are used to avoid unwieldy numerical values. The most common numerical prefixes are (gigabyte, megabyte, kilometer, millimeter micrometer, nanometer:   all are Oo, meter, and the 2nd syllable is light sound e like kilo)
 	1. wieldy: easily controlled or handled.
-	1. radius (calculus, Ooo) The mean radius of the earth is 6360000 m. The decimal point after final zero needs to be moved (noun as adv) six places to the left arrive at 6.36 (needs to be moved xx places to arrive at xx  )
+	1. radius (calculus, Ooo) The mean radius of the earth is 6360000 m. The decimal point after final zero needs to be moved (noun as adv) six places to the left to arrive at 6.36 (needs to be moved xx places to arrive at xx  )
 	1. the answer to a calculation should always be to the same number of significant figures as the data supplied. A numerical answer should, therefore, be rounded up or round down to match the number of significant figures of the data supplied.
+
+
+##### symbols/equations & uncertainty/accuracy
+- formulae, rearrange,  diameter, sphere, hemisphere, stopwatch
+	1. the plural form of the formula: a mathematical relationship or rule expressed in symbols.
+	1. rearrange:  ,re-o Oo
+	1. diameter: (,oOmeter, not kilometer) a straight line passing from side to side through the center of a body or figure, especially a circle or sphere.
+	1. sphere: hemisphere,(kilogram): a round solid figure, or its surface, with every point on its surface equidistant from its center.
+	1.  stopwatch, frequency meter, electrical multimeters
+	1. top-pan balance should be level and in a draught-free environment.  (level: being put in a level platform that doesn't tilt in each direction)
+	1. draught?
+	1. beaker: (beater) a lipped cylindrical glass container for laboratory use.
+	1.  barrel: a cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them. (the head of a long gun)
+	1.  Each complete turn of the barrel alters the gap by 0.5 mm excactly. There are usually 50 equal divisions on the barrel scale so that each division corresponds to 0.01 mm.
+	1. Vernier calipers:  a small movable graduated scale for obtaining fractional parts; all nouns, so Oo
+	1.  cylindrical: rectangular (both: oOoo) and cylindrical blocks:  having straight parallel sides and a circular or oval cross-section; in the shape or form of a cylinder. 
+	1. cylinder/rectangle (both: Ooo): a plane figure with four straight sides and four right angles, especially one with unequal adjacent sides, in contrast to a square.
+	1.  suspend/ immerse:  suspend the object from a thread and immerse it in the water in a measuring cylinder.
+
+#### think about: new words, new concepts, describe a progress, examples  --- add C or E
+
+#### concept:
+	1. uncertainty: a measure of the spread of the reading.  can upper limit minus lower limit then is divided by 2 
+	1. random error, systematic error.  <-- whether the error has a pattern/trend or not
+
 
 
 
@@ -68,11 +93,11 @@ keep a folder of your laboratory reports and retain your own solutions for revis
 
 - non-specialist, subsidiary, trainee
 	1. -al -alist:  O-cialist O-cial
-	1.  subsidiary,  victory:  O-tory O-diary.less important than but related or supplementary to.
-	1. trainee; employee. stress on ee: a person undergoing training for a particular job or profession.
-	1. This book provides a first course in physics for those xxx, and for non-specialist on degree courses in xxx for whom physics is a subsidiary subject in their first year at university.  (for whom, need a comma?)
-	1. This book is also suitable for trainee science teachers who need to develop a solid background in physics.
-	1.  collocations:  This book provides xx for sb.  This book is also suitable for sb.       For sb. physics is a subsidiary subject.
+	2.  subsidiary,  victory:  O-tory O-diary.less important than but related or supplementary to.
+	3. trainee; employee. stress on ee: a person undergoing training for a particular job or profession.
+	4. This book provides a first course in physics for those xxx, and for non-specialist on degree courses in xxx for whom physics is a subsidiary subject in their first year at university.  (for whom, need a comma?)
+	5. This book is also suitable for trainee science teachers who need to develop a solid background in physics.
+	6.  collocations:  This book provides xx for sb.  This book is also suitable for sb.       For sb. physics is a subsidiary subject.
 
 - introductory, outset, commence, appropriate, assimilate, 
 	1. O-tory
