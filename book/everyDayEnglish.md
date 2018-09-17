@@ -5,6 +5,34 @@
 - struggle:   doubld G
 
 
+
+# 0917
+#### physics:
+- turning effects, stability
+- equilibrium(maximum), perpendicular, momentum(differ from moment)
+- ladder, see-saw, spanner unscrews a nut
+    1. a structure consisting of a series of bars or steps between two upright lengths of wood, metal, or rope, used for climbing up or down something.
+- trigon,  geometry, torque,  parallelogram,  solving trigonometry
+    1. torque (or: up down, que: k), geometry(o: two points), trigon (i ai: horizonal line)
+    1. parallelogram (paraphrase + kilogram): a four-sided plane rectilinear figure with opposite sides parallel.
+    1. trigonometry, (trigon+ ometry: two points)
+- polygon, polygonal, geometry, geometric, geometrically: ge-Ootry(victory), geo-Otric(electronic)    velocity
+- opposite side, adjacent side, hypotenuse.
+- a wobbly toy: stable equilibrium;   a standing bowling alley pin: unstable equilibrium (when released from a tilted position);   the bowling pin lying on its side: neutral equilibrium. 
+    1. neutral: not helping or supporting either side in a conflict, disagreement, etc.; impartial.
+- spherical: shaped like a sphere. (the same pattern of the sphere)
+- pivot point, fixed rod, card freely pivoted at P, marker, plumbline: the center of gravity is where the lines intersect. 
+- Stability: tilting without topping. on the point of toppling (topple: overbalance or become unsteady and fall slowly.)
+- beam (a long, sturdy piece of squared timber or metal spanning an opening or part of a building, usually to support the roof or floor above.), counterweight (another term for counterbalance.)
+- placard (a: flap) a poster or sign for public display, either fixed to a wall or carried during a demonstration. (a uniform pole + a square board) . pole (a long, slender, rounded piece of wood or metal)  
+- advertising sign (vertical), placard(horizontal)
+
+
+
+#### sentence:
+- if xxxx the more, the more
+
+
 # 0914
 - origami introduction: below(not following), crease(root of decrease, 折痕，起皱), xx is useful if you want to make xx, above(not previous), diagonal(not diagnosis/diagnostic), organ(here it's an instrument) slit:crack gap, slid:past of slide, slip:~away
     1.  when making the models, follow the key below to find out what the lines and arrows mean.
