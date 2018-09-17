@@ -7,8 +7,7 @@
 
 
 # 0917
-#### physics:
-- turning effects, stability
+#### physics: turning effects, stability
 - equilibrium(maximum), perpendicular, momentum(differ from moment)
 - ladder, see-saw, spanner unscrews a nut
     1. a structure consisting of a series of bars or steps between two upright lengths of wood, metal, or rope, used for climbing up or down something.
@@ -28,10 +27,38 @@
 - advertising sign (vertical), placard(horizontal)
 
 
+#### physics: friction, Equilibrium conditions
+- inclined plane: an inclined surface or plane; a slope, especially on a road or railway.
+    1. the angle of the incline is increased until the block on the plane is at the point of sliding down the incline.
+- stepper, parallel, exceed
+    - if the plane is made steeper, the block will slip if its component of weight parallel to the slope, W sin theta, exceeds the friction force.
+- hinge, bracket, stay, tensioin
+    - is hinged horizontally to a vertical wall by a small bracket and a metal stay at the center of the shelf
+    - calculate the tension in the stay
+- upward, rightward, down
+- plank, pillar
+- caravan, towed
 
-#### sentence:
+##### sentence:
+###### predicative: (of an adjective or noun) forming or contained in the predicate, as old in the dog is old (but not in the old dog ) and house in there is a large house.
+- difficult without friction.  : walking and run would be
+
+###### object: a person or thing to which a specified action or feeling is directed.
+- desirable wear and heating in machines and engines. : however, friction causes undesirable wear and heating in machines and engines.
+- a body with the forces acting on it. Free-body force diagram: this is a diagram that just shows  ~
+###### subject
+- function and reason: oil between 2 solid surface reduce the friction because it keeps them apart and reduces the points of direct contact.
+
+#### collocation:
+- pull on the block, pulled in this direction
+
+
 - if xxxx the more, the more
 
+#### statement
+1. the  limiting value of the friction force, F, is proportional to the weight of the block.
+1. at the point of sliding, the frictional force is equal to W sin theta. Therefore the coefficient of static friction is $\mu= F/N = tan \theta$  ?? the example: at steady speed P 1.4
+1. support force on the book from the table. the normal reaction
 
 # 0914
 - origami introduction: below(not following), crease(root of decrease, 折痕，起皱), xx is useful if you want to make xx, above(not previous), diagonal(not diagnosis/diagnostic), organ(here it's an instrument) slit:crack gap, slid:past of slide, slip:~away
