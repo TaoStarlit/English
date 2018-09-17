@@ -1,4 +1,14 @@
 ### Unit and Measurements
+
+#### helps buddy
+- ate, the 3rd syllable from the last: originate, abbrivate, dominate, accommodate, appropriate
+- r, l, none: flavor,  favor, papallel,
+- ous, vigorous
+- tutor finder: super prof
+- cube: a square shape:  a weak force is overpowered by the strong force
+- 10 to the power of 2.    two fifth, two over five
+- development, science is a abstract noun, no plural!!
+
 #### Philosophy and Pratice in science
 - philosophy, vital, planet, orbit, invent, arrest
 	1. philosophy, technology (Oo-gy/phy): the study of the fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline.
