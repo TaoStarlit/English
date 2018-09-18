@@ -1,13 +1,13 @@
 ### Unit and Measurements
 
 #### helps buddy
-- ate, the 3rd syllable from the last: originate, abbrivate, dominate, accommodate, appropriate
+- ate, the 3rd syllable from the last: originate, abbreviate, dominate, accommodate, appropriate
 - r, l, none: flavor,  favor, papallel,
 - ous, vigorous
 - tutor finder: super prof
-- cube: a square shape:  a weak force is overpowered by the strong force
+- cube: a square shape:  a weak force is overpowered/dominated by the strong force
 - 10 to the power of 2.    two fifth, two over five
-- development, science is a abstract noun, no plural!!
+- development, science is a abstract noun, no plural form!!
 
 #### Philosophy and Pratice in science
 - philosophy, vital, planet, orbit, invent, arrest
@@ -15,15 +15,15 @@
 	1. vital: absolutely important. full of energy; lively;  
 	1. orbit: or with r is stressed
 	1. invent, arrest:  oO
-	1. Experiment play a vital part in the development of all branches of sciences.
+	1. Experiments play a vital part in the development of all branches of science.
 	1. Philosophy and practice in science:
 	1. Galileo used the newly invented telescope to observe the motion of the moons of Jupiter.
-	1.  Galileo was arrested when he published his evidence for the Copernican view of the Universe.
+	1. Galileo was arrested when he published his evidence for the Copernican view of the Universe.
 
 
 
 - Originate, astronomer, steady, in favor of, presence, low-intensity, radiation, disprove
-	1. originate:  (Oo.nate) have a specified beginning. 
+	1. originate:  (oOo.nate) have a specified beginning.   (gi soft je) object-orient (Oo-ent)
 	1. astronomer: (astronomy: as-Ooo) an expert in or student of astronomy.
 	1. steady:  (dad) firmly fixed; supported. 
 	1. presence:  (noun Oo) the state or fact of existing, occurring, or being present in a place or thing.  
@@ -36,7 +36,7 @@
 
 - therm, whereas, supplied by, derive, kilowatt, specified/specific
 	1. therm (these): a unit of heat equivalent to 100,000 Btu or 1.055 × 10^8 joules.
-	1.  supply, supplied, apply, applied (oO)
+	1. supply, supplied, apply, applied (oO)
 	1. kilowatt: (Oo, o)
 	1. derive: (de-O) obtain something from (a specified source).
 	1. specified(Oo, fy. defined), specific(O-fic. precise)
@@ -44,7 +44,7 @@
 	1. Units of all other quantities are derived from the S.I. base unit.
 
 - square meter,  volume, cubic meter, ampere, kelvin, abbreviated to, Numberical, decimal, ternary from, exception, prefix
-	1.  volume: the amount of space that a substance or object occupies
+	1. volume: the amount of space that a substance or object occupies
 	1. cubic: having the shape of a cube
 	1. ampere: (am- pair) a unit of electric current equal to a flow of one coulomb per second.
 	1. kelvin: the SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.  attitude: Oo-tude
@@ -61,7 +61,7 @@
 	1. These are used to avoid unwieldy numerical values. The most common numerical prefixes are (gigabyte, megabyte, kilometer, millimeter micrometer, nanometer:   all are Oo, meter, and the 2nd syllable is light sound e like kilo)
 	1. wieldy: easily controlled or handled.
 	1. radius (calculus, Ooo) The mean radius of the earth is 6360000 m. The decimal point after final zero needs to be moved (noun as adv) six places to the left arrive at 6.36 (needs to be moved xx places to arrive at xx  )
-	1. the answer to a calculation should always be to the same number of significant figures as the data supplied. A numerical answer should, therefore, be rounded up or round down to match the number of significant figures of the data supplied.
+	1. the answer to a calculation should always be to the same number of significant figures as the data supplied. A numerical answer should, therefore, be rounded up or round down to match the number of significant figures of the data supplied. (should be to the same xx as xx)
 
 
 
@@ -77,12 +77,12 @@ keep a folder of your laboratory reports and retain your own solutions for revis
 ### preface
 
 - non-specialist, subsidiary, trainee
-	1. -al -alist:  O-cialist O-cial
-	1.  subsidiary,  victory:  O-tory O-diary.less important than but related or supplementary to.
+	1. -al -alist:  O-cialist O-cial (the same)
+	1. subsidiary,  victory:  O-tory O-diary.less important than but related or supplementary to.
 	1. trainee; employee. stress on ee: a person undergoing training for a particular job or profession.
-	1. This book provides a first course in physics for those xxx, and for non-specialist on degree courses in xxx for whom physics is a subsidiary subject in their first year at university.  (for whom, need a comma?)
+	1. This book provides a first course in physics for those studying access or foundation programmes in Physics at university, and for non-specialist on degree courses in (some disciplines) for whom physics is a subsidiary subject in their first year at university.  (for whom, whom is the one studying in the disciplines. does it need a comma? ans: not because it is a Restrictive attributive clause)
 	1. This book is also suitable for trainee science teachers who need to develop a solid background in physics.
-	1.  collocations:  This book provides xx for sb.  This book is also suitable for sb.       For sb. physics is a subsidiary subject.
+	1. collocations:  This book provides xx for sb.  This book is also suitable for sb.       For someone studying in disciplines. physics is a subsidiary subject.
 
 - introductory, outset, commence, appropriate, assimilate, 
 	1. O-tory
@@ -99,26 +99,27 @@ keep a folder of your laboratory reports and retain your own solutions for revis
 
 
 - edition, rotational, calculus, spreadsheet, accessed
-	1.  oO-tion, so the o  is like the first syllable of about
+	1. oO-tion, so the o  is like the first syllable of about
 	1. syllable
-	1. rotation:  no
+	1. rotation:  no; lo of collocation
 	1. calculus: (noun Ooo) the branch of mathematics that deals with the finding and properties of derivatives and integrals of functions.   derivative, integral
 	1. spreadsheet: (Oo) an electronic document in which data is arranged in the rows and columns of a grid and can be manipulated and used in calculations.
-	1. accessed: (always: Oo, because the original meaning: a means of approaching or entering a place.) be approached or entered
-	1. The fourth edition includes all the content in the third edition as well as an additional unit.
 	1. content: (noun car tent) the things that are held or included in something, a list of the titles of chapters or sections contained in a book or periodical.
 	1. content (adjective, verb: connect + tent): peacefully happy, satisfy
+	1. The fourth edition includes all the content in the third edition as well as an additional unit.
 	1. a section on calculus has also been added.
+	1. accessed: (always: Oo, because the original meaning: a means of approaching or entering a place.) be approached or entered
 	1. The spreadsheet modeling features referred to in the book can be accessed through the website.
 
 - Mechanics, route, atomic, nuclear, in-depth, discipline
-	1. Mechanics, electronic, atomic:  Oo-c
+	1. Mechanics, electronic, atomic:  oOo-c
 	1. The first four (1/4??) parts (Mechanics, Materials, Waves, and Electricity)  each provide an independent route into the subject, thus providing flexibility for lecturers as well as for students.
-	1.  The final section on Further Physics provides an opportunity for selected in-depth studies appropriate to the need of each student, either in xx or in xx.   --- appropriate - adj
+	1. The final section on Further Physics provides an opportunity for selected in-depth studies appropriate to the need of each student, either in xx or in xx.   --- appropriate - adj
 
 
 - appendix, highlight, glossary
-	1. The final part of the book includes an appendix on the use of spreadsheets in physics, an xxx, and an xxx.
+	1. appendix:  similar with -dic tic  oOo-x  Mechanics, electronic, atomic:  oOo-c
+	1. The final part of the book includes an appendix on the use of spreadsheets in physics, an xxx, and an xxx. 
 	1. highlight: oO verb
 	1. glossary: O-sary : Key terms, definitions, and equations are highlighted in bold in the text and a glossary of key terms is also provided for reference and revision.
 	1. glossary: an alphabetical list of terms or words found in or relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
