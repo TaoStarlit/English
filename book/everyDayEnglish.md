@@ -5,6 +5,42 @@
 - struggle:   doubld G
 
 
+# 0919
+不大懂：gating network 里，Wgk 这里的参数规模是 R^{nxd} 即输入时是训练数据的维度c，输出是expert个数。 
+新的文章是这样说的。
+
+但是旧的文章， gating的参数  p_i^c,感觉一个c样本，就需要一组p
+
+所以参数规模是 nxdxC,  C样本的总个数
+
+回答，就的文章，讲的是gating的训练结果 p_i^c: nxC，不是拥有的参数 W nxd.
+gate的输入是  Cxd，经过 W nxd之后呢 就是  nxC, 而这个映射过程就是用 W nxd了，就像设计一个神经网络，我有这个 d-y的映射能力，而网络节点是保存这个映射关系是对整体分布的训练，不是对特定样本的训练。    -- 但是多任务，还整体分布？？
+
+##### beamer
+beam用了模板之后，叼叼的
+可以用section subsetion，则
+\begin{frame}{Outline}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+即可立刻生成大纲
+
+section把做的所有frames分段，同时每个slide都能看到它自己在整个大纲的位置
+
+# 0918
+### consider the form/marks to distinguish example sentence from new word. 
+Restrictive attributive clause; this is an adverbial clause
+
+Mechanics, electronic, atomic, periodic: oOo-c
+vibrate; stimulate; imitate; emulate: Oo,late
+vibrator; stimulator; imitator; emulator: just follow the oOo,late
+
+residual:   re-O   zi,  dual: jooel  oo: mean ue
+a quantity remaining after other things have been subtracted or allowed for.
+
+
+making associative learning competitive, making competive learning associative
+
 
 # 0917
 #### physics: turning effects, stability
