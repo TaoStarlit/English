@@ -2,14 +2,75 @@ lilsubs.com -- realy impressive
 
 
 short presentation overview and sample --- greet, reason,
+    structure: introduction: greeting, self id, topic, purpose(why I choose this topic), what the main point be?
+      
+greeting: well come? 
+self: as you may already know
+purpose: today, I would like to talk to you a little bit about
+reason: because I think it is important for students to know something about more deep learning frameworks 
+indication time + deal with question: since I've only got about 7 or 8 minutes I won't be able to go into great depth so if you
+have any questions I'd be happy to answer at the end of presentation
+
+scope or outline:
+so given these time limits I've chosen just two things to
+talk about. firstly I'll briefly introduce this topic
+secondly I'd like to talk about the backgroud of the paper
+
+XX dealing with difficult terms XX
+I don't think I'll be using any difficult terms ... leave your question to the end of presentation
+
+transition:
+okay well
+let's get started the first thing, the introduction. 
+The key word of the title, multi-task learning is a subfield of machen learning ...
+
+expanding the point:
+this seems quite important to students and I guess there are two possible reasons for this.
+firstly it's because they're curious to know about their teachers and lecturers 
+and secondly they probably just want to feel confident that they're in the hands of an experienced professional 
+
+(real things) well I don't know about that but I've certainly been around a long time I started
+... primary school
+as you probably know: primary school teachers are generalists
+in other words they teach nearly everything
+so: for the first couple of years after graduating from Teachers College I taught in primary schools
+(another) after that I went back to university
+
+this xx and brings me to: 1995, when I started xxx  
+so that means: I've been here for 18 years 
+
+restaing main point: so hopefully that satisfy your curiousity
+
+transition to 2nd point:
+ but of course I don't spend all
+my time in teaching and learning believe it or not teachers are human too and need a break from work just like everybody else.
+so this brings us to the second thing I'd like to share with you about myself. 
+and that is to tell you about how I spend my spirit or my free time well in a strange sort of way I can't stay away from teaching and learning because I love foreign languages
+
+
+This seems quite important, there are 3 points for this.
+Firstly, it the simplest method for multi-task learning, whose goal is to improve the generation performance.
+Secondly, 
+Third, for the structure, xxx, which enables the shared bottom model to xx
+
+But, as mention before the task differences will harm the performance, as you know this model does not consider the task differences.
+
+
+
+
 
 expression start/close/transition: how important a presentation can be?  part 1, part 2, part 3
-    what and why it important
-    1. I will xx
-    2. why it is important? well, if you do this correctly, your audience you followwhat  you pay attentionto what you say
-    3. this means you have much greater chance of selling them your products or services,
-    4. getting a job or promotion
-    5. or just impress you boss and co-workers with how organized and efficient your presentation. it is pretty good thing, hub
+    - what and why it important
+        1. I will xx
+        2. why it is important? well, if you do this correctly, your audience you followwhat  you pay attentionto what you say
+        3. this means you have much greater chance of selling them your products or services,
+        4. getting a job or promotion
+        5. or just impress you boss and co-workers with how organized and efficient your presentation. it is pretty good thing, hub
+    - part 1 when you begin your topic: OK, so as mentioned(outline) the first thing I'm going to tale about is __.
+    - part 2 end your 1st topic: So I think you've now got a good understanding of __ right?
+    - part 3 transition to your next part: OK, so let me now move onto the second/next thing/item, which is ___
+
+
 
 transistion: on the slides, it must have separate points:
     1. don't too smooth, eg. next, next. you need to separate main points
