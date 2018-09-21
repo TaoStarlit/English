@@ -5,6 +5,10 @@
 - struggle:   doubld G
 
 
+# 0920
+1. panic or calm
+2. structure: tell the audience what you're going to do, do it, tell them that you 've done tit
+
 # 0919
 不大懂：gating network 里，Wgk 这里的参数规模是 R^{nxd} 即输入时是训练数据的维度c，输出是expert个数。 
 新的文章是这样说的。
@@ -26,6 +30,13 @@ beam用了模板之后，叼叼的
 即可立刻生成大纲
 
 section把做的所有frames分段，同时每个slide都能看到它自己在整个大纲的位置
+
+# 0920
+- inductive: 感应，归纳
+    1. characterized by the inference of general laws from particular instances.
+    eg. instinct rather than inductive reasoning marked her approach to life
+    1. of, relating to, or caused by electric or magnetic induction.
+    eg. It uses the principle of magnetic inductive power transfer, which can already be found in rechargeable electric toothbrushes.
 
 # 0918
 ### consider the form/marks to distinguish example sentence from new word. 
