@@ -1,3 +1,78 @@
+##### 0922
+- action noun in/of abtract noun
+  1. adolescent experice changes in their physical development at a rate unparalleled since infancy.
+  1. These changes include significant gains in height and weight.
+  2. within a year, boys and girls can gain an average of 4.1 inches and 3.5 inches in height respectively.
+
+##### 0921
+[NEW] The 40th anniversary of Reform and Opening Light show in Shenzhen
+- drink, gym, trip, chip
+- exploratory
+- let's set this aside for now
+- why poll becomes so inaccurate
+- economic / academic  oeOmic
+- representative:   Oo Otative    creative: oOtive
+
+order the desk
+dusk, sneeze, balcony
+
+###### ted talk
+political poll; the accuracy of this endeavor; xxx is about as accurate as using the moon to predict hospital admission.
+
+there are a lot of reasons why political polling has become so inaccurate.
+
+- for a pollster/ pollsters.  representative
+our societies have become really diverse, which makes it difficult for pollsters to get really nice representative samples of the population of their poll.
+
+what are the 3 ways?  sample, visualize(mean, scale), how was the data collected (define the certain term)
+
+- a huge insterest in doing, need doing sth
+private companies don't have a huge insterest in getting the numbers right. They just need the right numbers.
+- crucial, cruel, anecdote
+On the one hand, there are those who say these statistics are crucial, that we need them to make sense of society as a whole in order to move beyond emotional anecdotes and measure progress in an [objective] way.
+
+- elitist oOost;  elite: oOo
+favoring, advocating, or restricted to an elite.
+- advocate:
+a person who publicly supports or recommends a particular cause or policy.
+eg. he was an untiring advocate of economic reform.
+
+
+Right now there's a bill in congress about measuring racial inequality.
+congress: the national legislative body of a country.
+
+segregation; let alone: quit an easy thing, let alone another difficult one
+The draft law says that government money should not be used to collect data on racial segregation. This is a total disaster. If we don't have this data, how can we observe discrimination, let alone fix it?
+
+In other words: How can a government create fair policies if they can't measure current levels of unfairness?
+
+- legislate: make or enact laws.
+How can we legislate on health care if we don't have good data on health or poverty? How can we have public debate about immigration if we can't at least agree on how many people are entering and leaving the country? Statistics come from the state; that's where they got their name. The point was to better measure the population in order to better serve it.
+
+- move beyond A. We need to xx be able to do B
+So we need these government numbers, but we also have to move beyond either blindly accepting or blindly rejecting them. We need to learn the skills to be able to spot bad statistics.
+- rarely got the chance
+the one group of people who could really tell us were the Iraqis, and they rarely got the chance to find our analysis, let alone question it.
+- geek(an unfashionable or socially inept person.) nerd(foolish or contemptible person who lacks social skills or is boringly studious) word used by people who say themselves are smart, but humble ?? every one can do that.
+So I became a data journalist. My job is finding these data sets and sharing them with the public. Anyone can do this, you don't have to be a geek or a nerd. You can ignore those words(geek/nerd); they're used by people trying to say they're smart while pretending they're humble. Absolutely anyone can do this.
+
+- Q1: uncertainty
+  Let's set that aside for now and talk about the accuracy of this endeavor.
+  average value has no meaning in representing all population. eg. swiming pool
+- Q2: Can I see your self in data
+Let's set that aside for now and talk about the accuracy of this endeavor.
+- Q3: how was the data collected
+eg. one term, different definitions
+- conclusion 
+I get it, it's frustrating. If you want to test a statistic that comes from a private company, you can buy the face cream for you and a bunch of friends, test it out, if it doesn't work, you can say the numbers were wrong. But how do you question government statistics? You just keep checking everything. Find out how they collected the numbers. Find out if you're seeing everything on the chart you need to see. But don't give up on the numbers altogether, because if you do, we'll be making public policy decisions in the dark, using nothing but private interests to guide us.
+
+###### statstic video
+
+#####
+Through Roosevelt's series of radio talks, known as fireside chats, he presented his proposals directly to the American public.[149] Energized by his personal victory over his paralytic illness, Roosevelt relied on his persistent optimism and activism to renew the national spirit.[150]
+Roosevelt coined the term "Four Policemen" to refer the "Big Four" Allied powers of World War II, the United States, the United Kingdom, the Soviet Union and China.
+I cannot avoid a feeling of bitter resentment towards your informers, whoever they are, for such vile misrepresentations of my actions or those of my trusted subordinates
+
 ##### 0915
 - confucious, confucianism, Dao, Daoism, Buddhists, Buddism
     1. Dao contributed to the folk religion of the people primarily in the rural areas of China and became the official religion of the country under the Tang Dynasty.

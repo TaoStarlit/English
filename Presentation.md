@@ -45,7 +45,7 @@ transition to 2nd point:
  but of course I don't spend all
 my time in teaching and learning believe it or not teachers are human too and need a break from work just like everybody else.
 so this brings us to the second thing I'd like to share with you about myself. 
-and that is to tell you about how I spend my spirit or my free time well in a strange sort of way I can't stay away from teaching and learning because I love foreign languages
+ and that is to tell you about how I spend my spirit or my free time well in a strange sort of way I can't stay away from teaching and learning because I love foreign languages
 
 
 This seems quite important, there are 3 points for this.

@@ -1,0 +1,54 @@
+### date
+#### course: document
+
+#### TRM: lab 1 R.docx
+- thorough:adj, through(preposition), at your own pace(self-study, DIY)
+You will have three 1.5 hour labs to work through the following material at your own pace. The material is divided by the lecture in which each topic is presented. 
+
+#### vocabulary for IELTS Unit 2 baby
+- action noun in/of/to/on/such as abtract noun (2.1 + record 2a)
+  1. (changes in) adolescents experice changes in their physical development at a rate unparalleled since infancy.
+  1. (gains) These changes include significant gains in height and weight.
+  1. (an average of) within a year, boys and girls can gain an average of 4.1 inches and 3.5 inches in height respectively'
+  1. (responses to) test parental responses to his behaviour (record 2a)
+  1. he will be able to use simple gestures such as shaking hiss head for "no".
+- parental/ maternal
+  1. I have a very strong maternal instinct
+  2. By the end of the 1st year, a baby will have already acquired some social skills. He will enjoy imitating people and will test parental reponses to his behaviour.
+- in terms of A. as far as B is concerned. When it comes to C.
+
+- complementary, supplementary, preliminary, secretary, commentary, military, solitary (OoOo)
+    1. lasting for a very short time; brief.
+        - in terms of movement, an infant will be able to reach a sitting position unassited.
+        - eg. momentary lapse of concentration
+        - synonyms: brief, short, short-lived, fleeting, passing, transient, transitory, 
+    1. Detailed netword architecture can be found / complete derivation can be found   /we provide more information in the supplementary material.
+
+
+#### related
+- thorough:adj (Rarf, route), through(preposition), proposition(Rarf; prep:set)
+    1. a statement or assertion that expresses a judgment or opinion.
+        - eg. the proposition that all men are created equal
+        - synonyms: theory, hypothesis, thesis, argument, premise, principle, theorem, concept, idea, statement
+    2. a suggested scheme or plan of action, especially in a business context.
+        - a detailed investment proposition
+        - synonyms: proposal, scheme, plan, project, idea, program, bid
+    3. complete with regard to every detail; not superficial or partial.
+        - eg. planners need a thorough understanding of the subject
+        - synonyms: rigorous, in-depth, exhaustive, thoroughgoing, minute, detailed
+- rigorous(Ooo: ɪəə), exhaustive(igˈzôstiv), exhausted(igˈzôstid), exotic(igˈzätik)  -- au ô; o ä
+    1. extremely thorough, exhaustive, or accurate.
+        - the rigorous testing of consumer products.  scientific research is rigorous (regular(ɛ gjʊ l),ridiculous(   ə di kɪʊ ))
+        - synonyms: meticulous, conscientious, punctilious, careful, diligent, attentive,
+    1. originating in or characteristic of a distant foreign country.
+        - exotic birds
+        - synonyms: foreign, nonnative, tropical, introduced, imported; foreign,
+    1. drained of one's physical or mental resources; very tired.
+        - eg. I was cold and exhausted
+        - synonyms: tired out, worn out, weary, dead-tired, dog-tired, bone-tired, ready to drop, drained
+    1. examining, including, or considering all elements or aspects; fully comprehensive.
+        - eg. she has undergone exhaustive tests since becoming ill
+        - synonyms: comprehensive, all-inclusive, complete, full, full-scale, encyclopedic, sweeping
+    1. deserving or inviting derision or mockery; absurd.
+        - eg. when you realize how ridiculous these scenarios are, you will have to laugh
+        - synonyms: laughable, absurd, comical, funny, hilarious, risible,
