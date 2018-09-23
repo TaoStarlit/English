@@ -3,15 +3,36 @@
 
 #### TRM: lab 1 R.docx
 - thorough:adj, through(preposition), at your own pace(self-study, DIY)
-You will have three 1.5 hour labs to work through the following material at your own pace. The material is divided by the lecture in which each topic is presented. 
+You will have three 1.5 hour labs to work through the following material at your own pace. The material is divided by the lecture in which each topic is presented.
+- versatile, suite, graphical
+- R is a versatile statistical language, which provides a wide and ever increasing suite of statistical and graphical techniques. 
+    1. suite(sweet): a set of rooms/programs
+    2. (Ooo: similar: vertical. Numerical: nu'merical)able to adapt or be adapted to many different functions or activities.
+        - eg. a versatile sewing machine
+        - synonyms: adaptable, flexible, all-around, multifaceted
+- All commands are case sensitive and are written and executed in the console window at the prompt. 
+    1. console: ä KongZhiChuangKou
+    2. prompt:  prämpt  TiShiFu
+        - an act of assisting or encouraging a hesitating speaker.
+        - eg. with barely a prompt, Barbara talked on
+        - the time limit for the payment of an account, as stated on a prompt note.
+- R Studio is an integrated user interface for R. When you open up R Studio, it automatically runs R.
+    1. integrate:Oo grate
+    2. automatical: Oo Ootal
+- To give you the practice and skills you need, we have incorporated data entry for questionnaires in the section on descriptive statistics.
+    1. incorporate: take in or contain (something) as part of a whole; include.  +d = abj.  of company
+        - eg.  he has incorporated in his proposals a large number of measures.
+        - synonyms: absorb, include, subsume, assimilate, integrate, take in, swallow up;
+    2. descriptive (diˈskriptiv): serving or seeking to describe.
+- Data in R are organised as named structures: vectors and matrices.  eg. Altitude is a table with head
 
 #### vocabulary for IELTS Unit 2 baby
 - action noun in/of/to/on/such as abtract noun (2.1 + record 2a)
   1. (changes in) adolescents experice changes in their physical development at a rate unparalleled since infancy.
-  1. (gains) These changes include significant gains in height and weight.
-  1. (an average of) within a year, boys and girls can gain an average of 4.1 inches and 3.5 inches in height respectively'
-  1. (responses to) test parental responses to his behaviour (record 2a)
-  1. he will be able to use simple gestures such as shaking hiss head for "no".
+  2. (gains) These changes include significant gains in height and weight.
+  3. (an average of) within a year, boys and girls can gain an average of 4.1 inches and 3.5 inches in height respectively'
+  4. (responses to) test parental responses to his behaviour (record 2a)
+  5. he will be able to use simple gestures such as shaking hiss head for "no".
 - parental/ maternal
   1. I have a very strong maternal instinct
   2. By the end of the 1st year, a baby will have already acquired some social skills. He will enjoy imitating people and will test parental reponses to his behaviour.
