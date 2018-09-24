@@ -24,7 +24,26 @@ You will have three 1.5 hour labs to work through the following material at your
         - eg.  he has incorporated in his proposals a large number of measures.
         - synonyms: absorb, include, subsume, assimilate, integrate, take in, swallow up;
     2. descriptive (diˈskriptiv): serving or seeking to describe.
-- Data in R are organised as named structures: vectors and matrices.  eg. Altitude is a table with head
+- Data in R are organised as named structures: vectors and matrices.  eg. Altitude is a table with head like: sex, service, visits, colosedReserve, studyAres ...
+- Initially, the default in R is to order them (the categorical variables) alphabetically. We would change the order so that Strong Agree would be the most positive response, and Strong Disagree is the least negative response.
+- question mark in front of a function opens up R help support documentation.
+- quantity: Ooo quantitative: ˈkwäntəˌtātiv;   don't have to do sth.
+    1. relating to, measuring, or measured by the quantity of something rather than its quality.
+    1. quantitative analysis
+    1. question 3 is a quantitative variable, and so we have no values to code. (so we don't have to code the values)
+- descriptive statistics: frequency table, pie chart, bar chart.  
+    1. we can produce frequency table using the table function. --> proportion table:  prop.table --> pie/bar chat(or histogram)   histəˌgram
+  
+  - tabulation, tabulate. coorbalate
+  -  Say we would like a cross tabulation of answers to question 4 (features) 
+  -  arrange (data: tabualar) in        tabular form.
+    -tabulated results
+    1. synonyms: chart, arrange, order, organize, systematize, systemize, catalog, list,
+   - tabular.  Oolarts
+   - (of data) consisting of or presented in columns or tables.
+a tabular presentation of running costs
+
+
 
 #### vocabulary for IELTS Unit 2 baby
 - action noun in/of/to/on/such as abtract noun (2.1 + record 2a)

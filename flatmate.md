@@ -1,8 +1,11 @@
+##### 0924
+1. time flies.  Guanyin Shijian
+2. draw, drop, jaw, jar, judge  -- o a u, firm your o
+3. what date is it today? what day is it today.
+4. spend the money on the maintenance of our flat. maintian v.s. maintenance
+5. the metal in the powerpoint gets rusty.
+
 ##### 0922
-- action noun in/of abtract noun
-  1. adolescent experice changes in their physical development at a rate unparalleled since infancy.
-  1. These changes include significant gains in height and weight.
-  2. within a year, boys and girls can gain an average of 4.1 inches and 3.5 inches in height respectively.
 
 ##### 0921
 [NEW] The 40th anniversary of Reform and Opening Light show in Shenzhen
