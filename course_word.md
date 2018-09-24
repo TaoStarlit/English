@@ -1,6 +1,53 @@
 ### date
 #### course: document
 
+
+### 0925
+### daily word
+- earbud - headphone(not headset), earplug(to prevent the noise)
+
+#### Vocabulary for IELTS unit 19 media
+The news
+1. answer these quetions: 
+    1. be informed about, not interested in / current affairs
+    1. do you consider the newpaper to be biased, entertaining or informative
+2. the general public is well-infomed / ill-informed
+    1. today's mass(public) media is to inform/entertain people
+    2. wealthing  ?? widening gap
+    3. back page?
+    - track 19a
+        1. our society often prides itself on the free press,  
+            - free + what?
+            - pride sb. on sth.
+        2. and with access through the internet or cable Television, the news is boradcast 24 hours a day.
+            - the news is broadcast,  24 hours a day. (cast to the broad audiences)
+        3. xx reveal that our general public is increasing ill-informed today
+        4. for this project, we compiled a list of what we consider to be the most significant current affairs stories. Then we assessed how these stories were reported by the newspaper, radio, and television networks.
+            - adj. adj. noun. : significant current affairs stories
+            - compile v.s.compose
+                - produce (something, especially a list, report, or book) by assembling information collected from other sources.
+                - write or create (a work of art, especially music or poetry).
+        5. alarmingly, we found as many as 25 significant news stories were either under-reported or omitted from the news altogether.
+            - alarmingly == surprisingly / emergency
+            - altogether(not two words) completely; totally. I stopped seeing her altogether
+            - emit: e/ex - out, here is omit
+        6. I define censorship,  as anything which interferes with the free flow of information in our society.
+            - censorship.   anything which (not was) interferes with (not interfered)
+        7.  and it would seem to be what tabloid journalism was doing. They are effectively censored important news stories on the basis that they may not be interesting or entertaining enough.
+            - may not be,  are not
+            - xx law journalism.   
+            - journey: with r
+            - tabloid journalism
+            - effectively (not in factually)
+            - censor: examine (a book, movie, etc.) officially and suppress unacceptable parts of it. my mail was being censored
+        8.  widening gaps between rich and poor. ... And yet, you are unlikely to find the reference to it in any news headlines. And instead, you are more likely to find stories about the lasted celebrity with important new contents reallocated to the back pages.
+            - contents, context. reallocate
+            - widening gap
+            - lastest(not native)
+            - relegated(not reallocated. Oo-gate; oOo-cate) = downgrade
+
+
+### 0922
 #### TRM: lab 1 R.docx
 - thorough:adj, through(preposition), at your own pace(self-study, DIY)
 You will have three 1.5 hour labs to work through the following material at your own pace. The material is divided by the lecture in which each topic is presented.

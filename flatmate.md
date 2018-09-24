@@ -1,8 +1,51 @@
+# HeJiaJing
+ - portray
+ - avocate young people to think improtant issue
+ - criticize Cruel feudal ethics:  according to, resembling, or denoting the system of feudalism.
+ - think important issue
+
+
+
+- analogy: Oo-gy  Oo-O-s tic
+  - analogy, optimistic, pessimistic. bride, groom. green girl, red boy, wedding costume,  cramped.
+  - nationalism: patriotic feeling, principles, or efforts.
+  - nationalist: of or relating to nationalists or nationlism
+
+- pronunciation
+  - gray, green, cream, crime   kr v.s. gr
+  - storm, stone:  o & ou;  n; m. lightning storm; wedding stone
+  - red boy,  red - rat.    sat - set
+  - sour, shower
+  - pour, pair, pure, poor:  ôr, er, jur, ur
+
+
+- Translate the Cantonese lyric into English. The lyric is sort of pessimistic, that is related to his experience, but he also poured his wish.
+  - how to become the forever lovebirds (an analogy of the devoted couple), no matter in which era they were born, the boy and girl in wedding costume can fly high freely like the butterflies in a pair.
+
+- what happened in the wedding
+  - speech, brave:    aggressive, family drama.  demand, homeless, financial pressure, badly working. more stressed.         slam. slash, slay an enemy. MOBA.   concrete, buffering, polish.  legal stuff. pub friend. tough time. band club. bankrupt.  losing all control. frustrated. 
+
+- inference
+  - those have a house on beaches must be very wealthy. But the living there has downside(negative aspect) and upside(positive). 
+
+- tenses: past pefect tense, and present progressive tense
+  - I have done it before, why is it not working now.
+
+- make sentences
+  - I will go on a trip.
+
+- collocation, comparison. texure, 
+- it looks like a cake.
+
+- comparison (special, not tion, so: Ooo)
+  1. concert(public), party(more personal, exclusive)
+
+
 ##### 0924
 1. time flies.  Guanyin Shijian
 2. draw, drop, jaw, jar, judge  -- o a u, firm your o
 3. what date is it today? what day is it today.
-4. spend the money on the maintenance of our flat. maintian v.s. maintenance
+4. spend the money on t he maintenance of our flat. maintian v.s. maintenance
 5. the metal in the powerpoint gets rusty.
 
 ##### 0922
