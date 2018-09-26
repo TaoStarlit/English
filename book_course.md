@@ -1,3 +1,24 @@
+### 0926
+residual的定义
+形容词
+remaining after the greater part or quantity has gone.
+the withdrawal of residual occupying forces
+同义词: remaining, leftover
+
+https://mahritaharahap.wordpress.com/teaching-areas/regression-analysis/residual-analysis/
+
+The assumptions of the ordinary least squares model is that the random errors (residuals) are normally distributed and random (have constant variance). Residuals represent variation in the data not explained by the model.
+
+- Normality,  histogram
+    1. nôrˈmalədē
+    2. the condition of being normal; the state of being usual, typical, or expected.
+    3. synonyms: normalcy, business as usual
+- histogram, 
+    1. ˈhistəˌɡram
+    2. a diagram consisting of rectangles whose area is proportional to the frequency of a variable and whose width is equal to the class interval.
+
+
+
 ### 0925
 实验手册里的很多论文，有时间翻一翻
 #### TRM week2 Statistial Inference
