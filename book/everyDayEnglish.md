@@ -1,8 +1,73 @@
+# 0930
+## the similar and confusing words, conpair their Explanations and definitions
+- Herd, herb
+    - any plant with leaves, seeds or flowers used for flavoring, food, medicine, or perfume (Oo).
+    - a large group of animal that live, feed, or migrate together or are kept together as livestock. -- a herd of elephants.
+- conversion, reservation, conservation 转换， 预定，保护
+    - the conversion of food into body tissues(组织): the act or an instance of converting or the process of being converted.
+    - I have made an reservation before arriving the hotel: the action of reserving something.
+    - the action of conserving something, in particular: this organization is dedicated to the care and conservation of turtles.
+    - convert: cause to change in form, character, or function: production processes will convert raw material into useful form. (corey: a coufusing !example (past tense or adjective) production processes that converted raw material into useful form. 
+- advert, adberb 广告，副词 Oo-word ending : ˈadˌvər  -t/b
+    -  an advertisement: I posted the advertisement on the website.
+    -  a word or phrase that modifes or qualifies an adjective, verb, or other adverb or a word group, (expressing a relation of place, time, circumstance, manner, cause, degree, etc. e.g., gently, quite, then, there
+- edition, addition, addiction 版本， 而且， 上瘾  i/ə- ˈdiSHən
+    - a paperback(平装，bound in stiff paper) edition: a particular form or version of a published text.
+    - the action or process of adding something to something else: the hotel has been extended with the addition of more rooms
+    - the factor condition of being addicted to a particular substance, thing, or activity: he committed the theft to finance this drug addiction
+- goal, gold, girl
+- fold, fall, fool, full
+
+
+
+## learn the sentenct that you will use in the dayly talking, especially the structure of the English sentence that never appear in Chinese.  (music, hometown, celebriy, sports)
+#### unit 7 one the move
+1. the xxx is realy scenic --> surrrounding countryside is very scenic.
+2. the two hour drive is well worthy the effort --> (better) although it is a long way, the drive from the city is well worthy the effort because the surrouding countryside is very scenic.
+- the nesting sentence pattern: Although A, B is well well worthy (the effort) because C.
+    - Although mathematic and physics are difficult, the long-term study and practice is well worthy the effort, because xxx !! (found a sentence in the "linear algebra and application book", many field !!link the concept and teaching note) 
+
+#### the next step
+- the new kids who learn the dance terminology from the children ballet.  he said:
+    - xxx do something and other thing, and finally I found I am here. (!! revisit tonight, lastest season episode 2)
+- one down, and two to go
+
+## write the draft of how to solute the physics practice/exam question
+(!! do it tonight !link the physics)
+
+## find the practice question in the Linear Algebra in the MIT
+
+
+
+
+
 ## what mistakes you have made, the correct one:
 - overwhelm   -- verb oO.  vs whale: animal
 - persevere / severe -- ere Oo   (of something bad or undesirable) very great; intense:   a severe bad or shortage of technicians
 - accommodation Oo;  accommodate Ooo    other shwa
 - struggle:   doubld G
+
+
+
+
+
+
+
+# 0929 discuss the relationship between using chopsticks and mathmetical brain
+Stamina, cinema, seminar, causation, correlation, factor
+Unit 19: The media: normous, numeric, numerous
+speculation 1. the forming of a theory or conjecture without firm evidence.
+    - there has been widespread speculation that he plans to quit
+    - synonym: gossip 八卦，瞎扯。 reports about other people, typically involving details that are not confirmed as being true.
+
+
+- 
+
+### teenage mutant ninja turtule:
+weapon: a twig?
+
+
+### talking
 
 
 # 0920
