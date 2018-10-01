@@ -1,10 +1,26 @@
 ### date
 #### course: document
 
+### 0926
+An individual's critical flicker frequency is the highest frequency at which the flicker in a flickering light source can be detected
+
+Definitions of flick
+noun
+a sudden sharp movement.
+the flick of a switch
+synonyms: jerk, snap, flip, whisk
+a motion picture.
+a Hollywood action flick
+verb
+propel (something) with a sudden sharp movement, especially of the fingers.
+Emily flicked some ash off her sleeve
+synonyms: click, snap, flip, jerk
+propel(oO): drive, push or cause to move in a particular direction, especially forward
 
 ### 0925
 ### daily word
 - earbud - headphone(not headset), earplug(to prevent the noise)
+
 
 #### Vocabulary for IELTS unit 19 media
 The news

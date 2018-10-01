@@ -1,10 +1,113 @@
-# HeJiaJing
+### 1001
+- numerious, emurous
+
+### unit 7 move out
+quaint; stretch; crystal clear; surf can also be spectacular; cater for; snorkel; scuba diving; skyscraper; statues;  cosmopolitan;  great attractions; sports stadium; fantastic theme parks;  picturesque; crisp up;  escape the heat in the city; treacherous road; steep and winding; flood; the scenery on the way up here really is breathtaking.
+restraint;  status;
+1. my hometown is a quaint little village about 300 kilometers from the nearest big city. kwānt: old-fasioned
+2. on sundays there's huge market and people come from all the neighbouring villages to buy and sell their local produce.   Pattern: there's noun. to do sth.
+3. We have long stretches of white sand and the water is crystal clear.  an act of stretching one's limbs or body.
+4. surf can also be spectacular. Visitors who enjoy water sports are really well catered for.  ˈkātər: provide food and drink, typically at social events and in a professional capacity.
+5. -- as you can go snorkelling, scuba diving and deep-sea fishing. ˈsnôrkəl: a short curved tube for a swimmer to breathe through while keeping the face under water.   scuba: an aqualung.
+6. My city is famous for it skycrapers, statues and fountains.
+7. It's a very exciting and cosmopolitan place to live.    ˌkäzməˈpälitn: familiar with and at ease in many different countries and cultures.
+8. We have some great attractions nearby for visitor, as well as a huge sports stadium and fantastic theme parks.  extraordinarily good or attractive.
+9. It's very picturesque up here so we get a lot of vistors, especially artists who want to paint the landscape.  ˌpikCHəˈresk: picturesque
+10. The air is very crisp up here as well, so a lot of people come up here to escape the heat in the city.   up here: we are stand up the space.   
+11. The roads are pretty treacherous because they are very steep and winding, so most people arrive by train.  ˈtreCHərəs: guilty of or involving betrayal or deception.  steep: (of a slope, flight of stairs, angle, ascent, etc.) rising or falling sharply; nearly perpendicular. 
+12. The scenery on the way here really is breathtaking.  ˈbreTHˌtākiNG : astonishing or awe-inspiring in quality, so as to take one's breath away.
+
+### others:
+- restraint;  status;
+- hayfever; pollen allergy; perspective; prospect; flight
+- duet: a performance by two people, especially singers, instrumentalists, or dancers.
+
+
+
+hayfever; pollen allergy.
+
+dropbear: an artist depiction
+
+
+# HeJiaJing topic celebrity: topic music.   +  topic sport (heart musle) + space (upside, downside)
  - portray
  - avocate young people to think improtant issue
  - criticize Cruel feudal ethics:  according to, resembling, or denoting the system of feudalism.
  - think important issue
 
+### 0928
+- Rarf is the winner of the tournamnet battle.
+- I have set up the Nintendo Entertainment system Emulator, so I play the simple but exciting game - teenage mutant ninja turtles tournament fighters.
+- adverb v.s. advert: advertisement
+- When I run and exercised my abdomen in the Ashfield part this morning and at noon, I didn't feel sore. But after I played the flute, my abdomen was really sore.
 
+#### the unit 19 media
+- superficial, artificial, glamorous: Some celebritis spend their time in going to parties and trying to look glamorous. It all seems very artificial to me. So I would say their life seems very superficial 
+  - superficial: existing or occurring at or on the surface.
+    - eg. the building suffered only superficial damage
+    - synonyms: surface, exterior
+  - glamorous: having glamour.
+    - one of the world's most glamorous women
+    - synonyms: beautiful, attractive,
+- intrusive, intrusion: If someone followed me everywhere I go, I would say they are very intrusive and violate my privacy.
+  - intrusive: causing disruption or annoyance through being unwelcome or uninvited.
+    - eg. that was an intrusive question
+    - synonyms: intruding, invasive, 
+
+
+
+##### the collocation:
+- pride sb. on sth. 
+  - Our modern society often prides itself on its free press.
+- perfect tense + clause in general
+  - I have completed our study which reveal the general public is increasing ill-informed today.
+- be reported by xx.  be omitted from xx
+- on radio, the internet, television networks;  have influence on
+- special noun phrases: what we considered to be the most significant current affairs stories. (remove the what we considered, still good). as many as 25 significant news(remove as many as, still make sence) were eight under-reported or omitted from the news altogether.
+- seem
+  - it would seem that the media today seeks to entertain rather than inform the public.
+  - this(censorship) would seem to be what tabloid journalism is doing.
+- on the basis that
+  - they effectively censoring important news stories on the basis that they may not be interesing or entertaining enough.
+- reference to,  in any new headline
+  - yet, you are more likely to find stories about the lasted celebrity.
+
+### 0926
+embassy, diplomat:OoO an official representing a country abroad. (ambassador: 2a)
+diploma(OoO), deploy, deployment(de-O)
+- tive tative, did not change the stree syllable of the original word.
+quantity, repeat, represent, commute
+repetitive, quantitative,  representative, commutative
+
+### 0925
+blast off again, 
+- slash: a sound made by something striking or falling into liquid.
+- eg. we hit the water with a mighty splash (slam)
+
+- doctor who
+
+- not even slightly entertaining.  tracing the storyline.
+
+- phoenix, 
+- romantics,  fascination
+
+- there is episode I did watch.
+- extension,   .  extreme crazy.     
+- investment, invention, invitation, invasion
+- next week, a week after.
+- chucks, the scourer's brand:  pepper sauce: laoganma
+
+
+#### revisit the talk at last night
+1. go to bed, bad guy, bat man.  my bed is bad.  Is there any difference in the length of the sound between these two phonetic symbols?
+2. I sat at my desk to set up the software.
+3. lighting storm is raging above the stone mountian.
+4. the gray rock in the sun looks like a wedding cake of cream color.  (eg. season in the season)
+5. I want to buy a shower curtain and sour milk.
+6. screwed up.
+7. slash: (cut) the man took a mighty slash at his head with a large sword
+8. slam: he slams the door behind him as he leaves.    slay: you slayed a enemy
+9. I don't like drying my hair in a cramped condition
 
 - analogy: Oo-gy  Oo-O-s tic
   - analogy, optimistic, pessimistic. bride, groom. green girl, red boy, wedding costume,  cramped.
