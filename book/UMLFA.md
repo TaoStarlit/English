@@ -13,6 +13,67 @@
         - your sentence
 - grammar, terminology, word formation
 
+# timetable
+- 20181002 read 1.1-1.3; 1003, writedown the new words
+- 20181003 read chapter 5: link in 1.1 the stronger prior, the easier it is to learn, but the less flexible the learning is -- it is bound, a priori, by the commitment to these assumptions
+
+
+# Unit 5 The Bias-Complexity Tradeoff
+plan: new words, links, and the corresponding meaning of the notations. Then explain all the new work detials. Last figure out the proof
+## 5.0 20181003
+- papayas taste prblem .. tastiness
+  1. papayas, tastiness
+
+- let us elaborate on this point
+  1. elaboarat
+
+- this weaker assumption on distribution $\mathcal D$ is a prerequiste for using agnostic PAC model ...
+  1. prerequiste
+  2. agnostic
+
+- ..pitfall of using a hypothesis as a mean of formalizing prior knowledge
+  1. pitfalls
+  1. formalize
+
+## 5.1 The No-Free-Lunch Theorem
+#### links and corresponding meanings: 
+- $m \geq 8/log (7/|\mathcal H|/6)$: Corollary 2.3
+- PAC model: 3.1
+- ERM algorithm: empirical risk minimization 2.2
+- approximation error: $\min_{h \in \mathcal D} L_{\mathcal D}(h)$
+- $\mathcal D$ : distribution. So we know $\mathcal D$ over $\mathcal X \times \{0,1\}$ but?is it the training sample or task, or other?
+- $S \sim \mathcal{D}^m$ : training set?
+- $\mathcal X$: domain. there exist a distribution  $\mathcal D$ over $\mathcal X \times \{0,1\}$
+- $C$: a subset of domain of 2m.  ?? task?
+- $T=2^{2m}$: the number of possible functions from C to $\{0,1\}$
+- $A$: algorithm; return a predictive function$A(S):C \to \{0,1\}$
+- $\delta$ : probability; $\epsilon$ : error
+
+- Theroem, Corollary, Proof ..
+  1. theroem
+  2. corollary
+  3. proof
+
+- indeed, a trivial successful learner
+  1. indeed,
+  2. trivial
+
+- .. contradict the labels the $A(S)$ predicts on the unobserved instances in $C$.
+
+
+## 5.2 Error Decompostion
+- the minimum risk achievable by a predictor in the hypotheis.
+  1. achievable
+
+- under the realizability assumption, ..
+  1. realizability
+
+## summmary
+### link:
+- alternative way to express prior knowledge: chatper 7
+- proof: related to lower bounds in VC theory
+
+## exercise 2: complete it before prove
 
 # Unit 1 Introduction
 ## 1.1 What is Learning 20181003
@@ -39,17 +100,17 @@
     - a bunch of grapes
     - synonyms: bouquet, posy, nosegay, 
     - I have a bunch of flutes/flowers
-    - bundle
+    - bundle [ˈbəndl]
+        - a collection of things, or a quantity of material, tied or wrapped up together.
+        - a thick bundle of envelopes
+        - synonyms: bunch, roll, clump,
   2. psycholgist [sīˈkäləjist]  =  psychology  [sīˈkäləjē]
     - an expert or specialist in psychology.
     - Many cognitive psychologists also examine the effects of selective attention.
     - the scientific study of the human mind and its functions, especially those affecting behavior in a given context.
     - He studied Jungian and transpersonal psychology and took a special interest in allergic diseases.
     - synonyms: study of the mind, science of the mind
-- bundle: [ˈbəndl]
-    - a collection of things, or a quantity of material, tied or wrapped up together.
-    - a thick bundle of envelopes
-    - synonyms: bunch, roll, clump,
+
   
 - An automatic mechanism had been attached to the cage, delivering food to the pigeons at regular intervals with no reference whatsoever to the birds' behavior. 
   1. whatsoever
@@ -81,7 +142,7 @@
    - crisp bacon
    - synonyms: crunchy, crispy, brittle,
 
-- bait shyness revisited - rats fail to acquire conditioning between food and electric shock or between sound and nausea. ... if the unpleasant stimulus that follows food sonsumption is replaced by, say, electrical shock (rather than nausea), then no conditional occurs. ... The rats seems to have some "built in" prior knowledge telling them that, while temporal correlation between food and nausea can be casual, it unlikely that there would be a causal relationship between food consumption and electrical shocks or between sounds and nausea.
+- bait shyness revisited - rats fail to acquire conditioning between food and electric shock or between sound and nausea. ... if the unpleasant stimulus that follows food sonsumption is replaced by, say, electrical shock (rather than nausea), then no conditional occurs. ... The rats seems to have some "built in" prior knowledge telling them that, while temporal correlation between food and nausea can be casual, it is unlikely that there would be a causal relationship between food consumption and electrical shocks or between sounds and nausea.
   1. nausea [ˈnôzēə]   pinyin's o
    - a feeling of sickness with an inclination to vomit.
    - Only a few patients experienced postoperative nausea , so any statistical evaluation would be meaningless.
@@ -124,7 +185,7 @@
    - the process of providing or obtaining the food necessary for health and growth.
    - a guide to good nutrition
 
-### 1.2 When Do We Need Machine Learning
+## 1.2 When Do We Need Machine Learning
 - Two aspects of a given problem may call for the use of programs that learn and improve on the basis of their "experience": the problem's complexity and the need for adaptivity. 
   1. call for:
    - synonyms: bespeak, quest, request
@@ -144,6 +205,9 @@
    - involving many carefully arranged parts or details; detailed and complicated in design and planning.
    - elaborate security precautions
    - synonyms: complicated, complex, intricate, 
+   - elaborate as a verb
+        - develop or present (a theory, policy, or system) in detail.
+        - the key idea of the book is expressed in the title and elaborated in the text
 - route, routing
   1. route [ro͞ot]
    - a way or course taken in getting from a starting point to a destination.
