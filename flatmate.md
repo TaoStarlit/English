@@ -1,9 +1,25 @@
+### 1006
+I am full. I am stuffed of food. 
+I am hungry. She left her animals starve.
+
+- ice blade is the analogy/metaphor of the soilder guards on the great during the spring festeval.
+- nomandic tribes. Chinese civilization is a planting civilization, they plant the rice and the weat in the land. So it relatively weak against the nomandic tribe from the north of   China.
+- Planting civilization
+
+- peel, pour(poor pôr), sticky
+
+
+### 1005; 
+absorb, exhaust
+I was absorbed in my work.
+I was exhausted after completing my work.
+
 ### 1003
   - Gorilla, chimpanzee, red orangutan
   - Nasal congestion, runny nose   ˈnāzəl  kənˈjesCHən   the madician relieved my nasal congestion
 
 ### 1001
-- numerious, emurous
+- numerous, ?emurous
 
 ### unit 7 move out
 quaint; stretch; crystal clear; surf can also be spectacular; cater for; snorkel; scuba diving; skyscraper; statues;  cosmopolitan;  great attractions; sports stadium; fantastic theme parks;  picturesque; crisp up;  escape the heat in the city; treacherous road; steep and winding; flood; the scenery on the way up here really is breathtaking.
