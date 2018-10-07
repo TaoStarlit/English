@@ -18,6 +18,7 @@
 - 20181003 read chapter 5: link in 1.1 the stronger prior, the easier it is to learn, but the less flexible the learning is -- it is bound, a priori, by the commitment to these assumptions
 - 20181005 read the chapter 2: to figure out what is $\delta, \epsilon$. The former one is probability of getting a nonrepresentive sample, the latter one is the about the True Loss, we will discuss in Chapter 3 PAC.
 - 20181007 read the chapter 7 VC dimension: about the infinite hypothesis is also PAC learnable. the chapter 4: uniform convergence, also dicusses about the sample complexity. figure what does the first 6 chapters discuss about:
+## recap
   1. Introduction: explains the meaning of learning, gives classical example, mentions: bias, prior knowledge (Unit 2-8 are theory fundations, then is from theory to algorithms) 
   2. A Gentle Start: gives the statistical learning framework. 
       1. notation of statistical leanring
@@ -33,21 +34,70 @@
       1. The No-Free-Lunch Theroem prior knowledge(prevent the learning failures, can be expressed by restricting our hypothesis class)
       2. Error decomposition: approximation error ($\min_{h \in \mathcal H}L_\mathcal D (h)$, determined by the hypothesis class chosen) & estimation error($S$, $\mathcal D$, depends on the training set size).
   6. The VC-Dimension
-      1. Infinite-Size Classes Can Be Learnable
+      1. Infinite-Size Classes Can Be Learnable (chapter 4: finite classes, and sample complexity is upper bounded by the log of the size the finite hypothesis class)
       2. The VC-Dimension
       3. Examples: Threshold Functions; Intervals; Axis Aligned Rectangles; Finite Classes; VC-Dimension and the Number of Parameters
       4. The Fundamental of Theorem of PAC Learning
-
-Therome, definition, lamma, corollary
-
 
 - important word: agonostic, suffice, Therome, definition, lamma, corollary  - today 3,4,5, 6 new word! --- 1-6 what is PAC learning
 - important example: the infinte hypotheses in VC - unit
 - important equation/notation: the $\mathcal D^m$ function
 - important inequation of proof: $1-\epsilon \leq e^{-\epsilon}$
-2.3 Inductive bias: the search space is restricted, that is we bias learner toward a particular set of predictors. Such restriction often called an inductive bias
 
-3.1 PAC Learnability: ... if realizable assumption holds with respect to $\mathcal{H,D,f}$, then $m\geq m_{\mathcal H}(\epsilon, \delta)$ i.i.d. examples genearate and labeld by $\mathcal {D, f}$, the algorithm returns a hypothesis h such that, with probability of at least $1-\delta$ (over the choice of the examples), $L_{(\mathcal{D,f})}(h)\leq \epsilon$. 
+## important definitions:
+- 2.3 Definition 2.1 The Realizability Assumption: There exists $h^* \in \mathcal H$ s.t. $L_{(\mathcal {D,f})}(h)=0$. It **implies**: with probability 1, $L_S(h^*)=0$
+- 2.3 Inductive bias: the search space is restricted, that is we bias learner toward a particular set of predictors. Such restriction often called an inductive bias
+- 3.1 PAC Learnability: ... if realizable assumption holds with respect to $\mathcal{H,D,f}$, then $m\geq m_{\mathcal H}(\epsilon, \delta)$ i.i.d. examples genearate and labeld by $\mathcal {D, f}$, the algorithm returns a hypothesis h such that, with probability of at least $1-\delta$ (over the choice of the examples), $L_{(\mathcal{D,f})}(h)\leq \epsilon$. 
+- 3.2 the sample complexity of PAC learnable finite hypothesis classes. The log of its size. 
+- 3.3 Agnostic PAC Learnability: (not $\mathcal {D,f}$, but $\mathcal {X \times Y}$) ... at least  $1-\delta$ (over the choice of the examples), $L_{(\mathcal{D})}(h)\leq \min_{h\prime in \mathcal H}L_{mathcal D)(h\prime)+\epsilon$. -- if the realizability assumption holds ($L_{(\mathcal {D,f})}(h)=0$),  agnostic PAC learning provides the same guarantee as PAC learning.  
+- 3.4 Agnostic PAC Learnability for General Loss Functions: ... loss function $l:\mathcal{H \times Z} \to \mathbb R_+$  ($Z=\mathcal{X \times Y}$) ...
+- 3.2 Remark 3.1 ... $l(h,.): Z\to \mathbb R_+$ is measurable. Formally, we assume that there is a $\sigma$-algebra of subsets of Z, over which the probability $\mathcal D$ is defined, and that the preimage of every initial segment in $\mathbb R_+$ is in this $\sigma$-algebra
+- 3.2 Remark 3.2 Proper versus Representation-Independent Learning: the algorithm return a hypothesis but not from $\mathcal H$
+- 4.1 Definition 4.1 $\epsilon$-representive sample: A training set $S$ is called ~, if $\forall h \in \mathcal H, |L_S(h)-L_\mathcal D (h)| \leq \epsilon$
+- Lemma 4.2 a training set is $\frac \epsilon 2 - representative$, then it satisfies agonotic learnable $L_\mathcal D(h_S)\leq \min_{h\in \mathcal H} L_\mathcal D (h) + \epsilon$
+- definition 4.3 Uniform Convergence: We say a hypothesis class $\mathcal H$ has the uniform convergence property if ..., then with the probability of at least $1-\delta$, S is $\epsilon$-representive. 
+
+# Unit 4 Learning via Uniform Convergence
+## 4.1 Uniform Convergence Is sufficient for Learnability
+- For that($min L_S(h)$ also $min L_\mathcal D(h)$), it suffices to ensure that the empirical risks of all members of $\mathcal H$ are good approximations of their true risk (which is quivalent to $\mathcal H$ has uniform convergence property).
+  1. suffice [səˈfīs]
+   - be enough or adequate. 
+   - a quick look should suffice
+   - synonyms: be enough, be sufficient, be adequate,
+## 4.2 Finite Classes Are Agnostic PAC Learnable
+- However, since the law of large numbers is only an asymptotic result, it provide no information about the gap between the empirically estimated error and its true value for any given, finite, sample size.
+  1. asymptotic(,Oo O-tic) means approaching a value or curve arbitrarily closely (i.e., as some sort of limit is taken). 
+## summary: 
+Uniform convergence suffice for agnostic PAC learnability using the ERM rule. We have shown that finite hypothesis classes enjoy the uniform convergence property and are hence agnostic PAC learnable.
+
+# Unit 3 A Formal Leaning Model
+## 3.0 the PAC leaning model
+- Therome: lemma -> ~ -> corollary
+  1. theorem [ˈTHēərəm]
+   - a general proposition not self-evident but proved by a chain of reasoning; a truth established by means of accepted truths.
+   - Ideally the definitions would generate all the concepts from clear and distinct ideas, and the proofs would generate all the theorems from self-evident truths.
+  2. lemma [ˈlemə]
+   - a subsidiary or intermediate theorem in an argument or proof. 
+   - It takes a long series of lemmas to show how powerful the primitive recursive functions are.
+  3. corollary [ˈkôrəˌlerē]
+   - a proposition that follows from (and is often appended to) one already proved.
+   - For these angles, the contradiction used to prove the corollary does not arise.
+  4. definition [ˌdefəˈniSHən]
+   - a statement of the exact meaning of a word, especially in a dictionary.
+   - The Judge said she had, in the absence of any statutory definition, consulted several dictionaries for a definition of the word record.
+## 3.1 PAC Learning
+- definition 3.1 PAC learnability
+- corollary 3.2 finite hypothesis class is learnable with sample complexity $m_{\mathcal H(\epsilon, \delta)}\leq \left[\frac {\log(\mathcal H / \delta)} \epsilon \right]$
+- later on we will show that what determines the PAC learnability of a hypothesis class is not its finiteness but rather a combinatorial measure called the VC dimension.
+  1. combinatorial [ˌkäm bə nə ˈtȯr ē əl]
+   - of or relating to the arrangement of, operation on, and selection of discrete mathematical elements belonging to finite sets or making up geometric configurations.
+## 3.2 A More General Learning Model
+- we will describe the agnostic PAC model in which this realizability assumption is waived.
+  1. waive [wāv]
+   - refrain from insisting on or using (a right or claim).
+   - he will waive all rights to the money 
+   - synonyms: relinquish, renounce, give up, 
+
 
 # Unit 2 A Gentle Start
 ## 2.0 20101005 no new word, by I list the difficulty in this chapter:
@@ -102,18 +152,39 @@ $\mathcal D^m$ denotes the probability over $m$-tuples induced by applying $\mat
 plan: new words, links, and the corresponding meaning of the notations. Then explain all the new work detials. Last figure out the proof
 ## 5.0 20181003
 - papayas taste prblem .. tastiness
-  1. papayas, tastiness
+  1. papayas [pəˈpīə]
+   - a tropical fruit shaped like an elongated melon, with edible orange flesh and small black seeds.
+   - Lutein is found in spinach, leeks, peas, kiwi fruits, black grapes and romaine lettuce, while rich sources of zeaxanthin include sweetcorn, red peppers, nectarines, papaya and honeydew melon.
+  2. taste [tāst]
+   - the sensation of flavor perceived in the mouth and throat on contact with a substance. 
+   - the wine had a fruity taste 
+   - synonyms: flavor, savor, relish, tang, smack
+  3. tastiness: pleasingness
 
 - let us elaborate on this point
-  1. elaboarat
+  1. elaborate
+   - develop or present (a theory, policy, or system) in detail. 
+   - the key idea of the book is expressed in the title and elaborated in the text
 
 - this weaker assumption on distribution $\mathcal D$ is a prerequiste for using agnostic PAC model ...
-  1. prerequiste
-  2. agnostic
+  1. prerequisite [prēˈrekwəzət]
+   - a thing that is required as a prior condition for something else to happen or exist.
+   - sponsorship is not a prerequisite for any of our courses
+   - synonyms: (necessary) condition, precondition
+  2. agnostic [agˈnästik]
+   - of or relating to agnostics or agnosticism.
+   - So that wrestling is characteristic of my religious or agnostic poetry, but not necessarily everything else I do.
+   - denoting or relating to hardware or software that is compatible with many types of platform or operating system. 
+   - "many common file formats (JPEG, MP3, etc.) are platform-agnostic"
 
 - ..pitfall of using a hypothesis as a mean of formalizing prior knowledge
-  1. pitfalls
-  1. formalize
+  1. pitfalls [ˈpitˌfôl]
+   - a hidden or unsuspected danger or difficulty. 
+   - He bought some books on self-publishing and brushed up on the perils and pitfalls involved.
+   - synonyms: hazard [ˈhazərd], danger, risk, peril, difficulty
+  2. formalize
+   - give (something) legal or formal status.
+   - The civil union legislation exists because the Marriage Act as it was - the only basis to formalise the legal status of relationships - was vulnerable to human rights complaints.
 
 ## 5.1 The No-Free-Lunch Theorem
 #### links and corresponding meanings: 
