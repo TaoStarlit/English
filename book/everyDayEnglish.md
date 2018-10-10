@@ -1,3 +1,25 @@
+# 1010
+https://en.wikipedia.org/wiki/Committee_machine#Dynamic_structures
+A committee machine is a type of artificial neural network using a divide and conquer strategy in which the responses of multiple neural networks (experts) are combined into a single response.[1] The combined response of the committee machine is supposed to be superior to those of its constituent experts. Compare with ensembles of classifiers.
+算法导论，英文版自己处理一下！！  在 mendeley 里面， 我有第三版的pdf，第二版的 帮助文件，还有 读者自己写第二版的答案 -- 其他资料呢
+
+熟练用这个系统，你就能掌握很多算法！！ 毕业后出路几乎没有问题了
+One of the major advantages of ME is that it is flexible
+enough to be combined with a variety of different models. It has been combined with SVM [12]–[14] to partition the input space and to allocate different kernel functions for different input regions, which would not be possible with a single SVM. Recently, ME has been combined with GPs to make them accommodate nonstationary covariance and noise. A single GP has a fixed covariance matrix, and its solution typically requires the inversion of a large matrix. With the mixture of GP experts model [6], [7], the computational complexity of inverting a large matrix can be replaced with several inversions of smaller matrices, providing the ability to solve larger scale datasets. ME has also been used to make an HMM with time-varying transition probabilities that are conditioned on the input [4], [5].
+
+
+# 1004
+- Complete mandatory Consent Matters training
+    1. mandatory  [ˈmandəˌtôrē]
+        - required by law or rules; compulsory.
+        - wearing helmets was made mandatory for cyclists
+        - 同义词: obligatory, compulsory, binding, required
+    1. consent    [kənˈsent]
+        - permission for something to happen or agreement to do something.
+        - no change may be made without the consent of all the partners
+        - 同义词: agreement, assent, acceptance, approv
+
+
 # 0930
 ## the similar and confusing words, conpair their Explanations and definitions
 - Herd, herb
