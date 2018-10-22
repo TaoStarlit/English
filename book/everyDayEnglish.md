@@ -1,3 +1,6 @@
+# 1021
+In his recent book Dying for a Paycheck, Stanford University organizational behavior professor Jeffrey Pfeffer argues that some 150,000 deaths in the United States each year, and as many as 1 million in China, can be attributed to overwork. Sedentary lifestyles, sleeplessness, and stress—all provoked by damaging work cultures and economic anxieties—are partly to blame. ... Work provides the means to live, but it's increasingly clear that the modern workplace can kill, too.
+
 # 1010
 https://en.wikipedia.org/wiki/Committee_machine#Dynamic_structures
 A committee machine is a type of artificial neural network using a divide and conquer strategy in which the responses of multiple neural networks (experts) are combined into a single response.[1] The combined response of the committee machine is supposed to be superior to those of its constituent experts. Compare with ensembles of classifiers.

@@ -27,7 +27,24 @@ a 2008 survey that identified the top 10 most influential algorithms in the data
 One of the major advantages of ME is that it is flexible
 enough to be combined with a variety of different models. It has been combined with SVM [12]–[14] to partition the input space and to allocate different kernel functions for different input regions, which would not be possible with a single SVM. Recently, ME has been combined with GPs to make them accommodate nonstationary covariance and noise. A single GP has a fixed covariance matrix, and its solution typically requires the inversion of a large matrix. With the mixture of GP experts model [6], [7], the computational complexity of inverting a large matrix can be replaced with several inversions of smaller matrices, providing the ability to solve larger scale datasets. ME has also been used to make an HMM with time-varying transition probabilities that are conditioned on the input [4], [5].
 - 问下学姐，这些公式
-
+#### ans: 1022 自己仔细看
+- the P can be used to denote any network with more information: eg.
+    1. $P(y|x,\Theta)$ total probability of observing y (equal to certain value) given x
+    2. $P(y,i|x,\Theta)$ from expert i, probability of observing y (equal to certain value) given x
+    3. $P(i|x,\Theta_g)$ represents the gate's rating on expert i given x, which also denoted as $g_i(x,\Theta_g$
+    4. $P(y|i,x,\Theta)$ is the probability of the i-th expert generating y given x, which will be denote by $P_i(y)$
+- for classification/regression the gate is defined by softmax
+    1. a smooth version of winer-take-all model
+    2. gate i , means expert i win the a certain sample x againt. 
+    3. $\beta_i(\mathbf{x,v})$ is the i-th component (vecter lenght is I) on x.      \usepackage{bm}    
+    4. $\beta_i(\mathbf{x,v})=\mathbf v_i^T[\mathbf x, 1]$  bf in the parenthesis means in input is vector (not capital means not matrix).   v_i is the parameter (column vecter) for i. 
+- different function for regression and classification
+    1. classification, each expert i: $\hat y_{ik}=softmax_K(\mathbf w_{ik}^T[\mathbf x, 1])$ , softmax is k-th components over summation of K components
+    2. last step $\hat y_k=\sum_i g_i(\mathbf{x,v})\hat y_{ik}$
+    3. for regression, no softmax on $y_ik$, output is $\hat y_i$ directly. original ME regression is Gaussion model: $P(\mathbf x,\theta_i)=N(y|\hat y(\mathbf {x,w_i}), \sigma)$
+- EM training: is an iterative method for finding the maximum likelihood of a probability model in which some random variables are observed and others are hidden.
+    1. indicator variable
+    2. product of gate and expert from n=1 to N $\to$ log sum of log gate and log expert from n=1 to N.
 
 # model, paper, other topic
 ## the Yinhua Lijin's group [plan if you have time] 20181010
