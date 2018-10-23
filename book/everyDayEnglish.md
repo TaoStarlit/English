@@ -1,5 +1,26 @@
+# 1023
+IV 2a modality:
+- In the first years of a child's life many important milestones are reached.
+- By ~~ , a baby will have already ~~. He will enjoy ~~ , and also test
+- In term of ~~ , an infant will be able to reach a sitting position unassisted. He may be able to ~~
+- As far as ~~ is concern, he will be able to use ~~ and he will try to
+- When it comes to ~~ , he will be able to find ~~
+
+above are modality, now is the real word 
+|scenarios|subjects|verbs|objects|examples|
+|----|----|----|----|----|
+|first years of a child's life|many improtant milestones|are|reached|
+the end of the first year|a baby|acquired|some social skills|
+|(social skills)|he|enjoy imitating /  test|people/parental responses|for example|
+|movement|an infant|reach / pull ~ up to stand|a sitting position unassisted/himself up to stand|
+|communication|he|use / try to imitate|simple gestures/words|such as shaking his hand for 'no'|
+|cognitive development|he|find ~ easily / use ~ correctly|hidden objects easily / objects correctly|such as drinking from a cup|
+
+
+
+
 # 1021
-In his recent book Dying for a Paycheck, Stanford University organizational behavior professor Jeffrey Pfeffer argues that some 150,000 deaths in the United States each year, and as many as 1 million in China, can be attributed to overwork. Sedentary lifestyles, sleeplessness, and stress—all provoked by damaging work cultures and economic anxieties—are partly to blame. ... Work provides the means to live, but it's increasingly clear that the modern workplace can kill, too.
+our CS group: In his recent book Dying for a Paycheck, Stanford University organizational behavior professor Jeffrey Pfeffer argues that some 150,000 deaths in the United States each year, and as many as 1 million in China, can be attributed to overwork. Sedentary lifestyles, sleeplessness, and stress—all provoked by damaging work cultures and economic anxieties—are partly to blame. ... Work provides the means to live, but it's increasingly clear that the modern workplace can kill, too.
 
 # 1010
 https://en.wikipedia.org/wiki/Committee_machine#Dynamic_structures
