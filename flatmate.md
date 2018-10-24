@@ -1,3 +1,144 @@
+### 1023
+Body parts: finger/toe; shoulder/hip; neck/waist; wrist/ankle; elbow;knee; head/foot; palm/heel;
+
+wristrist
+waist wāst  
+palm pä(l)m
+toe tō
+
+reference of the 16 personalities test
+http://www.humanmetrics.com/personality/type?fbclid=IwAR3Hm7nX82EMWLg6MizAk6AeVobhyT67THIP4hKCS-bamEepvhWUMEguyI0
+Perceiving means that he or she is inclined to improvise and explore alternative options.
+be inclined to: tend to
+improivse: create
+
+Hi xx, I would like to visit the University of Sydney this week. But to not be as you mentioned that going to a new place alone will be sad, boring and lonely, it'd be better if you can be the tour guide. When do you have time at your University?
+Hi oo. I'm afraid I don't have time to show you around this week because in the time that I don't have classes I have group assignments or work painting my parents house or a friend's party one night too. I will probably be free next week though.
+
+### 1020
+litter, rubbish, garbage (stress on 1st syllable); garage(oOo: a shed for housing a vehicle); 
+comic book; (not )comedy movie
+mammoth, scorpion (astrological signs) . (default: nouns stress on the 1st syllable) 
+limousine, cuisine: (stress on 1st syllable)
+palm tree: the inner surface of the hand between the wrist and fingers.
+cloak; cloakroom; glove
+trip; chip
+Mexico; Moscow
+diamond; jewelry;
+whale; shark   wāl
+buck: the male of some antlered animals, especially the fallow deer, roe deer, reindeer, and antelopes
+bulk: the mass or magnitude of something large.
+mug cup
+roulette/gambling: a gambling game in which a ball is dropped onto a revolving wheel ( roulette wheel ) with numbered compartments, the players betting on the number at which the ball will come to rest.
+dice/mince/blade:  dice:a small cube with each side having a different number of spots on it
+mercury: the chemical element of atomic number 80, a heavy silvery-white metal that is liquid at ordinary temperatures.
+robin: a cute birl, a large New World thrush(hua mei) that typically has a reddish(radish:mouth larger) breast.
+dwarf: dwôrf
+shakespeare, author.
+leprechaun(.ooO) (in Irish folklore) a small, mischievous sprite --  monster
+hood:a covering for the head and neck with an opening for the face,
+tube, grace, olive, hawk, dragon, cotton(ˈkätn; curtain:ˈkərtn), Bermuda, suit(you look good in suit), millionaire, casino. octopus, copper, calf, ambulance, straw(strô: dried stalks of grain, a thin hollow tube of paper or plastic for sucking drink)
+妖精，罩，管，恩典，橄榄，鹰，龙，棉花，百慕大，西装，百万富翁，赌场。 章鱼，铜，小牛，救护车，稻草（干燥的谷物秸秆，薄的空心纸管或塑料用于吸吮饮料）
+skyscraper; van; helicopter(,ooOo); Phoenix; pumpkin(papaya:oOo); 
+stock(sock); antarctica;  centaur; horseshoe; spine(spin); saturn; ray
+摩天大楼;面包车; 直升机; 凤凰;南瓜（木瓜）;
+股票（袜子）; 南极洲;半人马; 马蹄铁;脊柱;（自旋）;土星; 射线;
+
+
+### 1016
+concrete:  when the decision is concrete, it means not changing.
+polished concrete: pao guang hun ni tu
+
+swing/ rock:  rocking chair; 
+modality:   be simliar to will / can / may
+beginner: novice 
+Christmas, Christian, Christ, Christianity
+
+fuxi:  revisit and reflesh
+
+https://www.youtube.com/watch?v=u9svyIqwbOg
+tar, sleeve, lane, stretch, stick/stuck, howdy. brer rabbit hauled back and smacked the tar baby right square on the jaw. rabbit's fist is stuck in the tar. so he swung and hit the tar baby with his other fist.
+- the tar is so sticky
+- There has been a relationship between human and the 12 zodiacal animals. It is believed that the years represented by the animals affect the characters of people in the same way like the western astrology signs
+
+
+### 1014
+lyrics, I really like the lyrics of pokemon. When I watched the pokemon, all the lyrics are Japanese, but I can sing it because the individual sounds are quite similar to Taiwanese. 
+
+blow up/inflate the balloon.
+
+the plant droop, straighten up.
+
+the scourer dries out and shrinks when it loses water.
+
+hydrate,
+
+cause to absorb water.
+All that water you downed hydrates your skin, making your cheeks rosy and eyes bright - bonus!
+
+
+### 1012
+prepare, preparation
+maid, clother washer, euromaid. 
+make a good Preparation
+
+vegan, incompatible
+profile photo/picture
+
+
+expected, expectation, expected.
+nutrition, nutrient, omega-3, omega-6, nutritionist.
+drink, instant soup, beverage, 
+revenge, avenge, batman, DC comic, cartoon strip, 
+insight, perspective, active, passive, passive, pessimistic, optimistic
+
+light bulb.  implement, complement.  
+
+extradimensional; galaxy; compound interest.
+
+
+### 1011
+the year of goat/sheep/ram?  even antelope is OK.
+fortune symbol, many good/positive characters use as goat as a root.
+Great Goat/Sheep means beautiful; because lamp is nutritious (oO-tious), a woman provide suffient nutrition for his Descendants looks beautiful.
+The word/voice of Goat/Sheep means kindness, gentleness
+Goat + Fish means fresh
+The goat in clothes/decoration means fortune/luck
+meal of goat/sheep means nutrition/raise/bring up/breed
+goat and me means rightousness ˈrīCHəsnəs
+
+
+- lenient: ˈlēnēənt    generous
+  1. (of punishment or a person in authority) permissive, merciful, or tolerant.
+  2. judges were far too lenient with petty criminals
+  3. synonyms: merciful, clement, forgiving, forbearing, tolerant, charitable,
+  4. lenient also means not strict
+
+intepretable, asthetic
+- interpretable, aesthetic
+  1. from asthetic view, the traditional Chinese is more beautiful than modern Chinese.
+  1. Chinese is much more flexible and interpretable than Enghlish.  Because the word is created by painting not coding.
+  1. But understand paint is not as specific and precise as understand code.    
+  1. We compile the code to the real meaning, which is one to one mapping.  We explain the paint to real meaning, not one to one mapping.
+
+Confucianism, Legalist
+
+modern Chinese is more compatible to English than ancient chinese. 
+
+
+
+
+### 1008
+classic NES games for 2 players:
+super contra;
+double dragon 2 or 3,  nunchaku dragon;
+snow brothers;
+Squirrel 2;
+TMT 2 arcade game;
+Rexue xin ji lu
+
+
+
 ### 1006
 I am full. I am stuffed of food. 
 I am hungry. She left her animals starve.
@@ -200,6 +341,8 @@ private companies don't have a huge insterest in getting the numbers right. They
 - crucial, cruel, anecdote
 On the one hand, there are those who say these statistics are crucial, that we need them to make sense of society as a whole in order to move beyond emotional anecdotes and measure progress in an [objective] way.
 
+
+
 - elitist oOost;  elite: oOo
 favoring, advocating, or restricted to an elite.
 - advocate:
@@ -237,7 +380,7 @@ I get it, it's frustrating. If you want to test a statistic that comes from a pr
 
 ###### statstic video
 
-#####
+##### wiki  Roosevelt American president
 Through Roosevelt's series of radio talks, known as fireside chats, he presented his proposals directly to the American public.[149] Energized by his personal victory over his paralytic illness, Roosevelt relied on his persistent optimism and activism to renew the national spirit.[150]
 Roosevelt coined the term "Four Policemen" to refer the "Big Four" Allied powers of World War II, the United States, the United Kingdom, the Soviet Union and China.
 I cannot avoid a feeling of bitter resentment towards your informers, whoever they are, for such vile misrepresentations of my actions or those of my trusted subordinates

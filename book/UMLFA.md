@@ -38,6 +38,14 @@
       2. The VC-Dimension
       3. Examples: Threshold Functions; Intervals; Axis Aligned Rectangles; Finite Classes; VC-Dimension and the Number of Parameters
       4. The Fundamental of Theorem of PAC Learning
+- 20181012 Seach the EM, so read Unit 24 Generative Models
+    1. model the data distribution with a specific parametric form, and our goal is to estimate the parameters of the model
+    2. 24.1 MLE: Maximum Likelihood Estimator.  eg. $\hat \theta$ is an unbiased estimator or an MLE (different interpretation)
+      1. for continuous Random Variables
+      2. ML and Empirical Risk Minimization
+      3. Generalization Analysis -- measure how good is the MLE
+    3. 24.2 Naive Bayes -- simplify the Bayes optimal classifier. eg. $2^d$ parameters to $2d+1$ parameters.
+    4. 24.3 Linear Discriminant Analysis   
 
 - important word: agonostic, suffice, Therome, definition, lamma, corollary  - today 3,4,5, 6 new word! --- 1-6 what is PAC learning
 - important example: the infinte hypotheses in VC - unit
@@ -62,7 +70,7 @@
 - For that($min L_S(h)$ also $min L_\mathcal D(h)$), it suffices to ensure that the empirical risks of all members of $\mathcal H$ are good approximations of their true risk (which is quivalent to $\mathcal H$ has uniform convergence property).
   1. suffice [səˈfīs]
    - be enough or adequate. 
-   - a quick look should suffice
+   - a quick look should suffice. this is ~ for that.
    - synonyms: be enough, be sufficient, be adequate,
 ## 4.2 Finite Classes Are Agnostic PAC Learnable
 - However, since the law of large numbers is only an asymptotic result, it provide no information about the gap between the empirically estimated error and its true value for any given, finite, sample size.
