@@ -22,8 +22,10 @@ note of WEB1024:
 
 |time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
 |-------|-------|-------|-------|-------|-------|-------|
-THU1025|PRML: probability|intensive English
-output|LTnote: beta, multinomial, 1-of-K writing|pronunciation, prasentation 
-Next|normalization, pratice lagrange, dirichlet: nornalization
+THU1025|PRML: probability|intensive English|PRML:exponential family 2.3Gaussian distribution
+output|LTnote: beta, multinomial, 1-of-K writing|pronunciation(exersice4), prasentation(begin) |LT:distance;Jacobian; normalization
+Next|normalization, pratice lagrange, dirichlet: nornalization|flatmate discussion + monday meeting | nonparametric method:kernel
 
-1. last night xo, so this morning not so high-efficient.  1.1--->11:30
+1. last night xo, so this morning not so high-efficient.  1.1--->11:30 revist -->12:00
+2. make and eat the lunch half hour movie 1:30. 2.1->4:30 
+3. monday meeting, the review + submision + MoE, so today, Gaussian Process + assigment(wrting booklelt)

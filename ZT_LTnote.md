@@ -15,7 +15,8 @@ $\mathcal D$  probability over $\mathcal X$, (the difference: $\mathcal X$ set, 
 $f: \mathcal X \to \mathcal Y$ correct label function
 
 $L_{\mathcal D,f}(h) =P_{x \sim D}[h(x)\neq f(x)]=D(\{x:h(x)\neq f(x)\})$ error of a hypothesis h. the critiria here is $\mathcal D,f$, the ground true  .  
-- ?*how to interpret the D(x:)*
+- ?*how to interpret the D(x:)*, here all D mean distribution, D also the probablity over the space X (eg. P(x=1)=0.8, p(x=0)=0.2)
+  - ans: x is sample from this distribution D, orinally D(x) represent the probability x status, now is the probability that h(x)\neq f(x)
 
 $L_{S}(h) = \frac {|\{i \in [m]: h(x)\neq y\}|} m$ traning error
 - |.| means count the number, and $[m]=\{1,...,m\}$
@@ -29,8 +30,9 @@ $1-\delta$ the confidence parameter of our prediction (the sample is representiv
 $\epsilon$ accuracy parameter: $L_{\mathcal D,f}(h)\leq \epsilon$, then h is approximately correct predictor; $L_{\mathcal D,f}(h) > \epsilon$, then it is a failure of the learner
 - here epsilon is the parameter for quality of prediction, latter is error and can be decomposed
 
-$\mathcal D^m(\{S|_x: L_{\mathcal D,f}(h) > \epsilon\})\leq|\mathcal H_B|e^{-\epsilon m}\leq |\mathcal H|e^{-\epsilon m}$
-- ? $\mathcal D^m$ denotes the probability over m-tuples  induced by applying $\mathcal D$  to pick each element of the tuple independently of the other members of the tuple. 
+$\mathcal D^m(\{S|_x: L_{\mathcal D,f}(h_S) > \epsilon\})\leq|\mathcal H_B|e^{-\epsilon m}\leq |\mathcal H|e^{-\epsilon m}$
+- ! $\mathcal D^m$ denotes the probability over m-tuples  induced by applying $\mathcal D$  to pick each element of the tuple independently of the other members of the tuple.
+    - ans: upon S with m observations that are sampled according to D, the probability of failure of the learner. (m up -- good, or \epsilon up -- more tolerant, then the upper bound down, probability of failure down)
 
 $m\geq\frac {\log (\mathcal H/\delta)} \epsilon$ m a integer satifies ~ then ..., it holds that $L_{\mathcal D,f}(h)\leq \epsilon$ (h is approximately correct predictor).   
 - for a suffiently large m, the ERM rule over a finite hypothesis class will be probably (with confidence 1-\delta) approximately (upto an error \epsilon) corret.
@@ -46,13 +48,14 @@ new rule: ground truth is the distribution, no label function any more. As now i
 $\mathcal D$ distribution over $\mathcal X \times \mathcal Y$, so now $L_\mathcal D(h)$ is true error (no f anymore), $L_S(h)$ is also empirical error.
 
 $L_{\mathcal D}(h_S)\leq \min_{h^\prime\in \mathcal H}L_\mathcal D(h^\prime)+\epsilon$, definition 3.3 Agnostic PAC Learnability.  
-- The 2nd item is the loss of opimal hypothesis. if the realizability assumption holds, (=0) agnostic PAC learning provides the same guarantee as PAC learning.
+- The 2nd item is the loss of opimal hypothesis. if the realizability assumption holds, (=0) agnostic PAC learning provides the same guarantee as PAC learning (not need use ' but *, if assumption holds).
   
 ### 4 Learning via uniform convergence
 $L_{\mathcal D}(h_S)\leq \min_{h\in \mathcal H}L_\mathcal D(h)+\epsilon$  from Lemma 4.2 \epsilon-representative
  
 ### 5 The Bias-Complexity Tradeoff
-$L_{\mathcal D}(h_S)= \epsilon_{app}+\epsilon_{est}$ ; where: $\epsilon_{app}=\min_{h\in \mathcal H}L_\mathcal D(h)$ - the approximation error: the minimum rish achievable by a predictor in the hypotheis. (due to the search scope of H)
+$L_{\mathcal D}(h_S)= \epsilon_{app}+\epsilon_{est}$ ; where: $\epsilon_{app}=\min_{h\in \mathcal H}L_\mathcal D(h)$ 
+- the approximation error: the minimum rish achievable by a predictor in the hypotheis. (due to the search scope of H), note $h$ not $h_S$
 - the estimation error: the difference between the approximation error and the error achieved by the ERM predictor. (trainig on S perfect, there are still estimation error)
 - tradeoff: a very rich hypothesis class decreases the approximation error but might increase the estimation error,as a rich H might lead to overfitting. So the error not good;   On the other hand, small class H reduced the estimation error but increase the approximation error or, in other word, might lead to underfitting.
 
@@ -96,15 +99,21 @@ $\mathbb E[m]=N \mathbb E[Bern(x|\mu)]=N\mu; var[m]=N var[Bern(x|\mu)]=N\mu(1-\m
 - the **probability distribution over x** can therefore be written in the form(exponential distribution): which is known as the Bernoulli distribution. 
 - It is easily verified that this distribution is normalized and that it has mean and variance given by:
 - observations are drawn independently from Bernouli distribution:
-- we can estimate a value for mu by maximizing the likelihood function:
+- we can estimate a value for \mu by maximizing the likelihood function:
 - or equivalently by maximizing the logarithm of the likelihood. The funtion is given by:
 - we set the derivative of $\sum \ln p(\mathcal x_n|\mu)$ with respect to $\mu$ equal to zero:
 - we obtain the maximum likelihood estimator:
-####### question
+- (Binomial) in order to obtain the normalization coefficient we note that our of N coin flips, we have to add up all the possible ways of obtaining m heads, so that the binomial distribution can be written:
+- C_N^m is the number of ways of choosing m objects out of a total of N
+- (using exersice 1.10)For independent events, the mean of the sum is the sum of the means,
+- and the variance of the sum is the sum of the variances, we have:
+
+
+###### question
 1. not Gaussian, why var?
    - ans: every distribution has variance. Suppose we have a data set $\{x_i,x_2,...x_N\}$ of observed values of x.  Then $\hat\mu=\sum_i x_I$ $\hat \sigma=\frac 1 N \sum_i (x_i-\hat x_i)^2$
 2. why MLE of exponential family distriubtion is easy?
-   - ans: MLE using logrithm and the logarithm is the inverse function to exponentiation. in the exponential family the x is in the exponent part, the estimated parameter is in the base part, so after logarithm, x became the coefficient of ln, and parameter is in the ln)
+   - ans: MLE using logarithm and the logarithm is the inverse function to exponentiation. In the exponential family the x is in the exponent part, the estimated parameter is in the base part, so after logarithm, x became the coefficient of \ln (just sum the observations), and parameter is in the \ln. Therefore, it is easy to derivate and set the derivative with respect to the parameter equal to 0, and then obtain the value of the estimated parameter.
 
 
 
@@ -117,12 +126,11 @@ $\mathbb E[\mu]=\frac a {a+b}$
 
 ...
 
-## 2.2
-
+###### writing:
 - the 3 times coins give severly over-fitted result for small data sets. In order to develop a Bayesian treament for this problem, we need to introduce a prior distribution over the parameter $\mu$. (over $\neq$ its)
 - the gamma function. the coefficient ensure the beta distribution is normalized, so that:
 
-## 2.2 Multimomial Variables
+## 2.2 Multinomial Variables
 K state:
 $p(\mathbf x| \mathbf \mu)=\Pi_{k=1}^K\mu_k^{x_k}$
 
@@ -140,9 +148,9 @@ $\sum_{k=1}^K {m_k} \ln \mu_k + \lambda (\sum_k \mu_k - 1)$
 
 ###### writing
 - a generation of Bernouli distribution to more than 2 outcome or to K states:
-- we encounter discrete variables that take on one of K possible mutually exclusive states. Although there are various alternative ways to express such variables, we shall see shortly that a particularly convenient representation is the 1-of-K (one hot) scheme, in which the variable is represented by a K-dimensional vector x in which one of the elements x_k equals to 1, and all remaining elements equal 0.
-- the mean of variable x
-- Now condider a data set D of N independent observations $\bf {x_1,...,x_N}$
+- we encounter discrete variables that take on one of K possible mutually exclusive states. Although there are various alternative ways to express such variables, we shall see shortly that a particularly convenient representation is the 1-of-K (one hot) scheme, in which the variable is represented by a K-dimensional vector \mathbf x in which one of the elements x_k equals to 1, and all remaining elements equal 0.
+- the mean of variable \mathbf x
+- Now condider a data set D of N independent observations $\bf {x_1,...,x_N}$, the coorisponding likelihood function take the form as:
 - m, which represent the number of observation of x_k=1.
 - to find the maximum likelihood solution for $\mu$, we need to maximize $\ln p(\mathcal D|\mathbf\mu)$ with respect to $\mu_k$:
 - (Lagrange) Taking accout of the constraint that the $\mu_k$ must sum to one. This can be achieved using a Lagrange multipier lambda and maximizing. (**constrain=0, with summation --> use Lagrange multipier**)
@@ -152,15 +160,84 @@ $\sum_{k=1}^K {m_k} \ln \mu_k + \lambda (\sum_k \mu_k - 1)$
    - because the constrain ($\sum =1$) in optimization problem (maximum likelihood)
 
 ###### 2.2.1 The dirichlet distribution
-- in order to obtain the normalization coefficient we note that our of N coin flips, we have to add up all the possible ways of obtaining m heads, so that the binomial distribution can be written:
-- C_N^m is the number of ways of choosing m objects out of a total of N
-- (using exersice 1.10)For independent events, the mean of the sum is the sum of the means,
-- and the variance of the sum is the sum of the variances, we have:
+binomial <-- prior  Beta
+multimoimal <-- prior  Dirichlet
+
+## 2.3 Gaussian distribution
+The Gaussian distribution airses in many different contexts and can be motivated from a variety of different perspectives.
+1. for a single variable, the distribution that maximizes the entropy is the Gaussian. This property applies also to the multivariate Gaussian.
+2. the sum of multiple random variables. ~ has a distribution that becomes increasing Gaussian as the number of terms in the sum increase.
+
+we strongly encourage the reader to become proficient in manipulating Gaussian distribution using the techniques presented here  as this will prove invaluable in understanding the more complex models presented in later chapters.
+1. the covariance matrix can be taken to be symmetric, without loss of generality, because any antisymmetric component would disappear from the exponent.
+
+$\mathcal N(x|\mu,\sigma^2)=\frac 1 {(2\pi\sigma^2)^{1/2}}\exp\{-\frac 1 {2\sigma^2} {(x-\mu)}^2\}$
+
+$\mathcal N(x|\mathbf \mu,\Sigma)=\frac 1 {(2\pi)^{D/2}|\Sigma|^{1/2}}\exp\{\Delta^2\}$
+
+$\Delta^2=(\mathbf{x-\mu})^T \mathbf\Sigma^{-1}(\mathbf{x-\mu})$,     for 1-D: $\Sigma^{-1}=1/\sigma^2$
+
+$\mathbf{y=U(x-\mu)}$
+
+$j_{ij}=\frac {\partial x_i}{\partial y_j}=U_{ji}$
+
+- in the case of single variable x, the Gaussian distribution can be written in the form: ~ where \mu is the mean and \sigma^2 is the variance.
+- For D-dimensional vector x, the multivariate Gaussian distribution takes the form ~ where \bf\mu is the a D-dimension mean vector, \bf\Sigma is a DxD covariance matrix, and |\bf\Sigma| denotes the determinant of \bf\Sigma.
+- We begin by considerting the geometrical form of the Gaussian distriubtion. The functional dependence of the Gaussian on \bf x is through the quandratic form: ~ which appears in the exponent. The quantity \Sigma is called *Mahalanobis distance* from \bf\mu to \bf x   and reduces to the Euclidean distance when \Sigma is the identity matrix.  -- identity means: no deviation, no relation between different dimension.
+- eigenvector equation for the convariance matirx
+- we can interpret {y_i} as a new coordinate system defined by the orthonormal vectors \bf\mu_i that are shifted and rotated with respect to the original x_i coordinates. From the vector y=tran(x), we have:
+- In going to from the x to the y coordinate system, we have a Jacobian matrix J with element given by:~ where U_{ji} are the elements of the matrix \mathbf U^T  --> the normalization (1.48) of the Gaussian.
+- We now look at the moments of the Guassian distribuion and thereby provide an interpretation of the parameters \mu and \Sigma.
+
+
+###### questions:
+1. why 1? where have we seen that?
+2. this distribution how to get the mahalanobis/Euclidean distance that is between two points, not distrbution.  
+   - ans: x is an observation, then the \Delta is the distance from \mu. if D=1, it is 1/sigma^2 \times Euclidean distance.
+3. symmetric matirx, antisymmetric component, orthonormal set.
+   - orthognal matrix: $\mathbf{UU^T=I}$
+4. what is surface and constant?
+5. it is necessary for all of the eigenvalues \lambda_i of the covariance matrix to be strictly positive (\Sigma is positive definite), otherwise the distribution cannot be properly normalized. again normalized??
+
+#### 2.3x mixture Gaussian, likelihood ...
+
+## 2.4 the Exponential family:
+Members of the exponential family have many important properties in common, ant it is illuminating to discuss these properties in some generality.
+
+$p(\mathbf{x|\eta})=h(\mathbf x)g(\mathbf\eta)\exp\{\mathbf{\eta^T u(x)}\}$
+
+$g(eta)\int h(x)\exp\{\eta^T u(x)\}dx=1$, (omit bf here)
+
+##### 2.4.1 Maximum likelihood and sufficient statistics; 
+##### 2.4.2 Conjugate priors
+##### 2.4.3 Noninformative priors
+
+- The exponential family of distributions over x, given parameter \eta, is defined to be the set of distribution of the form: ~ where x may be scalar or vector, and may be discrete or continuous. Here \eta are call the *natural parameters* of the distribution, and u(x) is some function of x.
+- The function g(\eta) can be interpreted as the coeffcient that ensures that the distribution is **normalized** and therefore satisfies: ~ where the integration is replaced by summation if x is a discrete variable.
+
+## 2.5 Nonparametric Methods
+# 2.5.1 Kernel density estimators
+
+
 
 
 ### new word
+illuminate, generality
+
+same word different meanings: motivated from xx perspectives. property
+proficient, manipulate:  become proficient in manipulating xx
+geometrical form, functional dependence, quadratic [kwäˈdratik] form, Mahalanobis distance
+ellipsoids[əˈlipsoid]: a three-dimensional figure whose plane sections are ellipses[əˈlips] or circles.
+
+
 Bernouli, exponential; logarithm (algorithm,before Rithm, both a and o are light), denominator
 Binomial, Multinoimal; lagrange (laGrange) multiplier (Oo,oo). dirichlet: (Oo k,let)
+base, exponent
+
+
+
+
+
 
 
 
