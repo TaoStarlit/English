@@ -18,3 +18,12 @@ note of WEB1024:
 1. reading GP Bayesian Network: I found I need learn the Probability, likelihood first.
 1. typing and derivaing the Bernouli model take a class in the morning
 1. in fact: writing the USML takes afternoon a class, typing takes the evening 2 classes
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+THU1025|PRML: probability|intensive English
+output|LTnote: beta, multinomial, 1-of-K writing|pronunciation, prasentation 
+Next|normalization, pratice lagrange, dirichlet: nornalization
+
+1. last night xo, so this morning not so high-efficient.  1.1--->11:30
