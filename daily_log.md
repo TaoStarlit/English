@@ -29,3 +29,13 @@ Next|normalization, pratice lagrange, dirichlet: nornalization|flatmate discussi
 1. last night xo, so this morning not so high-efficient.  1.1--->11:30 revist -->12:00
 2. make and eat the lunch half hour movie 1:30. 2.1->4:30 
 3. monday meeting, the review + submision + MoE, so today, Gaussian Process + assigment(wrting booklelt)
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+THU1025|PRML: revisit; non-parametric; histogram|same|kernel->gaussian kernel
+output|LT: writing|distraction :(|good, why kivi slow
+Next|GP|don't meaningless news | skip KNN, go to GP!!
+
+1. wake up early, but in 1.2 I was distracted from study
+2. relax well in noon, even with other thing, afternoon very good!!

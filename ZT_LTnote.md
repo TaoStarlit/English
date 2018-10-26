@@ -186,7 +186,7 @@ $j_{ij}=\frac {\partial x_i}{\partial y_j}=U_{ji}$
 - We begin by considerting the geometrical form of the Gaussian distriubtion. The functional dependence of the Gaussian on \bf x is through the quandratic form: ~ which appears in the exponent. The quantity \Sigma is called *Mahalanobis distance* from \bf\mu to \bf x   and reduces to the Euclidean distance when \Sigma is the identity matrix.  -- identity means: no deviation, no relation between different dimension.
 - eigenvector equation for the convariance matirx
 - we can interpret {y_i} as a new coordinate system defined by the orthonormal vectors \bf\mu_i that are shifted and rotated with respect to the original x_i coordinates. From the vector y=tran(x), we have:
-- In going to from the x to the y coordinate system, we have a Jacobian matrix J with element given by:~ where U_{ji} are the elements of the matrix \mathbf U^T  --> the normalization (1.48) of the Gaussian.
+- In going to from the x to the y coordinate system, we have a Jacobian matrix J with element given by:~ where U_{ji} are the elements of the matrix \mathbf U^T  --> the normalization (1.48) ($\int_{-\infty}^\infty p(x|\theta)dx$) of the Gaussian.
 - We now look at the moments of the Guassian distribuion and thereby provide an interpretation of the parameters \mu and \Sigma.
 
 
@@ -206,23 +206,123 @@ Members of the exponential family have many important properties in common, ant 
 
 $p(\mathbf{x|\eta})=h(\mathbf x)g(\mathbf\eta)\exp\{\mathbf{\eta^T u(x)}\}$
 
-$g(eta)\int h(x)\exp\{\eta^T u(x)\}dx=1$, (omit bf here)
+$g(\eta)\int h(x)\exp\{\eta^T u(x)\}dx=1$, (omit \bf here)
+
+- The exponential family of distributions over x, given parameter \eta, is defined to be the set of distribution of the form: ~ where x may be scalar or vector, and may be discrete or continuous. Here \eta are call the *natural parameters* of the distribution, and u(x) is some function of x.
+- The function g(\eta) can be interpreted as the coeffcient that ensures that the distribution is **normalized** and therefore satisfies: ~ where the integration is replaced by summation if x is a discrete variable.
 
 ##### 2.4.1 Maximum likelihood and sufficient statistics; 
 ##### 2.4.2 Conjugate priors
 ##### 2.4.3 Noninformative priors
 
-- The exponential family of distributions over x, given parameter \eta, is defined to be the set of distribution of the form: ~ where x may be scalar or vector, and may be discrete or continuous. Here \eta are call the *natural parameters* of the distribution, and u(x) is some function of x.
-- The function g(\eta) can be interpreted as the coeffcient that ensures that the distribution is **normalized** and therefore satisfies: ~ where the integration is replaced by summation if x is a discrete variable.
+
 
 ## 2.5 Nonparametric Methods
+the Parametric approach to density modelling:we use probability distributions having specific functional forms governed by a small number of parameters whose values *are to be determined* from a data set.
+
+An important limitation of this approach is that: the chose density (eg.Gaussian, unimodal) might be a poor model of the distribution (eg.xx, mulitmodal) that generates the data, which can result in poor predictive performance.
+
+nonparametric approaches to density estimation that make few assumptions about the form of the distribution.
+
+Histogram methods for density estimation (modelling a distribution), which we have already encountered in the context of marginal and conditional distribution.
+
+Standard histograms simply partition x into distinct bins of width $\Delta_i$ and then count the number $n_i$ of observations of x falling in bin i. 
+
+$p_i=\frac {n_i} {N\Delta_i}$
+
+- in order to turn this count into a normalized probability density, we simply divide by the total number N of observations and by the width $\Delta_i$ of the bins to obtain probability values of each bin given by: $p_i=$ ~ for which it is easily seen that $\int p(x)dx=1$
+- One obvious problem is that the estimated density has A... Another major limitation of the histogram approcah is its B...  (A,B are the following Cons)
+
+when \Detal is very small, the density model is very spiky, with a lot of structure that is not present in the underlying distribution that generated the data set;
+too large, too smooth that consequently fails to capture the **bimodal** (2 Gaussians mixture) property of the green curve.
+The best results are obtained for some intermediate value of \Delta (middle figure). 
+
+Pro: 1) once the histogram has been computed, the data set itself can be discarded, which can be advantageous if the data set is large. -- **it is nonparametric, but also not memory based (Gaussian kernel estimation is).** 2)The histogram approach is easily applied if the data points are arriving sequentlly.
+
+Con: 1)dicontinuities that are due to the bin edges rather than any property(mu var) of the underlying distribution that generated the data. 2) scaling with dimensionality. If we divide each variable in a D-dim space into M bins, then the total number of bins will be {M^D}. 
+
+two lessons
+1. to estimate the probability density at a particular location, we should consider the **data points lie within some local neighbourhood** of that point. (Note that the concept of locality requires that we assume some form of distance measure, and here we have been assuming Euclidean distance.)
+2. the value of the **smoothing parameter** should be neither too large nor too small in order to obtain good results. 
+(this is reminiscent of the choice of model complexity in polynomial curve fitting, or alternatively the value \alpha or the regularization parameter, was optimal for some intermediate value, neither too large nor too small)
+
+--**Armed with these insights, we** turn now to a discussion of 2 widely used nonparametric techniques for density estimation, kernel estimators and nearest neighhours, which have better **scaling with** dimensionalty than the simple histogram model.
+
 # 2.5.1 Kernel density estimators
+$P=\int_\mathcal R p(x)dx$
+
+$\mathbb E[K/N]=P$;  $var[K/N]=P(1-P)/N$
+
+$p(x)\approx\frac K {KV}$;  $P\approx p(x)V$
+
+$p(x)=\frac K{NV}$
+
+$$ k(\mathbf u) = \left\{ \begin{array}{ll}
+            1, & \quad |u_i|\leq 1/2, i=1,...,D \\
+            0, & \quad otherwise
+        \end{array} \right.$$
+$\mathbf u= (\mathbf{x-x_n})/h$
+
+$K=\sum_{n=1}^N k(\frac {(\mathbf {x-x_n})} n)$
+
+$p(\mathbf x)=\frac 1 N \sum_{n=1}^N \frac 1 {h^D} k(\frac {(\mathbf{x-x_n})} h)$
+
+$p(\mathbf x)=\frac 1 N \sum_1^N \frac 1 {(2\pi h^2)-^{1/2}}exp\{-\frac {\|\mathbf{x-x_n\|^2}} {2h^2} \}$
+
+$$\begin{array}{ll}
+            k(\mathbf u) & \quad \geq \quad 0 \\
+            \int k(u)d\mathbf u, & \quad = \quad 1
+        \end{array}$$
+
+- some small region $\mathcal R$ containing $x$. The probability mass associated with this region (integral over this region) is given by: ~ the total K of points that lie inside R will be distributed according to the binomial(just for example) distribution :
+- the mean fraction of points falling inside the region is:
+- the variance around this mean is:
+- For large N, this distribution will be *sharply peaked* around the mean and so:
+- If, however (opposite to large N), we also assume the region R is *suffiently small* that probability density p(x) is roughly constant over the region, then we have:
+- combine large N and small R (2 contradictory) assumptions, we obtain our density estimate (differnt with P of falling in a region) in the form p=K/NV:
+    1. fix K and determine V --> K-nearest-neighbour technique
+    2. fix V and determine K --> the kernel approach
+- kernel (piece-wise function) in order to count the number of K of points falling within this region, it is convenient to define the following function: ~ which represent a unit cube centred on the orign.  
+    - k(\bf u) is an example of a *kernel function*, and in this context is also called *Parzen window*.
+    - (\bf u, the origin distance map to new D dimension or only stretch or fix. k of u: determine if its in on out based on {u_i}_{i=1}^D)
+- the data x_n lies inside a cube of side h centerd on x.
+- The total number of data points lying inside this cube will be therefor be:
+- substituting this expression into p=K/NV then gives the estimated density at x: 
+    - Using the symmetry of the function $k(\mathbf u)$, re-interpret this equation, not as a single cube centered on x but as the sum over N cubes *centred* on the N data and points x_n.
+    - this estimator will suffer from one of the same problems that the histogram method sufferd from, namely the **presence of artificial discontinuties**, in this case at the boundaries of the cubes.
+- We can obtain a smoother density model if we choose a smoother kernel function, and a common choice is the Gaussian, which gives rise to the following kernel density model:  ~ where h represents the standard deviation of the Gaussian components. 
+    - our density model is obtained by *placing a Gaussian over each data point*, and then adding up the contributions over the whole data set
+    - and then dividing by N so that the density is correctly normalized.
+    - (to deal with the discontinuties of the k(\bf u) : we it close the point 1, far from 0, and exp(-x) is good and smooth! other parts are just for adding up and normalization).  recap: 1-D gaussian: $exp(-(x-u)^2/\2sigma^2)$  2-D gaussian: $exp((x-\mu)^T \Sigma^{-1}(x-\mu))$ if $\Sigma=diag(h^2)$
+    - now h act as a smooth parameter. Like the $\Delta$ in histogram model, if h set too small, the result is a very noisy density model (spiky, not present in the underly distribution that generated dada), whereas if it is set too large, if fail to capture the binmodal distribution. (the binmodal nature of the underly distribution is washed out). The best density model is obtained for some intermediate value of h.    --- trade-off between sensitivity to noise at small h and over-smoothing at large h.
+- any other function $k(\mathbf u)$ subject to the conditions: ~ which ensure that the resulting probability distribution is nonnegative everywhere and integrates to one.
+
+now I know why the training of Kivi is slow: kernel has a great merit that the computaional cost of evaluating the density (kivi distance) grows linearly with the size of the data set.     Kernel method is a nonparametric approach (memory-based), a nerual network is a parametric approach (model-based), do you think combining them together is a good idea? 
+
+what I concern is that: using kernel methods, there is no computation involved in training, because it simply requires storage of training data, but the computation of evaluating the density/distance for grow linearly with the size of training set.   Using network, although it needs training, the testing is quite swift as the computation only related to the trained parameters.  Combine them together, both merits disappear, there are only weaknesses of them. Any idea to address it?
 
 
+##### question
+1. bimodal, unimodal, multimodal?
+2. what different between the kernel in Kernel density estimators and Gaussian kernel?
+3. why binomail: fliping one coin N times.
+    1. each data point has **a probability P of falling** with R, (all data points are/every data point is independent to each other), so the total number K of points that lie inside R will be distributed according to the binoimal distribution
+4. ? what is that the distribution will be sharply peaked around the mean?   <-- sufficient large N that the number K of points falling inside the region is sufficient for the binomial distribution to be sharply peaked. 
+5. ? why N suffient large to guarantee the binomial? 
+6. converge to the true probability density in the limit $N\to\infty$ provided   V shrink suitably with N; and K grows with N. what is shirnk with and grow with ??
+7. parzen window
+
+##### new words
 
 
 ### new word
-illuminate, generality
+1. reminiscent
+2. histogram [ˈhistəˌgram] program [O,o]
+3. discontinuities [ˌdiskäntnˈ(y)o͞oitē]
+4. Gaussian, Parzen [ˈpäzən], bayes, bayesian   [ˈbāzēən  ]
+5. parametric, nonparametric [ˌnänparəˈmetrik]
+
+illuminate[iˈlo͞oməˌnāt] =lighten, generality[ˌjenəˈralitē] =recap
 
 same word different meanings: motivated from xx perspectives. property
 proficient, manipulate:  become proficient in manipulating xx
