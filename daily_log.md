@@ -33,9 +33,19 @@ Next|normalization, pratice lagrange, dirichlet: nornalization|flatmate discussi
 
 |time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
 |-------|-------|-------|-------|-------|-------|-------|
-THU1025|PRML: revisit; non-parametric; histogram|same|kernel->gaussian kernel
+FRI1026|PRML: revisit; non-parametric; histogram|same|kernel->gaussian kernel|learn/buy|discussion|GP 6.4|
 output|LT: writing|distraction :(|good, why kivi slow
 Next|GP|don't meaningless news | skip KNN, go to GP!!
 
 1. wake up early, but in 1.2 I was distracted from study
 2. relax well in noon, even with other thing, afternoon very good!!
+3. 
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+SAT |PRML: kernel,linear,construct new|gaussian kernel|probabiliy fisher|~|~|UDML:16 kernel trick
+output|LT: |LT: from construct-->valid|LT: one kind of kernel|~|~|LT: process/eg. of kernel
+Next|back to regression|RBF|how link|~|~|express prior knowledge
+
+when editing in a large .md file, I find it is very slow. So i turn to a temperary short file, and then copy to the LT files
