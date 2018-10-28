@@ -49,3 +49,16 @@ output|LT: |LT: from construct-->valid|LT: one kind of kernel|~|~|LT: process/eg
 Next|back to regression|RBF|how link|~|~|express prior knowledge
 
 when editing in a large .md file, I find it is very slow. So i turn to a temperary short file, and then copy to the LT files
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+SUN 1028 |PRML: dual representation/regression|rich 5 self-discipline|w in Guassian|Church|$\sigma$-filed; GP.pdf|PRML, paper|
+output|LT: revisit, for GP|also apply in other |LT|~|
+Next|GP, reorganize, matrix square and derivative|to flatmate.md|hang on|shreey|reorganize|conclusion, link 2.3.1 2.3.3|
+
+1. at 9:23, I found: 6.4.2 more clear, try to find why at 1st time, 6.4.2 is so difficult?
+   - ans: because I don't what the index point to. I mix up the different observations of one variable and different variable in one process
+   - and more originating reason, I didn't write it on the paper
+2. C4.5 in LHML contents.
+
