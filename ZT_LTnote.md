@@ -351,10 +351,30 @@ the gate has no analytical solution due to the non-linearity of softmax, so usin
 to avoid the inner loop iteration, Xu introduce an alternative gate function: I don't know why joint distribution can help get a analytical solution of the gate. 
 
 
+# Express logically
+1. As for _issue_, I think _sb_ has explained clearly,
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I tried to make an analyse and plan and get some support from the you sincerely. are supposed to give such feedback, as well as attack me (i didn't mention the icml and nips, when listing other conferences and journals. But)
 
 
 

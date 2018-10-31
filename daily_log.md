@@ -62,3 +62,92 @@ Next|GP, reorganize, matrix square and derivative|to flatmate.md|hang on|shreey|
    - and more originating reason, I didn't write it on the paper
 2. C4.5 in LHML contents.
 
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+MON 1029|PRML:condition/joint Gaussian|algebra|~|bundy|what delay..|ppt|
+output|Long term|long term|~|bundy|~|focuse|
+Next||
+
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+THU 1029|PPT|PPT|PPT|meeting|annotate the ppt|~
+output|Long term|long term|~|bundy|~|focuse|
+Next||||
+
+1. the styles of supervisors are different, you should accommodate yourself to the different styles and make good use of them. 
+
+|time|1.1|1.2|2.1|2.2|3.1|3.2|
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+THU 1029|how do others write, and ask about the plan|~
+output|Long term|long term|~|bundy|~|focus|
+
+1. is this article good for you? https://academic.oup.com/economicpolicy/article-abstract/9/18/101/2392430?redirectedFrom=fulltext
+2. journal doesn't have deadline, except special issue
+
+3. you must get the opportunity, or everything will fail!! Be nice, tolerant to your girl, there are no equal!!
+    1. want to welcome, but still refuse. You should know this natural! using your courage, wise and tolerant!!
+
+
+before the moment you moved in, the water facility was leak and block, and after the moment you moved out the electriciy broken. These let think of you are very special.
+
+not interfere damage the property or bring trouble to others anymore, you can only bring some surprise in my house or flat.
+
+1. Timetable:
+IJCAI deadline Feb-25, so time table:
+Jan. finish writing; 
+Dec. complete all the experiment; 
+Nov. literature reviews ---- it is next month, so it also help the writing of TNNLS, as I can learn how some good papers were written.
+
+2. difference:
+Another issue is what differences among IJCAI(more sponsor from China),AAAI,ICDM(should be similar to KDD),TNNLS(it is system level and focus on Neural network), how can I study the differences and make use of them?
+From previous learning: some TNNLS or other transaction papers about emerging research topics that are very theoretical the experiments are more systematic(like prof. Yao's style), and NIPS, AAAI, ICDM papers solve certern problems in specific topic, eg. imabalanced image data classification and boundary detection, Improved Gans and some variants of model in specific applications (like your previous instructions).
+3. topic and strength:
+For the from the final PhD thesis, breaking down to the research topic and one-by-one projects. We should begin with the strength of the panel, supervisors and myself. 
+As in Chen's opinion, I have 2 very great supervisors, and myself is also not bad. But for the previous long period, the topic and projects were irrelevant to the strength of supervisors even not to mine. 
+The joint-PhD is like a reform for me, the reform should begin with the strength (Learn China's reform v.s. Former Soviet's reform), get some results, and only then be able to turn to key-weakness or other high-valuable and challenging projects.  I found the previous Phd student prof. Yao mentioned is researching online imbalanced learning where both class imbalance and concept drift coexist. 
+Therefore, as a long-term topic and one-by-one projects,  I am interested in the combined problem of both imbalanced and transfer learning(it is also relevant to the concept drift). 
+If you agree, can you recommend a list of papers in this field? it will be better if they are your student's papers, as it lets the discussion much easier.  
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+Wedn 1031|discuss future|reading and annotated|send|english story with picture|ready for meeting about TRM
+|output|begin with PoP then Ivor determine which is better|~||
+|next|PoP search quickly|write and summary|xx puts money in your pocket|refine|language|
+
+
+
+1. patience and stamina help me a lot. Don't assume they are bad guy in the first engage because of your over-reaction. Don't send the situmiling information, but double-check what you really need and change it, more polite, or ask question in self-examination manner. Even it is the bad thing you feel, try to ask and comfirm first. if you self-exam well, your question will also let him/her self-exam.
+2. face your weakness, the training and tackling it is the easy part once you begin. Although the identify and admit it are the hardest part, if you are strong and wise, it is just a moment.  --- accept and embrace and tackle
+3. you learn a lot in telling the stories using the photo. but you still need to learn to refine it.
+    1. spurt/spray my suitcase onto Conveyor belt and hit the boundary.
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+Thur 1101|listening, accepted paper|get an ideal, summary the good paper in 2 pages|
+|output|script, list
+|next|
+
+1. deal with the final decision: they said the idea is well-known, me it is like implement ...
+[googl][https://www.google.com.au/search?q=The+idea+of+synthetic+images+for+imbalanced+learning&rlz=1C1CHBF_en-GBAU811AU811&oq=The+idea+of+synthetic+images+for+imbalanced+learning&aqs=chrome..69i57.353j0j4&sourceid=chrome&ie=UTF-8]
+1. how han bo's TNNLS published:
+   Progressive Stochastic Learning for Noisy Labels
+    B Han, IW Tsang, L Chen, C Yu, SF Fung
+    IEEE Transactions on Neural Networks and Learning Systems
+1. Beyond Majority Voting: A Coarse-to-Fine Label Filtration for Heavily Noisy Labels
+B Han, IW Tsang, L Chen, JT Zhou
+Submitted to IEEE Transactions on Neural Networks and Learning Systems
+
+1. two nips:  same filed and related, how to conduct them at the same time and get the good results 
+  Masking: A New Perspective of Noisy Supervision
+    B Han, J Yao, G Niu, M Zhou, IW Tsang, Z Ya, M Sugiyama
+        Advances in Neural Information Processing Systems
+1. Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels
+    B Han, Q Yao, X Yu, G Niu, M Xu, W Hu, IW Tsang, M Sugiyama
+        Advances in Neural Information Processing Systems
+

@@ -1,3 +1,36 @@
+### 1031
+###### the photos:
+rosy clouds, evening glow
+social media, 
+sentence fill-ins  / fill-in-blank
+measure your accuracy, and give you the score
+exhibition of innovation and entrepreneurship [ˌäntrəprəˈnərˌSHip]
+treat the scholars by a grand banquet/feast
+drone, unmanned aerial vehicle.   [ˈe(ə)rēə]
+
+mountain villa [ˈvilə]  health/medical examination,  retreat of the parents of old former president
+urban planning relevant to civil engineering
+
+cottage, staff development training
+
+trōfē cup
+
+###### logo:
+handcuff, the tool for digging, ALV: all-terrain vehicle. leather armor, feather wing
+
+the chassis of the moon rover can raise/stand up and transform to be a telecommunication station.
+  
+retract, pull back.  
+ridge.    
+
+
+
+### 1030
+servant: balloon floats, fire torch swings, fire whip swings, stick hit, fireball rushes, missile launches, tornado swirls/whirls.
+
+limb: arm. upper arm and lower arm are limbs.
+mushroom, bathroom, bedroom
+
 ### 1023
 Body parts: finger/toe; shoulder/hip; neck/waist; wrist/ankle; elbow;knee; head/foot; palm/heel;
 
