@@ -151,3 +151,44 @@ Submitted to IEEE Transactions on Neural Networks and Learning Systems
     B Han, Q Yao, X Yu, G Niu, M Xu, W Hu, IW Tsang, M Sugiyama
         Advances in Neural Information Processing Systems
 
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+Thur 1101|listening, accepted paper|get an ideal, summary the good paper in 2 pages|
+|output|script, list
+|next|
+
+1. think you are not very quick as plan. eg. plan: 7-8am: revist one TNN and read another TNN + listen, but in fact, only revisit ...   --> quickly, or plan less
+2. orinal plan:  7-8 revisit, get the writing;  8-10 assigment 3; 10-12 report
+3. something you need to consider logical. eg. VPN -> ask classmate. actually if you consider logically, it is no need.  google is a better option.c
+ready for this paper
+https://ieeexplore.ieee.org/abstract/document/6549126
+
+
+
+# convergence and robustness analysis
+1. Bond: convex optimization :
+    1. search convergence in the index I get the context:
+        - if I list from basic to complex: linear 467/quadratic 489 539/convex hull536/newton method 529 536/barrier cone 536 577.  Probably I will try to understand the 1st 3 analysis and incoroperate with the referrence paper of your papers that I am reading, 
+        - what is infeasible newton methods ...
+
+http://web.stanford.edu/~boyd/books.html
+    convex as well and linear analysis
+
+http://www.cs.princeton.edu/~ehazan/tutorial/tutorial.htm
+Online Convex Optimization A Game-Theoretic Approach to Learning    --- related to my model
+
+noisy, shoatage, imbalance, transfer: what is the relation and novelty.  old problem new method is it novelty?
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+Fri 1102|discuss convergance with boss|~|assigment|convex|convex|CV
+|output|the list|deviate to news..|submitted|LT:
+|next|
+
+
+https://www.seek.com.au/job/37385464?type=standard
+lea
+
+learning from xin yao to edit your CV: 
+so many rewards, leading role.  supervior role.

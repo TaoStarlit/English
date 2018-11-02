@@ -354,9 +354,35 @@ to avoid the inner loop iteration, Xu introduce an alternative gate function: I 
 # Express logically
 1. As for _issue_, I think _sb_ has explained clearly,
 
+# Convex optimization
+## 9 Unicontrained minmization
+- twice continuously differentable (dom f is open)
+- we can analytically solve the optimality equation, but usually the problem must be solved by an iterative algorithm
 
 
+## link
+- "dom" in 1.6 Notation
+- We delimit vectors and matrices with square brackets, with the components separated by space. We use parentheses to construct column vectors from comma separated lists. eg. $(a,b,c)=[a \quad b \quad c]^T$ 
+- The set $\bf dom$ $f$, the domain of the function $f:R^p\to R^q$ (as $R^q$-value function on some subset of $R^p$), specifies the subset of $R^p$ of points $x$ for which $f(x)$ is defined. eg. logarithm, dom log= $R_{++}$
+- the general convex quadratic minimization problem has this form $\min(1/2)\mathbf{x^TPx+q^Tx}+r=\\ \quad 0.5P_{11}x_1^2+P_{12}x_1x_2+0.5P_{22}x_2^2+q_1x_1+q_2x_2+r$, where $\mathbf{P\in S_+^n, q\in R^n}, r\in R$
+    - optimality function: $Px^*+q=0$, if $P\curlyeqsucc 0$, then has solution, $x^*=-P^{-1}q$ 
+    - if P is does not have any solution, then the problem is unbounded below. 
+- least-squares problem (special case of quadratic problem): $\|\mathbf{Ax-b}\|_2^2={x^T(A^TA)x}-2(A^Tb)^Tx+b^Tb$ - I confused about the Transposed Matrix (transverse =horizontal: a transverse beam supports the dashboard)
+    - $P=A^TA, q=2(A^Tb)^T$, 
+    - so the optimality conditions $A^TAx^*+(A^Tb)=0$ are called the *normal equations* of the least-squares problem.
+- Unconstrained geometric programming $\log(\sum_{i=1}^m\exp(a_i^Tx_i+b_i))$
+- Analytic center of linear inequalities $-\sum_{i=1}^m\log(b_i-a_i^Tx_i)$
+- Analytic center of a linear matrix inequality $\log\det F(x)^{-1}$ , F is linear function ..
+- strong convex ...
+- skip to 9.2 Descent method P463, our goal P467 convergence
+- dehydration evaporation  əˌvapəˈrāSH(ə)n
 
+#### new words:
+- analytically[anəˈlidik(ə)lē], optimality[opti Mality], iterative [ˈitəˌrātiv]
+- basket, bracket, parenthesis. [brakit], [ˈbaskit], [pəˈrenTHəsis]
+- The curled inequality symbol
+[kərl-d]: form or cause to form into a curved or spiral shape.
+- our notation deviates a bit from the standard notation. /ˈdiːvɪeɪt/: depart from an established course.   activate [Ac ti vate]
 
 
 

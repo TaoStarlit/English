@@ -1,3 +1,6 @@
+### 1101
+matrix, metric, merit:   ˈmātriks ; ˈmetrik ; ˈmerit
+
 ### 1031
 ###### the photos:
 rosy clouds, evening glow
@@ -5,7 +8,7 @@ social media,
 sentence fill-ins  / fill-in-blank
 measure your accuracy, and give you the score
 exhibition of innovation and entrepreneurship [ˌäntrəprəˈnərˌSHip]
-treat the scholars by a grand banquet/feast
+treat the scholars by a grand banquet/feast    ; take out,
 drone, unmanned aerial vehicle.   [ˈe(ə)rēə]
 
 mountain villa [ˈvilə]  health/medical examination,  retreat of the parents of old former president
