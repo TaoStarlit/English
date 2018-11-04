@@ -1,3 +1,23 @@
+# 1104
+- Crack a case.  It is an analogy/metaphor that a case is like an oyster. To investigate inside, we should see from the crack of the shell.
+- crash:  the software crash. the car crashed on the column.
+- crush: he crushed instant noodle because it is unhealthy. I usually refer the name of a pokemon to an animal.
+
+### 1103
+carving, sculpture, curve, curl, curse, shelf;
+[ˈkärviNG] [kərl]  [kərv]  [kərs]
+bread, beard, break. golf green/hole;
+[bred], [bi r d], [brāk]
+doggy, decent
+
+dominant; domestic, wild animal; domestic, international student
+
+
+communist society/ capitalist society.  my view people who have many assets.  
+capitalism: freedom market v.s. communism: the planned economy. 
+reform and open: the 1st step
+capitalism, peasant - small farmer
+
 ### 1101
 matrix, metric, merit:   ˈmātriks ; ˈmetrik ; ˈmerit
 

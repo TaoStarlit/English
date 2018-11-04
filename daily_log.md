@@ -184,11 +184,34 @@ noisy, shoatage, imbalance, transfer: what is the relation and novelty.  old pro
 |-------|-------|-------|-------|-------|-------|-------|
 Fri 1102|discuss convergance with boss|~|assigment|convex|convex|CV
 |output|the list|deviate to news..|submitted|LT:
-|next|
+|next|book+ a link|xx|yes|yes|next time, discussion ! make appointment! and draft
 
 
 https://www.seek.com.au/job/37385464?type=standard
 lea
 
-learning from xin yao to edit your CV: 
+1. learning from xin yao to edit your CV: 
 so many rewards, leading role.  supervior role.
+
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+Sat 1103|convex|~|!
+|output|good|
+|next|in the convex book+LT|~|~|you must your self-disipline next time!!
+
+
+|time   |1.1    |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+Sun 1104|travel|~|~|~|rich|~|backtracking line searsh
+|output|flatmate|~|~|~|~|step 7. your hero; step 8 teaching and giving|backgradient
+
+1. good atmosphere help to learn and communicate
+2. you should show your self-displine
+
+
+|time   |1.1  8:30-9:00 |1.2    |2.1    |2.2    |3.1    |3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+|Mon 1104|a problem on R^2|
+|output|note in the pdf|

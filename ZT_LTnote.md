@@ -374,16 +374,49 @@ to avoid the inner loop iteration, Xu introduce an alternative gate function: I 
 - Analytic center of linear inequalities $-\sum_{i=1}^m\log(b_i-a_i^Tx_i)$
 - Analytic center of a linear matrix inequality $\log\det F(x)^{-1}$ , F is linear function ..
 - strong convex ...
+### 9.2 descent method
 - skip to 9.2 Descent method P463, our goal P467 convergence
-- dehydration evaporation  əˌvapəˈrāSH(ə)n
+- two step: determine search direction; (line search) and choose step size
+    - The constant α can be interpreted as the **fraction** of the decrease in f predicted by linear extrap- olation that we will accept.
+### 9.3 gradient descent method:
+- a natural choice for search direction is $\Delta x = - \nabla f$ (some artificial Z road is not good here, eg. descent toward the cliff is small than along the road, but after reaching the cliff, it is descent quicker)
+### 9.3.1 Convergence analysis
+1. assume f is strongly convex on S, so there exist a M and such that $mI\curlyeqprec\nabla^2f(x)\curlyeqprec MI$ for all $x\in S$
+2. define $\bar f:R \to R$ 
+### 9.3.1 Examples
+1. a problem on $R^2$, the variables are only $x_1, x_2$. but with a parameter $\gamma$. get the form of $f(x^{(k)})$ (because we know $p^*$ is 0, so the analysis is much easy). vary $gamma$. The error is reduce by a factor of xx,  the literation k required is xx, to obtain $f(x^{(k)})-p^*\leq \epsilon$
+2. a non-quadratic problem
+3. a problem in $R^2$, .... for the parameter $\alpha, \beta$, fixing $beta$, vary $\alpha$ from 0.05 to 0.5. get to the $\alpha$.  Then fix the $\alpha$ we get, vary the $\beta$
 
+#### question:
+1. difference between $\Delta x$ and $\nabla f$
+    - $\Delta x$ is called search direction, eg. Quadratic function $y=x^2+1$, when $p=(1,2)$, $\Delta x$ is supposed to be <0, and -1 is the best.
+    - $\nabla f$ is the differential of $f$. the same, $\nabla f=2$ on $p=(1,2)$
+    - so we can see $(\nabla f)^T\Delta x=-2<0$
+2. is it $\Delta x = - \nabla f$?
+    - yes
+    - but in choosing the $t$ (line search step), we also need both of them!!
+        - the extraporation of f: $f(x)+t\Delta f(x)^T\Delta x$ (tangent), if it is lower than $f(x+\Delta x)$, than t must be reduce -- prevent over shoot
+  
 #### new words:
+- ˈfrakSHən: a numerical quantity is not a whole number (eg.1/2, 0.5)
 - analytically[anəˈlidik(ə)lē], optimality[opti Mality], iterative [ˈitəˌrātiv]
 - basket, bracket, parenthesis. [brakit], [ˈbaskit], [pəˈrenTHəsis]
 - The curled inequality symbol
 [kərl-d]: form or cause to form into a curved or spiral shape.
 - our notation deviates a bit from the standard notation. /ˈdiːvɪeɪt/: depart from an established course.   activate [Ac ti vate]
-
+- temporary, temperate, temptation
+    - [ˈtempəˌrerē], [ˈtemp(ə)rət], [tem(p)ˈtāSHən]
+        1. of, relating to, or denoting a region or climate characterized by mild temperatu     res.
+        2. The temperate climate has mild to warm summers and cool winters.
+        3. synonyms: mild, clement
+    - [tem(p)ˈtāSHən]
+        1. a desire to do something, especially something wrong or unwise.
+        2. he resisted the temptation to call Celia at the office
+        3. synonyms: desire, urge, itch
+1. extrapolation: [ikˌstrapəˈlāSH(ə)n]
+    - the action of estimating or concluding something by assuming that existing trends will continue or a current method will remain applicable.
+1. dehydration evaporation  [əˌvapəˈrāSH(ə)n]
 
 
 
