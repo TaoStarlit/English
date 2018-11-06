@@ -1,7 +1,12 @@
+# 1105
+- Water kettle, water jam, water pot;  cotton[ˈkätn] flower, sheep wool, curtain [ˈkərtn]
+
 # 1104
 - Crack a case.  It is an analogy/metaphor that a case is like an oyster. To investigate inside, we should see from the crack of the shell.
 - crash:  the software crash. the car crashed on the column.
-- crush: he crushed instant noodle because it is unhealthy. I usually refer the name of a pokemon to an animal.
+- crush: he crushed instant noodle because it is unhealthy. I usually refer the name of a pokemon to an animal.    
+
+- cronulla peninsula
 
 ### 1103
 carving, sculpture, curve, curl, curse, shelf;

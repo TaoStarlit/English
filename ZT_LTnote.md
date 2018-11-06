@@ -367,7 +367,8 @@ to avoid the inner loop iteration, Xu introduce an alternative gate function: I 
 - the general convex quadratic minimization problem has this form $\min(1/2)\mathbf{x^TPx+q^Tx}+r=\\ \quad 0.5P_{11}x_1^2+P_{12}x_1x_2+0.5P_{22}x_2^2+q_1x_1+q_2x_2+r$, where $\mathbf{P\in S_+^n, q\in R^n}, r\in R$
     - optimality function: $Px^*+q=0$, if $P\curlyeqsucc 0$, then has solution, $x^*=-P^{-1}q$ 
     - if P is does not have any solution, then the problem is unbounded below. 
-- least-squares problem (special case of quadratic problem): $\|\mathbf{Ax-b}\|_2^2={x^T(A^TA)x}-2(A^Tb)^Tx+b^Tb$ - I confused about the Transposed Matrix (transverse =horizontal: a transverse beam supports the dashboard)
+- least-squares problem (special case of quadratic problem): $\|\mathbf{Ax-b}\|_2^2={x^T(A^TA)x}-2(A^Tb)^Tx+b^Tb$
+    - I confused about the Transposed Matrix (transverse =horizontal: a transverse beam supports the dashboard)
     - $P=A^TA, q=2(A^Tb)^T$, 
     - so the optimality conditions $A^TAx^*+(A^Tb)=0$ are called the *normal equations* of the least-squares problem.
 - Unconstrained geometric programming $\log(\sum_{i=1}^m\exp(a_i^Tx_i+b_i))$
@@ -387,6 +388,16 @@ to avoid the inner loop iteration, Xu introduce an alternative gate function: I 
 1. a problem on $R^2$, the variables are only $x_1, x_2$. but with a parameter $\gamma$. get the form of $f(x^{(k)})$ (because we know $p^*$ is 0, so the analysis is much easy). vary $gamma$. The error is reduce by a factor of xx,  the literation k required is xx, to obtain $f(x^{(k)})-p^*\leq \epsilon$
 2. a non-quadratic problem
 3. a problem in $R^2$, .... for the parameter $\alpha, \beta$, fixing $beta$, vary $\alpha$ from 0.05 to 0.5. get to the $\alpha$.  Then fix the $\alpha$ we get, vary the $\beta$
+### 9.4 steep descent
+1. 1) compute the steep descent $\Delta x_{sd}$;  2) choose a step size $t$
+2. previously, 9.2 1) $\Delta x$, 2) 5; 9.3 1)$\Delta x=\nabla f(x)$ 2)$t$.   For line search: $t=argmin_{s\geq0}f(x+s\Delta x$;  For backtracking(反向跟踪, 回溯), alpha is the faction of descent in f predicted by linear extrapolation that we can accept. If the by the alpha prediction, it still go too much ($f(x+t\Delta x)$ rises again, then reduce the $t=\beta t$.
+3. so what is the differnce between $\Delta x_{sd}$ and $-\nabla f(x)$
+    1. the notation is different but what is this optimization $\Delta x=argmin_v\{\nabla f(x)^T v| \|v\|=1\}$, I think $x_sd$ will still be the same direction of $-\nabla f(x)$, but this time, it is the intersation of the unit ball.   non-normalization is in the unit ball, changing $=1$ to $\leq 1$.  but it coincides $-\nabla f(x)$ in Euclidean norn
+    2. now i find why normalization is translated as Guiyihua, because $\|x\|=1$ is calculated by norm.
+### 9.4.1 Euclidean norm and Quadratic norm
+1. in Euclidean norm the steep descent method coincides with gradient descent method. 
+2. quadratic norm: with a pre-defined positive symmetric matrix P, $\|x\|_P=(x^TPx)^{1/2}=\|P^{1/2}z\|_2$  . it is like a ellipsoid [iˈlipsoid] (ellipse[iˈlips]).  https://see.stanford.edu/materials/lsoeldsee263/15-symm.pdf 
+
 
 #### question:
 1. difference between $\Delta x$ and $\nabla f$
@@ -415,7 +426,7 @@ to avoid the inner loop iteration, Xu introduce an alternative gate function: I 
         2. he resisted the temptation to call Celia at the office
         3. synonyms: desire, urge, itch
 1. extrapolation: [ikˌstrapəˈlāSH(ə)n]
-    - the action of estimating or concluding something by assuming that existing trends will continue or a current method will remain applicable.
+    - the action of estimating or concluding something by assuming that existing trends will continue or a current method will remain applicable.  $f(x+\Delta x)$
 1. dehydration evaporation  [əˌvapəˈrāSH(ə)n]
 
 

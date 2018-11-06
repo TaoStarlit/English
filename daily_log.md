@@ -211,7 +211,17 @@ Sun 1104|travel|~|~|~|rich|~|backtracking line searsh
 2. you should show your self-displine
 
 
-|time   |1.1  8:30-9:00 |1.2    |2.1    |2.2    |3.1    |3.2    |
+|time   |1.1  8:30-9:00; 9:00-9:15 |1.2 10:10-11:20 steep descent   |1.3 11:35~13:00    |2.1 02:40-04:35 2hour ...|2.2 04:35 logic part, listen/read/reply|3.2    |
 |-------|-------|-------|-------|-------|-------|-------|
-|Mon 1104|a problem on R^2|
-|output|note in the pdf|
+|Mon 1104|a problem on R^2; independent note in LT|steep|back to paper|
+|output|note in the pdf, in LT|LT|Log_paper; | ananlysis
+|next|CV just ready|~|screen loss| the two important inquality|
+
+1. 9:15, so far the problem is only the level set. There are no training set, so it is not the classification or regression problem.   least-square regression is the also quadratic problem? so how is the classificatoin?
+    1. ans: yes, eg. problem with 100 variables can be also quadratic as the high power is 2. eg. $x_1^2,x_1,x_{99}, x_{99}^2$
+2. 9:15~10:10 eating, because you do the reading at the same time? next time XX.  close the wechat, if you do not communicate with surpervisor.  making the lunch  15 mius
+3. 10:10~11:20 steep descent
+4. morning, do as much as gradient as you can, but read the paper and organize the logic ASAP.  paper, and then steep gradient and newton method.  Steep first because it is related to gradient method. then paper, then newton
+5. when read the paper, I spend so many time to understand the notation, and the define. -- your note should cover this, then in the future, revisiting the paper is quite easy!!
+6. lunch + play is too long 1:40, + 10min rejuvenating my eyes!! today, no small sleep.
+7. ready the paper, is very very slow !! but I get the logic to write the analysis !!
