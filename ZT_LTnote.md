@@ -351,6 +351,35 @@ the gate has no analytical solution due to the non-linearity of softmax, so usin
 to avoid the inner loop iteration, Xu introduce an alternative gate function: I don't know why joint distribution can help get a analytical solution of the gate. 
 
 
+# PRML -- graph models -> directed graph model -> Bayesian network
+probabilistic graphical models: a graph comprises nodes (called vertices: represents a random variable or group of random variables) connected by links (also known as edges or arcs: express probabilistic relationship between these variables).
+
+- Bayesian networks: directed graphical models -- useful for expressing causal relationships between random variables
+- Markov random fields: undirected graphical models -- better suited to expressing soft constraints between random variables.
+
+## 8.1 Bayesian Networks
+I know the graph of $p(a,b,c)=p(c|a,b)p(a,b)=p(c|a,b)p(b|a)p(a)$ representing the joint probability distribution over 3 variables, corresponding to the decomposition of the RHS.  why LHS is symmetrical and RHS is not?
+
+$p(\mathbf x)=\Pi_{k=1}^Kp(x_k|pa_k)$ when x_1 is parent(grandparent) node, there are not $pa_1$ so factor of $x_1$ is only $p(x_1)$ 
+
+no directed cycles. Such graph are also called directed acyclic graphs or DAGs.
+
+### 8.1.1 Example: polynoimal regression
+what!! how is related to polynoimal regression $h(\mathbf x)=\sum_{k=1}^K x_k^k+b$,  (section 1.2.6)
+
+### to the neural works?
+But how this network work, and how it connects to generative model.
+- fully connected: if there is a link between every pair of nodes.
+- the absence of links in the graph that conveys interesting information about the properties of the *class* of distributions that the graph represents. 
+    - here, what is the distribution issue? 
+    - there are actually some absence between grandparent nodes and grandson nodes, whick look like the MLP (MultiLayer Perceptron) 
+    - 8.1.2 generative model
+
+
+
+
+
+
 # Express logically
 1. As for _issue_, I think _sb_ has explained clearly,
 

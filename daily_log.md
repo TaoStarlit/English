@@ -211,7 +211,7 @@ Sun 1104|travel|~|~|~|rich|~|backtracking line searsh
 2. you should show your self-displine
 
 
-|time   |1.1  8:30-9:00; 9:00-9:15 |1.2 10:10-11:20 steep descent   |1.3 11:35~13:00    |2.1 02:40-04:35 2hour ...|2.2 04:35 logic part, listen/read/reply|3.2    |
+|time   |1.1  8:30-9:00; 9:00-9:15 |1.2 10:10-11:20 steep descent   |1.3 11:35~13:00    |2.1 02:40-04:35 2hour ...|2.2 04:35-5:20 logic part, listen/read/reply|3.2    |
 |-------|-------|-------|-------|-------|-------|-------|
 |Mon 1104|a problem on R^2; independent note in LT|steep|back to paper|
 |output|note in the pdf, in LT|LT|Log_paper; | ananlysis
@@ -225,3 +225,23 @@ Sun 1104|travel|~|~|~|rich|~|backtracking line searsh
 5. when read the paper, I spend so many time to understand the notation, and the define. -- your note should cover this, then in the future, revisiting the paper is quite easy!!
 6. lunch + play is too long 1:40, + 10min rejuvenating my eyes!! today, no small sleep.
 7. ready the paper, is very very slow !! but I get the logic to write the analysis !!
+8. 04:35 - 05:20 40 min, only 1/4 the meeting record.
+9. eating and discussion. now is 9:00.
+
+
+
+|time   |1.1 7:00-8:30   |1.2 10:40  ~2.1 3:15  |2.2 03:30    |3.1|3.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+Tue 1106|listening report|paper(HanBo) report|PRML: bayes network|report, modify comments in bo paper, change to my 2 pages paper|
+|output|log_paper. clearly, as for|note + discuss with boss about the UCI data|slow, unhappy|~|
+|next|write the report|desige your experiment + shuowang|
+
+1. shuowang, all ensemble learning in the experiment.
+1. the book of ensemble methods
+1. don't be angry!! do your best first. don't let the world ruled by such bad guy. Specially, finished your report(main points), and 2 page pepers, send email + your questions.  
+   - and then what problem, you just need to list it logically. (how often you contact; his trick(drop); when give me suggestion(last hour), what is your sincere(100 vs 1); ) 
+   - Which one problem we should report bad guy? which one discuss directly. Which one together. 
+   - specific problem pill in the 2 page paper is better. !!!
+
+
+
