@@ -23,9 +23,9 @@
 
 ### write the paper:
 #### abstract
-1. problem & existing method
+1. problem & current situation
 2. what is wrong in the existing methods  -- (remind me of the meta-review of our paper : the reviewer said the idea of systhetic image is well-known.   
-3. specifically what is wrong, in what situation and progress.
+3. specifically what is wrong, in what situation and progress: SGD.
 4. now it is what we do: new mechanism, of robust SGD, named POSTAL, integrade CL with vanilla SGD -- it is also explicitly mention a well-known term what is that to make it clear, whichis like what i did previously.   is it different from the way I mentioned CVAE? 
 5. what is the inspiration: from progressive process, namely  easy-complex tasks.
 6. the inspiration maps to our idea -- this also show the difference: from easy to complex task --> reliable to noisy labels. 
@@ -58,7 +58,7 @@
 1. 11-15. the existing technique(SGD); eg. as application; variants; but have some problem: strong assumption of free of noise;
 2. 21-23. the techniuque that give inspiration(CL); how it work; but, this technique has not been applied into the update process of SGD for noisy labels. R24: claim the novelty using this inspiration
 3. 31-33. what is related to the loss function(contribution 2) in the implement part
-4. 41-44. other works deal with the problem noisy label: 1 2 3 4 has deficiency
+4. 41-44. other works deal with the problem noisy label: 1 2 3 4 has deficiency. not SGD(didn't put them in the basic line)
 #### PrOgressive STochAstic Learning
 O. how organize the writing about our method: prelimianry notations; mechanism; realization: design losses; derive the convergence rate; analyze the robustness
 A. Preliminary notations

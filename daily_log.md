@@ -241,7 +241,86 @@ Tue 1106|listening report|paper(HanBo) report|PRML: bayes network|report, modify
 1. don't be angry!! do your best first. don't let the world ruled by such bad guy. Specially, finished your report(main points), and 2 page pepers, send email + your questions.  
    - and then what problem, you just need to list it logically. (how often you contact; his trick(drop); when give me suggestion(last hour), what is your sincere(100 vs 1); ) 
    - Which one problem we should report bad guy? which one discuss directly. Which one together. 
-   - specific problem pill in the 2 page paper is better. !!!
+   - specific problems fill-in the 2 page paper is easier and well-worthy to undertand. !!!
+1. write the report spends much more time than you thought!!
+    - ivor's link: http://www.cs.princeton.edu/~ehazan/tutorial/tutorial.htm   slides about convex analysis/ convergence, but not about game.
 
 
 
+|time   |1.1    |1.2
+|-------|-------|-------|-------|-------|-------|-------|
+Web 1107|a script for 2 page paper|
+|output|whole day: 2-page paper, logic_mail, script
+|next|
+
+1. a scrip of 2 page paper
+2. ready, try to fix the
+3. mode score + inception score in GAN
+   1. a conditional label distribution $p(y|x)$ with low entropy -- meaningful object, that is classify correctly
+   2. the marginal $p(y|x = G(z))dz$ should have high entropy -- varied images
+   3. entroy: $H(p)=E[-\log p_i]=\sum_{i=1}^N-p_i\log p_i$
+   4. condition entroy $H(x|y)=\sum_{i=n}p_i(y)H(X|y=Y)=H(X,Y)-H(Y)$  --H(x,y) here is joint entropy, not cross entropy. if H(x,y)=0, mean the uncontainty of (x,y) is equal to y, that means  x is completely determined by the value of X.
+   5. cross entropy: $H(p,q)=-\sum_{i=1}^N p_i\log q_i = H(p)+KL(p\|q)$, if cross entropy minimized, the KL is minimize.   the log likelihood is maximized.
+
+
+
+# Thu 1109 
+1. consent matter training -- let's do it tomorrow
+2. quick reply Prof. Yao today
+3. High dimension-feature selection -- next topic -- see his metrics first (+ merits)  the ACM KDD, and the neural computation
+    1. metrics: f measure, AUC for binary classify
+    2. metrics: F1(BEP) f socre: accuracy not recall
+    3. term/category tuples --> metrics: information gain;  chi-square; correlation coefficients Odds ratio;  OR-square
+4. fix the qt plugin problem when using matplot.
+    1. the information reinstall this application -- be aware: application is not only VSCode, conda, python, but the plugin it selt is the application
+    2. search answer from stackoverflow: conda remove .. conda install --- complete!!
+
+
+% suffient feature selection
+@inproceedings{mladenic1999feature,
+  title={Feature selection for unbalanced class distribution and naive bayes},
+  author={Mladenic, Dunja and Grobelnik, Marko},
+  booktitle={ICML},
+  volume={99},
+  pages={258--267},
+  year={1999}
+}
+
+
+|time   |1.1    |1.2
+|-------|-------|-------|-------|-------|-------|-------|
+Thur 1108|ask boss about the high-dimension problem|fix the 2 page|
+|output|
+|next|
+
+
+
+|time   |1.1    |1.2
+|-------|-------|-------|-------|-------|-------|-------|
+|Fri 1109|modify the English of AdaBoost|Pami paper|PRML:Bayesian network|CL SPL|
+|output|temp.md|undirected graph + convengence|directed graph, conditonal probability|
+|next|+CL SPL|RPML|C5 Bayesian Neural Network,8.1.2 Generative Model|with AdaBoost|
+
+1. Bayesian Network here factorize the joint probability over K variable.  $p(\mathbf x)=\Pi_{k=1}^Kp(x_k|pa_k)$ -- Interpret: if only p(a) p(b), a depends on b, then p(b|a)p(a|b), as b doesn't depend on a p(b|a)=p(b)
+
+|time   |1.1    |1.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+|Sat 1110|8.1.2generative model in graph model|8.1.3 dicrete variable|
+|output|ascestral sampling|map back to one hot notation
+|next||
+
+1. $p(w|\mathbf t)\propto p(w)p(\mathbf t|w)=p(w)\Pi_{n=1}^N p(t_n|w)$  posterior is directly proportional to the joint probability = prior * conditional probability
+2. only learn the format no need for later
+
+
+|time   |1.1    |1.2    |
+|-------|-------|-------|-------|-------|-------|-------|
+|Sat 1112|PRML 8.1.3 discrete|DL 1 Algebra 20 generative model
+|output|seperate to different file
+|next||
+
+1. why the patition function is intractable? in chapter 20. come back to chapter 18. is it just $\propto$ then every thing is OK?
+2. make a note of reading boss's paper and then sent to boss
+
+
+[to flatmate1107](./flatmate.md#1107)

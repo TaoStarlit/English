@@ -293,7 +293,7 @@ $$\begin{array}{ll}
 - We can obtain a smoother density model if we choose a smoother kernel function, and a common choice is the Gaussian, which gives rise to the following kernel density model:  ~ where h represents the standard deviation of the Gaussian components. 
     - our density model is obtained by *placing a Gaussian over each data point*, and then adding up the contributions over the whole data set
     - and then dividing by N so that the density is correctly normalized.
-    - (to deal with the discontinuties of the k(\bf u) : we it close the point 1, far from 0, and exp(-x) is good and smooth! other parts are just for adding up and normalization).  recap: 1-D gaussian: $exp(-(x-u)^2/\2sigma^2)$  2-D gaussian: $exp((x-\mu)^T \Sigma^{-1}(x-\mu))$ if $\Sigma=diag(h^2)$
+    - (to deal with the discontinuties of the k(\bf u) : we it close the point 1, far from 0, and exp(-x) is good and smooth! other parts are just for adding up and normalization).  recap: 1-D gaussian: $exp(-(x-u)^2/2\sigma^2)$  2-D gaussian: $exp((x-\mu)^T \Sigma^{-1}(x-\mu))$ if $\Sigma=diag(h^2)$
     - now h act as a smooth parameter. Like the $\Delta$ in histogram model, if h set too small, the result is a very noisy density model (spiky, not present in the underly distribution that generated dada), whereas if it is set too large, if fail to capture the binmodal distribution. (the binmodal nature of the underly distribution is washed out). The best density model is obtained for some intermediate value of h.    --- trade-off between sensitivity to noise at small h and over-smoothing at large h.
 - any other function $k(\mathbf u)$ subject to the conditions: ~ which ensure that the resulting probability distribution is nonnegative everywhere and integrates to one.
 
@@ -337,9 +337,6 @@ base, exponent
 
 
 
-# only wechat message/ebay, no news post today!!
-
-
 
 # 1024  GP<-Gassian Kernel;  EM<-exponential familiy<-PRML chapter2
 GP: is about Gassian Kernel.
@@ -367,6 +364,11 @@ no directed cycles. Such graph are also called directed acyclic graphs or DAGs.
 ### 8.1.1 Example: polynoimal regression
 what!! how is related to polynoimal regression $h(\mathbf x)=\sum_{k=1}^K x_k^k+b$,  (section 1.2.6)
 
+1. Bayesian Network here factorize the joint probability over K variable.  $p(\mathbf x)=\Pi_{k=1}^Kp(x_k|pa_k)$ -- Interpret: if only p(a) p(b), a depends on b, then p(b|a)p(a|b), as b doesn't depend on a p(b|a)=p(b)
+1. $p(w|\mathbf t)\propto p(w)p(\mathbf t|w)=p(w)\Pi_{n=1}^N p(t_n|w)$  posterior is directly proportional to the joint probability = prior * conditional probability
+
+
+
 ### to the neural works?
 But how this network work, and how it connects to generative model.
 - fully connected: if there is a link between every pair of nodes.
@@ -374,10 +376,16 @@ But how this network work, and how it connects to generative model.
     - here, what is the distribution issue? 
     - there are actually some absence between grandparent nodes and grandson nodes, whick look like the MLP (MultiLayer Perceptron) 
     - 8.1.2 generative model
+### 8.1.2 Generative model
+ascestral sampling
 
+### 8.1.3 Discrete Varialbe
+1. map back to one hot
+2. From a graphical perspective, we have reduced the number of parameters by dropping links in the graph, at the expense of having a restricted class of distribution.
+3. shared parameter: Dirichlet priors
 
-
-
+## 16 combined model
+in temp
 
 
 # Express logically
@@ -476,4 +484,12 @@ But how this network work, and how it connects to generative model.
 I tried to make an analyse and plan and get some support from the you sincerely. are supposed to give such feedback, as well as attack me (i didn't mention the icml and nips, when listing other conferences and journals. But)
 
 
+
+
+# Deep learing
+## Chapter 2 Linear Algebra
+Tensors: (matrix: 2 axies array), in some case we will need a array with more than 2 axes.. In the generative case, an array of numbers arranged on a regular grid with a variable number of axes is known as a tensor. 
+
+### 2.2 Multiplying Matrices and Vectors
+matrix mlutiplication is distributive; also  associativie; Matrix multiplication is not commutative (the conditoin AB=BA does not always hold), unlike scalar mutiplication. However, the dot product between two vectors is commutative.
 

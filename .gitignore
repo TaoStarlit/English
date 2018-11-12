@@ -1,0 +1,5 @@
+*.pdf
+*/*.pdf
+supervisor*
+logic*
+!logic_paper.md

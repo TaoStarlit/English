@@ -1,3 +1,46 @@
+# 1112
+parenthesis, bracket
+
+[to 1107](#1107)
+# 1111
+desire to eat: appetite [ˈapiˌtīt]
+food scientists: dietitian [ˌdī-iˈtiSHən], nutritionist[n(y)o͞oˈtriSH(ə)nist]
+neither large not small: moderate
+serving: portions (a part of a whole; an amount, section, or piece of something.)
+missing out on: skipping
+limit: curb [kərb]
+
+eg.  be sure to eat regularly if you want to curb your appetite;  
+eg. eat plenty of fruit and vegetables. These contain vital nutrients and leading dietitians recommend eating at least two servings of fruit and three of vegetables every day. 
+eg. Eat moderate portions and don't be tempted to order a large size when eating out.
+
+Corey said high person can of kind of intimidating.
+last night, I felt thirsty.
+
+# 1110
+ceramic [səˈramik] plate/bowl/dish, contructive suggestion;
+Keep up with Bowser. When you near the corner catch up with him, then overtake him in the corner. 
+
+have constituted a violation of their sexual autonomy and dignity
+
+
+I believe if we can integrate these messages into our cultural narratives, we can reshape our society’s sexual focus from that of negation to that of consent and mutual respect. 
+
+Boys will grow up actively soliciting consensual language, and girls will feel comfortable actively providing it.
+
+
+# 1109
+myopia, hyperopia; digital pad, C button, analog stick 
+
+# 1108 
+merits, metrics
+[merits], [ˈmetriks]
+
+# 1107
+penetrate [ˈpeniˌtrāt] ceiling [ˈsēliNG], [siˈment] waterproof material like cement to fix the threshold [ˈTHreSHˌ(h)ōld]
+
+AUCTION
+
 # 1105
 - Water kettle, water jam, water pot;  cotton[ˈkätn] flower, sheep wool, curtain [ˈkərtn]
 
@@ -561,3 +604,6 @@ I cannot avoid a feeling of bitter resentment towards your informers, whoever th
   1. the western flute is more sophisticated than bamboo flute.
   1. he get so many certificate during university and working.
   1. this flavor is salty.
+
+
+
